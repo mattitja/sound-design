@@ -34,10 +34,10 @@
 
 #### A) 4 ADSR-Varianten (Amp-Envelope)
 
-- A1 **Pluck:** Attack 0, Decay kurz, Sustain 0, Release kurz
-- A2 **Stab:** Attack 0, Decay kurz, Sustain mittel/hoch, Release kurz
-- A3 **Soft Lead:** Attack 20–40 ms, Decay mittel, Sustain mittel, Release 150–300 ms
-- A4 **Pad:** Attack 150–300 ms, Decay lang, Sustain hoch, Release lang
+- A1 **[[Pluck]]:** Attack 0, Decay kurz, Sustain 0, Release kurz
+- A2 **[[Stab]]:** Attack 0, Decay kurz, Sustain mittel/hoch, Release kurz
+- A3 **[[Soft Lead]]:** Attack 20–40 ms, Decay mittel, Sustain mittel, Release 150–300 ms
+- A4 **[[Pad]]:** Attack 150–300 ms, Decay lang, Sustain hoch, Release lang
 
 #### B) 3 Filter-Bewegungen (pro ADSR-Variante)
 

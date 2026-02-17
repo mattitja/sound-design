@@ -39,9 +39,3 @@ Neben ADSR gibt es auch andere Envelope-Formate:
 - **Multi-Segment Envelopes:** Komplexe Hüllkurven mit vielen frei definierbaren Punkten
 
 Durch das Verständnis und die kreative Nutzung von Envelopes lässt sich die Dynamik und der Charakter von Synthesizer-Sounds präzise formen.
-
-[Experiment 001 – ADSR & Filter](Experiment%20001%20–%20ADSR%20&%20Filter.md)
-
-[Filter](Filter.md)
-
-[Oszillatoren](Oszillatoren.md)
