@@ -31,6 +31,8 @@ Einträge kommen aus Track-Arbeit oder Referenz-Analysen — Theorie-Hintergrund
 
 ## Rhythmus & Groove
 
+**Intra-Takt Timing-Versatz Instrument/Vocal** (→ [[Envelopes]]): Melodisches Hauptelement startet laut am Taktanfang, Vocals setzen verzögert im Takt ein → beide konkurrieren nicht für denselben Moment; ermöglicht gleichzeitig präsentes Instrument + präsente Vocals ohne Lautstärke-Kompromiss; erzeugt leichten Call-and-Response-Charakter ohne echtes Call-and-Response-Arrangement
+
 **Percussion-Phrasen-Varianz** (→ [[LFO]]): Sparse Percussion-Pattern alle 4 Takte mit kleiner Höhen-Varianz (z.B. extra Güira-Schläge) abschließen → signalisiert dem Hörer unbewusst den Phrasen-Übergang ohne ein neues Element einzuführen
 
 **Clap-Eskalation innerhalb des Drops** (→ [[Envelopes]]): Erste Drop-Hälfte Clap auf 2+4, zweite Hälfte auf 1+2+3+4 → steigert Energie und Dichte innerhalb des Drops ohne neues Element; lässt den Drop größer wirken als er ist

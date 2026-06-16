@@ -13,6 +13,10 @@
 
 **Roter Faden:** Alle Produktionsentscheidungen dienen einem Ziel — den Sample-Charakter pro Section anders erfahrbar machen, ohne den Hook zu verändern. Das Sample bleibt immer dasselbe. Der Kontext verändert es.
 
+**Vocal-Arc:** Verse = Stimme im Fokus, Piano im Hintergrund (runtergepitcht). Build-up = Stimme wabernd/freirumfliegend, Piano kommt räumlich/spektral (nicht dynamisch). Drop = Piano ist King, Vocals nur noch Fragment-Beiwerk. Der Text erzählt dieselbe Geschichte: beschreiben → wünschen → Sprache reicht nicht mehr.
+
+**Warum Piano + Vocals ko-existieren können:** Das Piano-Sample hat seinen lautesten Moment am Taktanfang. Die Vocals setzen verzögert ein — nach den ersten Piano-Schlägen. Dadurch konkurrieren sie nicht für denselben Moment im Takt. Fast Call-and-Response, aber nicht wirklich — eher rhythmischer Versatz der beiden Elementen gleichzeitig Raum gibt (→ Playbook).
+
 **Identität:** Latin-Percussion (Bongos, Güira) + eigene Vocals mit Auto-Tune-Vibe als persönliche Schicht. Alles drumherum ist Club House — das Piano und die Vocals sind was den Track von Standard-House unterscheidet.
 
 ---
