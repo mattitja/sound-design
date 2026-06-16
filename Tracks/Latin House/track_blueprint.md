@@ -86,18 +86,22 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 ## Build-up 1 (33–40)
 
-- **Kick:** Takt 33–38 normal 4/4; ab Takt 39 Dichte 8tel; Takt 40 erste Hälfte 16tel; zweite Hälfte: Stille (→ Playbook)
+- **Kick:** Takt 33–38 normal 4/4; ab Takt 37 HP-Filter ✅; ab Takt 39 Dichte 8tel; Takt 40 erste Hälfte 16tel; zweite Hälfte: Stille (→ Playbook)
 - **Bass / Sub:** stumm (→ Playbook)
-- **Piano:** originales Sample — identisch zu Drop 1, kein eigener Charakter
+- **Piano:** Reverb Washout ab Takt 37, Takt 40 hart gecutten ✅
 - **Vocals:** anderes Sample als Strophe
 - **Percussion:** Bongos weiter; Güira stumm
-- **FX & Hats:** Riser + Snare-Roll — *noch offen / nicht bestätigt*
+- **FX & Hats:** Riser + Snare-Roll — *noch offen*
 
 > [!success] Gelöst
-> - Piano vs. Drop Kontrast: Reverb Washout (Option A) ✅
+> - Piano vs. Drop Kontrast: Reverb Washout ✅
+> - HP-Filter auf Kick ab Takt 37 ✅
 
-> [!warning] Noch offen
-> - HP-Filter auf Kick (Plan ab Takt 37) nicht umgesetzt
+> [!warning] Noch offen / Ideen für mehr Fett
+> - Riser (White Noise oder Synth, 8 Takte) — größter Impact
+> - Snare Roll ab Takt 38, eskalierend
+> - Basic Strings ab Takt 37 sehr leise einblenden (Pad-Swell vor Drop)
+> - Bongos ab Takt 37 leicht anschieben (+2–3 dB Automation)
 
 - **Vocals:** „deins ist es auch" fällt genau in die Stille des halben Takts vor dem Drop → sät den Drop-Hook im letzten Moment ein, macht die Wiederholung im Drop logisch und emotional (→ Playbook)
 
