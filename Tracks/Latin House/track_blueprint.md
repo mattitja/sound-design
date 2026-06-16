@@ -85,9 +85,11 @@
 > - Piano zu nah am Original-Sample, zu wenig bearbeitet
 
 > [!tip] Ideen Piano Drop
-> - Saturator / leichte Distortion → mehr Schmutz, mehr Durchsetzung im Mix
-> - Sidechain zur Kick (→ Playbook) → Club-Pumpen, Piano weicht der Kick
+> - Saturator / Tape Distortion (→ Playbook) → mehr Obertöne, mehr Grit, mehr Durchsetzung
+> - Sidechain Kick→Piano (→ Playbook) → Club-Pumpen, Piano weicht der Kick rhythmisch
 > - Cutoff komplett offen lassen → Kontrast zur gefilterten Strophe + Build-up
+> - Reverb trocken halten (→ Playbook) → Drop klingt direkt und nah, Kontrast zum nassen Build-up
+> - Piano mono summen (→ Playbook) → mehr Punch in der Mitte; Stereo dem Pad überlassen
 
 ---
 
@@ -98,6 +100,10 @@
 - **Piano:** original, ohne Verzerrung, leiser im Hintergrund
 - **Percussion:** Güira zurück, etwas Platz; Bongos grooven
 - **FX & Hats:** Claps + Hats auf mittlerer Lautstärke
+
+> [!tip] Ideen Piano — Differenzierung zu Strophe 1
+> - Auto-Pan sync (→ Playbook) → Piano wandert im Stereofeld im Takt; gibt dem identischen Sample eine neue Dimension
+> - Phaser / Flanger subtil (→ Playbook) → leichte Bewegung im Timbre, macht den 4-Takt-Loop lebendiger
 
 ---
 
@@ -120,6 +126,9 @@
 - **Piano:** wie Drop 1
 - **Percussion:** wie Drop 1
 - **FX & Hats:** wie Drop 1
+
+> [!tip] Ideen Piano — Differenzierung zu Drop 1
+> - 8tel-Delay sync dazuschalten (→ Playbook) → jeder Akkord-Hit bekommt rhythmischen Echo; lässt Loop größer wirken ohne neues Element
 
 ---
 
@@ -150,6 +159,10 @@
 - **Piano:** wie Drop 1+2
 - **Percussion:** wie Drop 1+2 + Tamburin/Shaker über 10 kHz als Zusatzelement
 - **FX & Hats:** wie Drop 1+2, maximale Dichte
+
+> [!tip] Ideen Piano — Differenzierung zu Drop 1+2
+> - Oktave drüber layern (leise) (→ Playbook) → mehr Brillanz und Größe ohne Charakter zu verändern
+> - 8tel-Delay + Oktave-Layer kombiniert → maximale Dichte, passend zum finalen Drop
 
 ---
 

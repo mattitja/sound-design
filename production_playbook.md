@@ -17,6 +17,10 @@ Einträge kommen aus Track-Arbeit oder Referenz-Analysen — Theorie-Hintergrund
 
 **Piano-Sidechain zur Kick** (→ [[Compressor]]): Piano mit hartem Sidechain-Kompressor gegen die Kick → erzeugt Club-Pumpen, drückt Piano im Rhythmus weg und wieder rein; gibt Drop Energie ohne Frequenz-Konkurrenz
 
+**Saturator auf Sample-Piano im Drop** (→ [[Distortion]]): Tape Saturation / Saturator auf Piano-Sample legen → fügt Obertöne hinzu, macht Sample dreckiger und durchsetzungsfähiger im Mix ohne Lautstärke zu erhöhen
+
+**Piano mono summen im Drop** (→ [[Compressor]]): Piano-Stereo auf Mono summen oder Mid stark betonen → mehr Punch in der Mitte, bessere Club-Kompatibilität; Stereobreite dem Pad-Layer überlassen
+
 ## Arrangement & Struktur
 
 **Oktav-Trick (Strophe)** (→ [[Oszillator]]): Melodie-Sample um 1 Oktave nach unten pitchen + dezent filtern → melancholischerer, druckvoller Charakter; erzeugt emotionale Differenz zwischen Strophe und Drop ohne neues Element
@@ -36,6 +40,16 @@ Einträge kommen aus Track-Arbeit oder Referenz-Analysen — Theorie-Hintergrund
 ## Raumgefühl & Psychoakustik
 
 **Gestreckes Vocal-Sample als Texture-Layer** (→ [[Effekte]]): Eigenes Gesangssample über eine ganze Section strecken + Auto-Tune → erzeugt atmosphärische Tiefe und persönliche Identität ohne melodische Konkurrenz zum Hauptelement
+
+**Reverb Raum-Kontrast Build-up vs. Drop** (→ [[Reverb]]): Build-up-Piano nass (viel Reverb), Drop-Piano trocken → Drop klingt direkt, nah und physisch; Build-up klingt groß und entrückt; starker psychoakustischer Kontrast ohne Arrangement-Änderung
+
+**8tel-Delay sync auf Piano** (→ [[Delay]]): Piano-Delay auf 8tel-Note synchronisiert → jeder Akkord-Hit erzeugt rhythmischen Echo; gibt einem statischen Loop Tiefe und Größe; gut als Eskalation zwischen Drop 1 und Drop 2
+
+**Auto-Pan sync auf Piano** (→ [[Chorus]]): Piano-Signal mit tempo-synchronisiertem Auto-Pan belegen → Piano wandert rhythmisch im Stereofeld; gibt identischem Sample in Section 2 eine neue räumliche Dimension
+
+**Phaser / Flanger für Piano-Animation** (→ [[Phaser]]): Subtiler Phaser oder Flanger auf Piano-Sample → erzeugt Timbre-Bewegung im statischen Loop ohne das Sample zu verändern; gut für Strophen-Variation
+
+**Oktave-drüber-Layer** (→ [[Oszillator]]): Piano-Sample eine Oktave höher pitchen und leise unter Original mischen → mehr Brillanz und wahrgenommene Größe; kaum hörbar als eigenes Element, spürbar als Gesamteindruck
 
 ## Spannung & Release
 
