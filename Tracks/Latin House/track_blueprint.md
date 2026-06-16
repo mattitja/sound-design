@@ -7,6 +7,16 @@
 
 ---
 
+## Charakteristik
+
+**Zentrales Element:** „Piano Merengue Latin Bouncing"-Sample — 4 Takte, wechselt jeden Takt zwischen Bm (B–D–F#) und Bbm (Bb–Db–F#). Halbtonschritt im Root, hammend gespielt. Harmonisch ungewöhnlich für Club House — das ist Salsa/Merengue-Harmonik. Genau das macht den Track stark.
+
+**Roter Faden:** Alle Produktionsentscheidungen dienen einem Ziel — den Sample-Charakter pro Section anders erfahrbar machen, ohne den Hook zu verändern. Das Sample bleibt immer dasselbe. Der Kontext verändert es.
+
+**Identität:** Latin-Percussion (Bongos, Güira) + eigene Vocals mit Auto-Tune-Vibe als persönliche Schicht. Alles drumherum ist Club House — das Piano und die Vocals sind was den Track von Standard-House unterscheidet.
+
+---
+
 ## Intro Pt. 1 (1–8)
 
 - **Kick:** 4/4-Beat durchgängig — Splice Latin House Package
