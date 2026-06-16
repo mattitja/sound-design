@@ -17,6 +17,26 @@
 
 ---
 
+### Songtext
+
+**Verse 1 + 2**
+Plätschernde Füße, Zehen voll Sand
+Dös auf der Liege, Drink in der Hand
+Wolln nicht nach Hause, wolln noch nicht gehn
+Du bleibst noch ein bisschen? Tut doch nicht weh
+
+**Build-up**
+Ich will noch nicht heim, die Zeit bleibt stehn
+Rieche den Duft von Sonnencreme
+Ich fühle die Wärme auf meinem Bauch
+Mein Glas ist noch voll, und deins ist es auch
+
+**Drop**
+deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
+*(verschiedene Snippets geschnitten)*
+
+---
+
 ## Intro Pt. 1 (1–8)
 
 - **Kick:** 4/4-Beat durchgängig — Splice Latin House Package
