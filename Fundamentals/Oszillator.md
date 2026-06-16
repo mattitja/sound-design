@@ -1,3 +1,13 @@
+---
+title: Oszillator
+category: Synthese
+difficulty: Grundlagen
+status: In Arbeit
+type: Knowledge
+aliases: [Oszillatoren, Oscillator]
+tags: [sounddesign, synthesis, oscillator]
+---
+
 # Oszillatoren im Sound-Design
 
 Oszillatoren sind die grundlegenden Klangerzeugungseinheiten in der Synthesizer-Technologie und bilden das **Herzstück** jedes elektronischen Sounds.
@@ -27,7 +37,7 @@ Oszillatoren sind die grundlegenden Klangerzeugungseinheiten in der Synthesizer-
 
 ## Anwendungsbereiche
 
-- **Subtraktive Synthese:** Oszillatoren erzeugen obertonreiche Signale, die dann durch [Filter](Filter.md) geformt werden
+- **Subtraktive Synthese:** Oszillatoren erzeugen obertonreiche Signale, die dann durch [[Filter]] geformt werden
 - **FM-Synthese:** Oszillatoren modulieren einander für metallische, glockenartige Klänge
 - **Additive Synthese:** Mehrere Sinuswellen-Oszillatoren werden kombiniert
 - **Sound-Design:** Basis für Pads, Leads, Bässe und Effekte
@@ -37,7 +47,7 @@ Oszillatoren sind die grundlegenden Klangerzeugungseinheiten in der Synthesizer-
 Oszillatoren können durch verschiedene Quellen moduliert werden:
 
 - **LFO (Low Frequency Oscillator):** Langsame Modulation für Vibrato, Tremolo oder rhythmische Effekte
-- [**Envelope](Envelopes.md):** Zeitbasierte Modulation der Tonhöhe (Pitch Envelope)
+- **[[Envelopes]]:** Zeitbasierte Modulation der Tonhöhe (Pitch Envelope)
 - **Velocity:** Spielstärkeabhängige Kontrolle
 - **Modulation-Wheel:** Manuelle Echtzeitkontrolle
 
@@ -50,4 +60,4 @@ Oszillatoren können durch verschiedene Quellen moduliert werden:
 
 ## Zusammenspiel mit Filtern
 
-Oszillatoren und [Filter](Filter.md) arbeiten eng zusammen: Während Oszillatoren das Rohmaterial erzeugen, formen Filter den Klang durch gezielte Frequenzbearbeitung. Diese Kombination bildet die Grundlage der subtraktiven Synthese.
+Oszillatoren und [[Filter]] arbeiten eng zusammen: Während Oszillatoren das Rohmaterial erzeugen, formen Filter den Klang durch gezielte Frequenzbearbeitung. Diese Kombination bildet die Grundlage der subtraktiven Synthese.

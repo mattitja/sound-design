@@ -24,13 +24,14 @@ Reine Theorie. Kein "wann einsetzen", kein Produktionskontext. Nur: "Was ist X, 
 
 Themen: Wellenformen, Filter, Envelopes, LFOs, Effekte, Modulationen, Synthesemethoden.
 
-Optionales Frontmatter:
+Pflicht-Frontmatter (jede Datei in Fundamentals/):
 ```yaml
 title: Name
-category: z.B. Synthese
+category: z.B. Synthese | Effekte | Modulation
 difficulty: Grundlagen | Fortgeschritten | Expert
 status: Zu lernen | In Arbeit | Fertig
 type: Knowledge
+aliases: [alternative Namen, falls sinnvoll]
 tags: [sounddesign, synthesis, ...]
 ```
 
@@ -83,6 +84,38 @@ Claude agiert als analytischer Co-Producer und Methodik-Coach. Interaktions-Loop
 4. **Optionen** — bei kritischen Parts A/B/C-Varianten anbieten, bevor Blueprint aktualisiert wird
 
 **Tonalität:** direkt, präzise, auf Augenhöhe. Fokus immer auf Lerneffekt und Übertragbarkeit auf zukünftige Tracks. Keine ausschweifenden Erklärungen.
+
+---
+
+## Obsidian-Konventionen
+
+Alle Inhalte werden in **Obsidian** angezeigt. Diese Regeln gelten beim Schreiben:
+
+### Links
+- **Immer Wiki-Links** `[[Dateiname]]` für interne Verlinkung — niemals relative Markdown-Links `[text](pfad.md)`
+- Angepasster Linktext: `[[Dateiname|Anzeigetext]]`
+- Kein expliziter "Links"-Abschnitt am Dateiende nötig — Obsidian zeigt Backlinks automatisch. Forward-Links im Fließtext sind aber erwünscht.
+
+### Callouts für strukturierte Blöcke
+Statt reiner Fetttext-Abschnitte Obsidian-Callouts verwenden:
+```
+> [!info] Merksatz
+> Inhalt
+
+> [!example] Experiment
+> Inhalt
+
+> [!tip] Tipp
+> Inhalt
+
+> [!warning] Achtung
+> Inhalt
+```
+
+### Konsistenz-Regeln
+- Frontmatter ist **Pflicht** in allen `Fundamentals/`-Dateien (nicht optional)
+- Nummerierte Abschnitte (`## 1)`, `## 2)` …) als Standard-Gliederung
+- Experimente als `> [!example]`-Callout, nicht als Fließtext-Liste
 
 ---
 
