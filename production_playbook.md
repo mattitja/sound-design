@@ -59,6 +59,8 @@ Einträge kommen aus Track-Arbeit oder Referenz-Analysen — Theorie-Hintergrund
 
 **Stille vor dem Drop** (→ [[Envelopes]]): Letzter halber Schlag vor dem Drop (z.B. „4 und") komplett stumm — Kick, Snare, Reverb-Tail per Automation hart cutten → absolute Stille erzeugt maximale Erwartungsspannung
 
+**Drop-Hook in der Pre-Drop-Stille säen** (→ [[Envelopes]]): Vocal-Phrase die im Drop wiederholt wird genau in die Stille vor dem Drop legen → Hörer hört den Hook einmal solo, bevor er im Drop explodiert; macht die Wiederholung logisch und emotional statt beliebig
+
 **Kick-Dichte im Build-up** (→ [[Envelopes]]): Kick-Pattern von 4/4 auf 8tel, dann 16tel verdichten → steigert Energie ohne BPM-Änderung; signalisiert dem Hörer die Eskalation
 
 **Stutter-Effekt vor Drop** (→ [[Delay]]): Sample in 32tel-Fragmente zerhacken in letztem Build-up-Takt → Energie-Entladungs-Signal, unterscheidet Build-up 2 von Build-up 1

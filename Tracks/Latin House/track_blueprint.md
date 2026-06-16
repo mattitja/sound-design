@@ -97,8 +97,10 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 > - Piano identisch zum Drop → kein Spannungsaufbau, kein Kontrast
 > - HP-Filter auf Kick (Plan ab Takt 37) nicht umgesetzt
 
+- **Vocals:** „deins ist es auch" fällt genau in die Stille des halben Takts vor dem Drop → sät den Drop-Hook im letzten Moment ein, macht die Wiederholung im Drop logisch und emotional (→ Playbook)
+
 > [!tip] Ideen Piano-Differenzierung Build-up vs. Drop
-> - *Option A:* Reverb Dry/Wet ab Takt 37 massiv aufdrehen, Takt 40 hart cutten (→ Playbook) — Piano „ertrinkt", Drop kommt trocken und direkt
+> - *Option A:* ✅ Reverb Dry/Wet ab Takt 37 massiv aufdrehen, Takt 40 hart cutten (→ Playbook) — funktioniert
 > - *Option B:* LP-Filter ab Takt 37 schließen → Piano wird dumpfer, Drop öffnet voll
 > - *Option C:* Pitch-Automation +1–2 Halbtöne ab Takt 37 → harmonische Spannung die beim Drop-Einschlag einrastet
 
