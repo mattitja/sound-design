@@ -27,11 +27,15 @@ Einträge kommen aus Track-Arbeit oder Referenz-Analysen — Theorie-Hintergrund
 
 ## Rhythmus & Groove
 
-<!-- Einträge z.B.: Off-Beat-Percussion, Swing, Polyrhythmik, Fills -->
+**Percussion-Phrasen-Varianz** (→ [[LFO]]): Sparse Percussion-Pattern alle 4 Takte mit kleiner Höhen-Varianz (z.B. extra Güira-Schläge) abschließen → signalisiert dem Hörer unbewusst den Phrasen-Übergang ohne ein neues Element einzuführen
+
+**Clap-Eskalation innerhalb des Drops** (→ [[Envelopes]]): Erste Drop-Hälfte Clap auf 2+4, zweite Hälfte auf 1+2+3+4 → steigert Energie und Dichte innerhalb des Drops ohne neues Element; lässt den Drop größer wirken als er ist
+
+**808-Oktav-Glide** (→ [[Bass]]): 808-Sample auf letztem Achtel jedes Schlags eine Oktave hochpitchen → erzeugt Glide-Übergang zwischen Bassnoten; gibt statischem Pattern Bewegung ohne Harmoniewechsel
 
 ## Raumgefühl & Psychoakustik
 
-<!-- Einträge z.B.: Reverb-Prä-Delay, Stereobreite, Nah/Fern-Wahrnehmung -->
+**Gestreckes Vocal-Sample als Texture-Layer** (→ [[Effekte]]): Eigenes Gesangssample über eine ganze Section strecken + Auto-Tune → erzeugt atmosphärische Tiefe und persönliche Identität ohne melodische Konkurrenz zum Hauptelement
 
 ## Spannung & Release
 
