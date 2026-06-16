@@ -53,7 +53,7 @@ erhöht die psychoakustische Wucht beim Drop-Einstieg
 
 Pro Track ein Unterordner mit genau zwei Dateien:
 
-**`track_blueprint.md`** — Arrangement-Tabelle. Parts als Zeilen, Instrumentengruppen als Spalten. Keine Theorie, keine Erklärungen — nur was passiert, wo. Wenn eine Technik erwähnt wird: `(→ Playbook)`, nicht erklären.
+**`track_blueprint.md`** — Arrangement-Dokument. Pro Part ein `##`-Heading mit Taktangabe, Instrumente als Bullet-Liste darunter. Keine Theorie, keine Erklärungen — nur was passiert, wo. Wenn eine Technik erwähnt wird: `(→ Playbook)`, nicht erklären. Varianten mit *A / B / C* als eingerückte Sub-Bullets kennzeichnen.
 
 **`session_log.md`** — Rohe, ungefilterte Höreindrücke nach jeder Produktionssession. Emotionale Sprache ausdrücklich korrekt. Wird nicht aufgeräumt — bleibt roh als Input für die nächste Co-Producer-Session.
 
