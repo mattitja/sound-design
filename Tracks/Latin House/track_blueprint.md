@@ -93,8 +93,10 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Percussion:** Bongos weiter; Güira stumm
 - **FX & Hats:** Riser + Snare-Roll — *noch offen / nicht bestätigt*
 
-> [!warning] Probleme
-> - Piano identisch zum Drop → kein Spannungsaufbau, kein Kontrast
+> [!success] Gelöst
+> - Piano vs. Drop Kontrast: Reverb Washout (Option A) ✅
+
+> [!warning] Noch offen
 > - HP-Filter auf Kick (Plan ab Takt 37) nicht umgesetzt
 
 - **Vocals:** „deins ist es auch" fällt genau in die Stille des halben Takts vor dem Drop → sät den Drop-Hook im letzten Moment ein, macht die Wiederholung im Drop logisch und emotional (→ Playbook)
@@ -110,22 +112,20 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 - **Kick:** voller Punch + Low-End auf Takt-41-Eins
 - **Bass / Sub:** 808, lang gezogen; Viertel-Pattern; letztes Achtel pro Schlag: Oktavierung → Glide nach oben (→ Playbook); Linie: G–A–B; alle 4 Takte Basslauf: Fis (2 Viertel) → D → B; statisch über 16 Takte
-- **Piano:** originales Splice-Sample, Vintage-Sound, recht voll — identisch zu Build-up
+- **Piano:** Sample → Sidechain-Kompressor; kein Neutron, kein Reverb — Neutron AI entfernt, Piano-Charakter bleibt erhalten, Sidechain pumpt stärker ✅
 - **Pad:** Ableton Basic Strings; wenig Attack, viel Release, viel Space; breite Stereo-Lage; spielt Basstöne
 - **Percussion:** Güira wie Intro Pt. 2; Bongos weiter
 - **Claps:** „Clap Vintage"; Takt 41–48: auf 2+4; Takt 49–56: auf 1+2+3+4 (→ Playbook)
 - **FX & Hats:** Off-Beat-Hats, White-Noise-Shots auf Eins — *Plan, nicht explizit bestätigt*
 
-> [!warning] Probleme
-> - Piano kein Unterschied zu Build-up → Drop hat keine eigene Energie-Identität
-> - Piano zu nah am Original-Sample, zu wenig bearbeitet
+> [!success] Gelöst
+> - Piano-Kontrast zu Build-up: Build-up nass (Reverb Washout), Drop trocken + Sidechain ✅
+> - Sample-Charakter: Neutron AI entfernt → Piano klingt stärker, Sidechain pumpt mehr ✅
+> - Cutoff offen (Filter deaktiviert im Drop) ✅
 
-> [!tip] Ideen Piano Drop
-> - Saturator / Tape Distortion (→ Playbook) → mehr Obertöne, mehr Grit, mehr Durchsetzung
-> - Sidechain Kick→Piano (→ Playbook) → Club-Pumpen, Piano weicht der Kick rhythmisch
-> - Cutoff komplett offen lassen → Kontrast zur gefilterten Strophe + Build-up
-> - Reverb trocken halten (→ Playbook) → Drop klingt direkt und nah, Kontrast zum nassen Build-up
-> - Piano mono summen (→ Playbook) → mehr Punch in der Mitte; Stereo dem Pad überlassen
+> [!tip] Noch offen / Ideen
+> - Saturator / Tape Distortion (→ Playbook) → mehr Grit, Durchsetzung — noch nicht umgesetzt
+> - Piano mono summen (→ Playbook) → mehr Punch in der Mitte — noch nicht umgesetzt
 
 ---
 

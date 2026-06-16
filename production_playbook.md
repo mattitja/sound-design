@@ -17,6 +17,8 @@ Einträge kommen aus Track-Arbeit oder Referenz-Analysen — Theorie-Hintergrund
 
 **Piano-Sidechain zur Kick** (→ [[Compressor]]): Piano mit hartem Sidechain-Kompressor gegen die Kick → erzeugt Club-Pumpen, drückt Piano im Rhythmus weg und wieder rein; gibt Drop Energie ohne Frequenz-Konkurrenz
 
+**AI-Mixing-Preset auf Charakter-Samples vermeiden** (→ [[Compressor]]): Tools wie Neutron AI analysieren das Signal in Isolation — bei Samples mit starkem Eigencharakter (z.B. Merengue-Piano) macht die AI zu viele Eingriffe die den Charakter verbiegen und Sidechain-Effekte abschwächen; im Zweifel: Sample pur hören, dann minimal und gezielt eingreifen
+
 **Saturator auf Sample-Piano im Drop** (→ [[Distortion]]): Tape Saturation / Saturator auf Piano-Sample legen → fügt Obertöne hinzu, macht Sample dreckiger und durchsetzungsfähiger im Mix ohne Lautstärke zu erhöhen
 
 **Piano mono summen im Drop** (→ [[Compressor]]): Piano-Stereo auf Mono summen oder Mid stark betonen → mehr Punch in der Mitte, bessere Club-Kompatibilität; Stereobreite dem Pad-Layer überlassen
