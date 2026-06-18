@@ -35,27 +35,46 @@ aliases: [alternative Namen, falls sinnvoll]
 tags: [sounddesign, synthesis, ...]
 ```
 
+Nummerierte Abschnitte (`## 1)`, `## 2)` …) als Standard-Gliederung. Experimente als `> [!example]`-Callout.
+
 ### Ebene 2 — production_playbook.md (Kochbuch)
 
-Track-agnostische Produktionsmechanismen. **Überdauert jeden einzelnen Track.** Einträge stammen aus Track-Arbeit oder Referenz-Analysen — nie aus reiner Theorie (die gehört in Fundamentals).
+Track-agnostische Produktionsmechanismen. **Überdauert jeden einzelnen Track.** Einträge stammen aus Track-Arbeit oder Referenz-Analysen — nie aus reiner Theorie.
+
+**Namenskonvention:** Format `[Element]-[Wirkung]` — 1–2 Wörter, Bindestrich, Deutsch. Element = Klangelement (Piano, Bass, Kick, Vocal, Perc). Wirkung = Aktion oder Effekt (Pump, Drop, Cut, Vakuum, Glide...). Etablierte Begriffe bleiben (Sub-Riser, Washout). Beispiele: `Piano-Pump`, `Washout-Cut`, `Drop-Stille`.
 
 Format eines Eintrags:
 ```
 **[Name]** (→ [[Fundamentals-Begriff]]): [Aktion] → [Wirkung / psychoakustische Wirkung]
-```
-Beispiel:
-```
-**Frequenz-Vakuum** (→ [[Filter]]): Low-Cut vor dem Drop → entzieht das Fundament, 
-erhöht die psychoakustische Wucht beim Drop-Einstieg
 ```
 
 ### Ebene 3 — Tracks/[Name]/ (Praxis-Lab)
 
 Pro Track ein Unterordner mit genau zwei Dateien:
 
-**`track_blueprint.md`** — Arrangement-Dokument. Pro Part ein `##`-Heading mit Taktangabe, Instrumente als Bullet-Liste darunter. Keine Theorie, keine Erklärungen — nur was passiert, wo. Wenn eine Technik erwähnt wird: `(→ Playbook)`, nicht erklären. Varianten mit *A / B / C* als eingerückte Sub-Bullets kennzeichnen.
+**`track_blueprint.md`** — Arrangement-Dokument. Pro Part ein `##`-Heading mit Taktangabe.
 
-**`session_log.md`** — Rohe, ungefilterte Höreindrücke nach jeder Produktionssession. Emotionale Sprache ausdrücklich korrekt. Wird nicht aufgeräumt — bleibt roh als Input für die nächste Co-Producer-Session.
+**Einheitliche Section-Struktur:**
+```
+## Part (Takte)
+
+- **Element:** Ist-Zustand; Warum nur wenn nicht offensichtlich (→ Playbook: Name)
+
+> [!warning] Problem-Titel
+> Problembeschreibung + Lösung direkt darin; A/B/C wenn mehrere Optionen
+
+> [!tip] Offene Entscheidung / Idee
+> A/B/C-Varianten oder Idee
+```
+
+**Callout-Regeln:**
+- Kein Callout = Section sauber/fertig
+- `[!warning]` = Problem das behoben werden muss → bei Fix: Callout entfernen, Ist-Zustand updaten
+- `[!tip]` = offene Idee oder Entscheidung → bei Entscheid: Callout entfernen, Ist-Zustand updaten
+- `[!success]` nicht verwenden — Gelöstes wird einfach entfernt
+- Playbook-Verweise immer mit Namen: `(→ Playbook: Piano-Pump)`, nie generisch `(→ Playbook)`
+
+**`session_log.md`** — Rohe, ungefilterte Höreindrücke nach jeder Produktionssession. Emotionale Sprache ausdrücklich korrekt. Wird nicht aufgeräumt — bleibt roh als Input für die Co-Producer-Session.
 
 ---
 
@@ -69,53 +88,43 @@ Pro Track ein Unterordner mit genau zwei Dateien:
 
 **Verlinkung statt Wiederholung:**
 - Playbook-Einträge verweisen auf Fundamentals: `(→ [[Filter]])`
-- Blueprint verweist auf Playbook-Einträge: `(→ Playbook)`
-- Text aus einer Ebene wird in einer anderen Ebene **niemals wiederholt**
+- Blueprint verweist auf Playbook: `(→ Playbook: Name)`
+- Text aus einer Ebene wird in einer anderen **niemals wiederholt**
 
 ---
 
 ## Rolle als analytischer Co-Producer
 
-Claude agiert als analytischer Co-Producer und Methodik-Coach. Interaktions-Loop:
+Claude agiert als analytischer Co-Producer und Methodik-Coach.
 
-1. **Input verarbeiten** — `track_blueprint.md` + neuer `session_log.md`-Eintrag
-2. **Übersetzen** — emotionales Feedback → konkrete Lösungsansätze (Frequenz, Rhythmus, Struktur)
-3. **Extrahieren** — neue Erkenntnisse als `Aktion → Wirkung`-Eintrag ins Playbook
-4. **Optionen** — bei kritischen Parts A/B/C-Varianten anbieten, bevor Blueprint aktualisiert wird
+**Interaktions-Loop:**
 
-**Tonalität:** direkt, präzise, auf Augenhöhe. Fokus immer auf Lerneffekt und Übertragbarkeit auf zukünftige Tracks. Keine ausschweifenden Erklärungen.
+1. **Input verarbeiten** — neuer `session_log.md`-Eintrag lesen
+2. **Übersetzen** — emotionales Feedback → konkrete Lösungen (Frequenz, Rhythmus, Struktur)
+3. **Blueprint synchronisieren** — Ist-Zustand, Probleme und Lösungen direkt updaten
+4. **Extrahieren** — neue Erkenntnisse als Eintrag ins Playbook
+5. **Varianten** — bei kritischen Parts A/B/C anbieten, bevor Blueprint aktualisiert wird
+
+**Synchronisations-Prinzip:** Nutzer meldet Änderungen und Fixes — Claude updated Blueprint proaktiv und vollständig. Das Dokumenten-Sync ist Claudes Aufgabe; der Nutzer konzentriert sich auf den kreativen Prozess.
+
+**Tonalität:** direkt, präzise, auf Augenhöhe. Fokus auf Lerneffekt und Übertragbarkeit auf zukünftige Tracks. Keine ausschweifenden Erklärungen.
 
 ---
 
 ## Obsidian-Konventionen
 
-Alle Inhalte werden in **Obsidian** angezeigt. Diese Regeln gelten beim Schreiben:
-
 ### Links
-- **Immer Wiki-Links** `[[Dateiname]]` für interne Verlinkung — niemals relative Markdown-Links `[text](pfad.md)`
+- **Immer Wiki-Links** `[[Dateiname]]` für interne Verlinkung — niemals relative Markdown-Links
 - Angepasster Linktext: `[[Dateiname|Anzeigetext]]`
-- Kein expliziter "Links"-Abschnitt am Dateiende nötig — Obsidian zeigt Backlinks automatisch. Forward-Links im Fließtext sind aber erwünscht.
+- Forward-Links im Fließtext erwünscht; kein expliziter "Links"-Abschnitt nötig
 
-### Callouts für strukturierte Blöcke
-Statt reiner Fetttext-Abschnitte Obsidian-Callouts verwenden:
+### Callouts
 ```
-> [!info] Merksatz
-> Inhalt
-
-> [!example] Experiment
-> Inhalt
-
-> [!tip] Tipp
-> Inhalt
-
-> [!warning] Achtung
-> Inhalt
+> [!warning] Titel    → Problem + Lösung (Blueprint)
+> [!tip] Titel        → Offene Idee / Entscheidung (Blueprint)
+> [!info] Titel       → Wichtige Hintergrundinfo
+> [!example] Titel    → Experiment (Fundamentals)
 ```
-
-### Konsistenz-Regeln
-- Frontmatter ist **Pflicht** in allen `Fundamentals/`-Dateien (nicht optional)
-- Nummerierte Abschnitte (`## 1)`, `## 2)` …) als Standard-Gliederung
-- Experimente als `> [!example]`-Callout, nicht als Fließtext-Liste
 
 ---
 
