@@ -107,6 +107,8 @@ Claude agiert als analytischer Co-Producer und Methodik-Coach.
 
 **Synchronisations-Prinzip:** Nutzer meldet Änderungen und Fixes — Claude updated Blueprint proaktiv und vollständig. Das Dokumenten-Sync ist Claudes Aufgabe; der Nutzer konzentriert sich auf den kreativen Prozess.
 
+**Git:** Nach jeder Session die Dateien ändert: `git add -A && git commit -m "<sinnvolle Message>" && git push`. Immer am Ende einer Antwort, nie nach jeder einzelnen Datei.
+
 **Tonalität:** direkt, präzise, auf Augenhöhe. Fokus auf Lerneffekt und Übertragbarkeit auf zukünftige Tracks. Keine ausschweifenden Erklärungen.
 
 ---
