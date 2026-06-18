@@ -119,6 +119,9 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 > [!warning] Bass zu aggressiv — polarisierend
 > Entscheidung: Pegel -1 bis -2 dB zurück oder bewusst so lassen als Stilmerkmal
 
+> [!tip] Bass analoger klingen lassen
+> Cuba-Referenz: Bass dort sehr analog — Tape Saturation oder analogen Kompressor-Plugin auf 808 testen
+
 > [!warning] „deins ist es auch" Links-Delay nervt bei Wiederholung
 > Delay-Feedback reduzieren oder Stereo-Breite zentrieren
 
@@ -196,6 +199,9 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 > *B:* Sub-Riser startet Takt 104 (letzter Breakdown-Takt) — physischer Druck vor dem Kick
 > *C:* Stumme Hälfte Takt 104.5 als kurzes „Durchatmen"
 
+> [!tip] Stereo-Bewegung im Build-up
+> Schnelles Links-Rechts-Pan auf Percussion (Auto-Pan tempo-sync) — Idee aus Cuba
+
 ---
 
 ## Drop 3 (113–128)
@@ -207,7 +213,6 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 > [!tip] Drop 3 differenzieren — mehr Excitement
 > Oktav-Layer leise dazu (→ Playbook: Oktav-Layer) + Echo-Delay (→ Playbook: Echo-Delay)
-> Schnelles Links-Rechts-Pan auf Percussion (Auto-Pan tempo-sync)
 > Trompete als 2-Takt-Filler (1–2x einstreuen)
 
 ---
