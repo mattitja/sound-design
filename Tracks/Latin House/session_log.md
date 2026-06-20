@@ -5,43 +5,20 @@ Nicht aufräumen — bleibt roh als Input für die Co-Producer-Analyse.
 
 ---
 
-## [17.06.2026] – Version dembow3+b4.mp3
+## [20.06.2026] – Version dembow3+b5.mp3
 
-Sprachnotiz: 
-
-Okay. Folgendes sind noch Probleme aktuell. Also einmal haben wir in dem Verse Immer noch keine Bewegung im Piano. Das Piano kommt schon sehr gut darunter oktaviert ist sehr mutig, aber der mood sollte noch ein bisschen mehr Schwimmen, sich verändern. Dann ist für mich immer noch der Unterschied zu klein, also im Build-Up haben wir den Washut von dem Piano. Allerdings beginnt der Washut ganz am Anfang mit dem clean Sample und das Sample hört sich einfach genauso gleich an wie am Anfang des Buildups, genauso gleich wie im Drop. Und ich habe schon versucht, im Drop noch mehr zu saturaten und sowas, aber das kommt alles nicht gut. Deswegen, da hätte ich gerne immer noch ein bisschen noch einen klareren Unterschied, dass es noch mehr wie nur so ein Teaser ist im Build Up und noch nicht mal das volle Sample irgendwie einmal gehört hat. Entweder so, also vielleicht muss man da irgendwie noch was wegfiltern. Dann im Job das Piano mit dem Wummern ist schon nicht schlecht, aber irgendwie. Ich bin immer noch nicht ganz zufrieden. Dann in Verse zwei würde ich die diese Wellen wieder. Also der Verse zwei bringt einen richtig schön runter und bringt einen wieder so zum Chillen und da passt es extrem gut, wenn da die Wellen wieder einsetzen würden. Und dann im Breakdown, der ist auch sehr geil, bringt dann auch wieder sehr krass runter. Es ist sehr gut. Allerdings fehlt dann da noch so ein bisschen was. Also ich hab da so ganz leise das Pad, aber irgendwie irgend so ein entspannendes Element könnte da auch noch mal richtig geil sein. Also melodisch vielleicht ein bisschen mehr. Und dann habe ich das Gefühl, dass hinten raus der Drop, also der dritte Drop, den kennt man dann schon irgendwie. Und irgendwie braucht es da noch mal mehr Exciteming. Ich weiß nicht, ob es ear Candy ist oder was hinten raus, was man noch drauf werden kann, dass es sich noch mal mehr on top anfühlt. Aber sonst schon mega geil. 
   
 
-Dann später nochmal aufgeschrieben:
+Also ich würde ein bisschen was an der Formel drehen und zwar der erste Drop ist zu lang da kann eigentlich schon acht Takte früher direkt in die zweite Strophe gegangen werden. Weil da kommt nichts mehr und die Spannung ist so hoch gehoben für eine zu lange Zeit. Dann hatte ich noch die Idee im Breakdown, könnte so Vögel zwitschern passen. Das mal ausprobieren. Dann der Schluss ist auch Ist auch zu lang. Ich weiß, dass es für DJs gut zu mixen aber. Ich finde, es streckt den Song unnötig. Dann im Bild ab ist der Sweeper, der Riser Der ist ein bisschen zu doll. Und der hat ja auch ein links Rechts Penning ganz schnell. Und das ist ein bisschen zu doll und die. Die Snars, die ich ins Buildup eingebaut habe, die gehen jetzt schon sehr stark Richtung Haus Und das gibt den Buup direk einen ganz anderen Vibe und eigentlich hab ich den Vibe davor. Noch ein bisschen mehr gefühlt. Obwohl die die die Drumrolls cool sind in dem Snare. Vielleicht kann man die irgendwie versuchen zu behalten. Aber die Stimmung würde ich gern wieder ein bisschen trocken machen. Und Bilder Und dafür könnten insgesamt die Bongos noch öfter auch einen Filter bekommen, weil die sind die des ganzen Songs durch ganz klar und an manchen Stellen macht das gegebenenfalls Sinn. Auch die Bongos zu filtern. Der zweite Drop ist richtig geil oder auch noch die Vocals noch weiter in den Job reingehen und auch noch die Vocals nicht nur mit deins es ist auch wiederholt werden, sondern voll ausgesprochen werden, dass der also der zweite Job ist richtig geil. Breakdown fehlt immer noch irgendein irgendwas. Da fehlt einfach was. Was myodisches da ist halt dieses Pad ganz leise, aber das hört sich irgendwie so unbeabsichtigt an. Also man könnte natürlich auch einfach das Pad in den Vordergrund holen. Ja, und die. Inverse hab ich immer noch kein schwimmendes Piano. Also da muss wie gesagt immer noch mehr Bewegung rein.
+
   
-Vocals noch wilder cutten im breakdown
 
-Wellen Sound kommen etwas plötzlich anfangs
+Dann könnte man noch im letzten Drop könnte man noch mehr mit Vocals machen. Tatsächlich. Und dieses Stein ist es auch dein dein deins ist es auch? Und dann noch mehr zurechtcut. Und Schabernackt treiben und dann fehlt, glaube ich im zweiten Bild im zweiten Drop fehlt, glaube ich noch der Shaker.
 
-Ende des Songs braucht nachHall
+  
 
-Verse Ende hört man noch einen atmer, stattdessen"Tut doch nicht wehehe" könnte noch ein "He" mehr vertragen
+Was wir denn noch auch beim hören auf unterschiedlichen Geräten aufgefallen ist, ist da. MacBooks, zum Beispiel über den MacBook Lautsprecher klingt es sehr gut. von dem abmischen her Auf einer Bluetooth Box hingegen wiederum ist Kick zu laut. Und also vor allem wie, aber eigentlich beide für wenig präsent und auch das Klavier bisschen zu leise, Beispiel.
 
-Als mastering target könnte ich Cuba (Latin House) von TRIVEAT nehmen
+  
 
-Bass ist gerade im drop Recht krass, wird nicht jedem so doll gefallen
-
-"Deins ist es auch" im drop hat links ein recht krasses delay das etwas nervt vorallem wenn es immer wiederholt wird
-
-Buildup 3 da kommen die vollen Kicks Recht plötzlich und hart. Der Übergang zwischen breakdown und buildup ist sehr doll. 
-
-To-Do: - Cuba stemmen um zu verstehen wie der Song funktioniert
-
-Ideen aus Cuba Song:
-
-Noch mehr Bongos ab und zu als filler rein
-
-Im buildup ein schnelles links rechts Pan nehmen
-
-Trompeten als filler?
-
-Ab und zu ein shaker kurz zu schalten
-
-Der Bass ist dort sehr analog
-
----
+Ja. Genau und ein Problem ist noch, dass ich, dass der Track sie den Track noch ein bisschen mainstreamiger hinkriegen will. Und zwar durch diese vielen Houselemente, die ich jetzt eingeführt habe, ist der Track zwar nice, aber ich hab das Gefühl, dass teilweise meine Familie den nicht mehr so richtig anhören würde, weil Weil die sagen würde ja okay das ist mir ein bisschen zu doll. Vor allem der starke Bass im. Drop und Der builup wird halt auch relativ doll und vielleicht kriegen wir es irgendwie noch hin, dass wir den Track so ein bisschen Richtung mainstreaming vom vom allgemeinen Sound her bekommen also vor allem auch die durchlaufende Kick Ist halt ziemlich hart. Ist so ein bisschen Richtung DJ optimiert aber es soll ja ein Sommertrack sein, den man auch irgendwie mal am Pool hört oder der wie man irgendwie mal auf einer Familienfeier spielen kann, sag ich mal Vielleicht fällt uns da noch irgendwas ein. Dennoch soll für DJs attraktiv bleiben

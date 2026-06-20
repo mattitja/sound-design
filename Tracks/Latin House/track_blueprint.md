@@ -1,6 +1,6 @@
 # Latin House – Track Blueprint
 
-**BPM:** 125 | **Tonart:** B-Dur / B-Moll | **Länge:** 144 Takte
+**BPM:** 125 | **Tonart:** B-Dur / B-Moll | **Länge:** 128 Takte
 
 > Stichpunkte, keine Prosa. Techniken nicht erklären — `(→ Playbook: Name)` verweisen.
 > `[!warning]` = Problem + Lösung. `[!tip]` = offene Entscheidung/Idee. Kein Callout = sauber.
@@ -45,6 +45,8 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 - Cuba (Latin House) von TRIVEAT stemmen → Songstruktur analysieren
 - Mastering-Reference: Cuba (Latin House) von TRIVEAT
+- Strategische Frage offen: Track soll „mainstreamiger"/Sommertrack-tauglich wirken (Bass im Drop + durchlaufende Kick werden als zu hart/DJ-optimiert empfunden), soll aber für DJs attraktiv bleiben — noch nicht entschieden wie weit Bass/Kick global entschärft werden (Feedback 20.06.2026)
+- Multi-Device-Check vor Mastering: auf Bluetooth-Box klingt Kick zu laut und zugleich Kick+Bass zu wenig präsent, Piano zu leise — auf MacBook-Speaker klingt es gut; Mix auf mehreren Abhören gegenchecken
 
 ---
 
@@ -82,6 +84,9 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 > [!warning] Piano wirkt statisch
 > Cutoff-Automation 2–5 kHz, leicht atmend, gezeichnet — kein LFO
 
+> [!tip] Piano noch nicht „schwimmend" genug
+> Cutoff-Automation allein reicht nicht — zusätzlich Piano-Wobble (→ Playbook: Piano-Wobble) probieren für mehr Timbre-Bewegung im Loop
+
 > [!tip] Verse-Ende Vocal
 > „Tut doch nicht weh" + extra „He" schneiden statt Atmer am Ende
 
@@ -101,20 +106,29 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 > *A:* LP-Filter ab Takt 33 — dumpf, öffnet erst im Drop ← empfohlen
 > *B:* 100% Wet ab Takt 33 — Piano nur als Hall-Schimmer; Drop = erstes echtes Sample
 
+> [!warning] Sweeper/Riser zu doll + Stereo-Pan zu hektisch
+> Riser-Pegel zurücknehmen; Auto-Pan-Geschwindigkeit verlangsamen (aktuell zu schnelles Links-Rechts)
+
+> [!warning] Snare-Rolls klingen zu housig, kippen den Vibe
+> Drumrolls als Idee behalten, aber Sound-Charakter trockener/Latin-näher wählen statt House-Snare — Vibe vor dem Drop soll nicht zu stark Richtung House kippen
+
 > [!tip] Riser + Snare-Roll
 > White-Noise-Riser über 8 Takte + Snare-Roll ab Takt 38 eskalierend
 
 ---
 
-## Drop 1 (41–56)
+## Drop 1 (41–48)
 
 - **Kick:** voller Punch + Low-End auf Eins
 - **Bass:** 808, Viertel G–A–B; letztes Achtel Oktav-Glide (→ Playbook: Bass-Glide); alle 4 Takte Basslauf: Fis → D → B
 - **Piano:** Sample; Sidechain gegen Kick (→ Playbook: Piano-Pump); kein Filter, kein Neutron
 - **Pad:** Basic Strings; breite Stereo-Lage; spielt Basstöne
 - **Percussion:** Güira wie Intro Pt. 2 (→ Playbook: Perc-Puls); Bongos
-- **Claps:** „Clap Vintage"; Takt 41–48 auf 2+4; Takt 49–56 auf 1+2+3+4 (→ Playbook: Clap-Eskalation)
+- **Claps:** „Clap Vintage"; Eskalation 2+4 → 1+2+3+4 (→ Playbook: Clap-Eskalation)
 - **Vocals:** „deins ist es auch" Snippets
+
+> [!warning] Drop 1 von 16 auf 8 Takte gekürzt
+> Feedback: erster Drop war zu lang ohne neue Elemente, Spannung blieb zu lange auf hohem Niveau. Clap-Eskalation (2+4 → 1+2+3+4) muss auf 8 Takte komprimiert werden, z.B. Wechsel bereits nach 4 statt 8 Takten
 
 > [!warning] Bass zu aggressiv — polarisierend
 > Entscheidung: Pegel -1 bis -2 dB zurück oder bewusst so lassen als Stilmerkmal
@@ -130,7 +144,7 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 ---
 
-## Strophe 2 (57–72)
+## Strophe 2 (49–64)
 
 - **Kick:** 4/4 konstant
 - **Bass:** wie Strophe 1
@@ -142,9 +156,12 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 > Wellenrauschen sanft einblenden (Fade-in)
 > Piano: Piano-Pan (→ Playbook: Piano-Pan) oder Piano-Wobble (→ Playbook: Piano-Wobble)
 
+> [!tip] Bongos zwischendurch filtern
+> Bongos laufen den ganzen Song clear durch — an manchen Stellen LP/HP-Filter probieren für mehr Differenzierung (→ Playbook: Bongo-Filter)
+
 ---
 
-## Build-up 2 (73–80)
+## Build-up 2 (65–72)
 
 - **Kick:** wie Build-up 1 (→ Playbook: Kick-Hochpass, Kick-Eskalation, Drop-Stille)
 - **Bass:** stumm (→ Playbook: Bass-Vakuum)
@@ -152,26 +169,35 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Percussion:** wie Build-up 1
 - **FX:** Riser + Snare-Roll
 
+> [!warning] Sweeper/Riser zu doll + Snares zu housig
+> Gleiche Probleme wie Build-up 1 (→ siehe dort) — Riser/Pan entschärfen, Snare-Sound trockener/Latin-näher
+
 > [!tip] Piano-Differenzierung zu Build-up 1
-> *A:* Stutter-Cut 32tel-Chops Takt 80 statt Washout (→ Playbook: Stutter-Cut)
+> *A:* Stutter-Cut 32tel-Chops letzter Takt statt Washout (→ Playbook: Stutter-Cut)
 > *B:* wie Build-up 1 — bewusste Wiederholung für Wiedererkennung
 
 ---
 
-## Drop 2 (81–96)
+## Drop 2 (73–88)
 
 - **Kick:** wie Drop 1; alle 4 Takte kurzer Aussetzer auf „4"
 - **Bass:** wie Drop 1
 - **Piano:** wie Drop 1
-- **Percussion:** wie Drop 1
+- **Percussion:** wie Drop 1; Shaker fehlt noch
 - **FX:** wie Drop 1
 
 > [!tip] Piano-Differenzierung zu Drop 1
 > Echo-Delay 8tel dazuschalten (→ Playbook: Echo-Delay)
 
+> [!tip] Vocals weiter ausbauen — Drop funktioniert schon richtig gut
+> Vocals stärker in den Drop hineinziehen; „deins ist es auch" nicht nur als Snippet wiederholen, sondern Phrase auch mal voll aussprechen lassen
+
+> [!tip] Shaker ergänzen
+> Shaker fehlt in diesem Drop (in Drop 3 schon als Tamburin/Shaker geplant) — hier ebenfalls hinzufügen
+
 ---
 
-## Breakdown (97–104)
+## Breakdown (89–96)
 
 - **Kick:** stumm
 - **Bass:** stumm
@@ -182,29 +208,33 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 > [!warning] Zu leer — Melodie fehlt + Vocals nicht wild genug
 > Rhodes-Melodie (2–4 Noten) mit viel Hall sehr leise dazu
+> Pad ist schon da, aber zu leise/wirkt unbeabsichtigt → Pad bewusst in den Vordergrund holen statt nur durchscheinen lassen
 > Vocals: mehr Stutter-Cuts, längere Stille zwischen Snippets
+
+> [!tip] Vogelzwitschern als FX-Idee
+> Im Breakdown Vogelzwitschern testen — passt zum Sommertrack-Vibe
 
 ---
 
-## Build-up 3 (105–112)
+## Build-up 3 (97–104)
 
-- **Kick:** sofort 8tel ab Takt 105
+- **Kick:** sofort 8tel ab Takt 97
 - **Bass:** stumm; Sub-Riser (→ Playbook: Sub-Riser)
 - **Piano:** Bandpass öffnet sich taktweise; wird lauter + aggressiver
 - **Percussion:** Snare-Rolls; alle Percussion eskaliert
-- **FX:** Risers explodieren in Richtung Takt 112
+- **FX:** Risers explodieren in Richtung Takt 104
 
 > [!warning] Übergang Breakdown → Build-up zu abrupt
-> *A:* Takt 105–106 weiter 4/4-Kick, erst ab Takt 107 auf 8tel ← empfohlen
-> *B:* Sub-Riser startet Takt 104 (letzter Breakdown-Takt) — physischer Druck vor dem Kick
-> *C:* Stumme Hälfte Takt 104.5 als kurzes „Durchatmen"
+> *A:* Takt 97–98 weiter 4/4-Kick, erst ab Takt 99 auf 8tel ← empfohlen
+> *B:* Sub-Riser startet Takt 96 (letzter Breakdown-Takt) — physischer Druck vor dem Kick
+> *C:* Stumme Hälfte Takt 96.5 als kurzes „Durchatmen"
 
 > [!tip] Stereo-Bewegung im Build-up
-> Schnelles Links-Rechts-Pan auf Percussion (Auto-Pan tempo-sync) — Idee aus Cuba
+> Schnelles Links-Rechts-Pan auf Percussion (Auto-Pan tempo-sync) — Idee aus Cuba; gleiche Vorsicht wie bei Build-up 1/2 — nicht zu hektisch
 
 ---
 
-## Drop 3 (113–128)
+## Drop 3 (105–120)
 
 - **Kick:** wie Drop 1+2
 - **Bass:** wie Drop 1+2
@@ -215,15 +245,21 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 > Oktav-Layer leise dazu (→ Playbook: Oktav-Layer) + Echo-Delay (→ Playbook: Echo-Delay)
 > Trompete als 2-Takt-Filler (1–2x einstreuen)
 
+> [!tip] Letzter Drop — mehr Vocals, verspielter schneiden
+> Mehr Vocal-Material einbauen; „deins ist es auch"-Zeile noch weiter zurechtschneiden, ruhig verspielt/verspielter Schabernack mit den Schnitten treiben
+
 ---
 
-## Outro (129–144)
+## Outro (121–128)
 
-- **Kick:** 4/4 bis Takt 144
-- **Bass:** ab Takt 129 stumm (→ Playbook: Outro-Schnitt)
-- **Piano:** LP-Filter fährt zu bis Takt 144
-- **Percussion:** Güira ab Takt 129 stumm; Bongos bis Ende
-- **FX:** Hats bis Takt 136; ab Takt 137 nur Kick; Wellenrauschen (Bookend zu Intro Pt. 1)
+- **Kick:** 4/4 bis Takt 128
+- **Bass:** ab Takt 121 stumm (→ Playbook: Outro-Schnitt)
+- **Piano:** LP-Filter fährt zu bis Takt 128
+- **Percussion:** Güira ab Takt 121 stumm; Bongos bis Ende
+- **FX:** Hats bis Takt 124; ab Takt 125 nur Kick; Wellenrauschen (Bookend zu Intro Pt. 1)
+
+> [!warning] Outro von 16 auf 8 Takte gekürzt
+> Feedback: Outro war gut für DJ-Mixing, hat den Song aber unnötig gestreckt — Song-Flow geht hier vor DJ-Mixability. Abbau-Stufen (Güira/Hats/Filter) müssen auf 8 Takte komprimiert werden
 
 > [!tip] Ende braucht mehr Nachhall
 > Reverb-Tail auf letzten Piano-Ton + Wellenrauschen länger auslaufen lassen
