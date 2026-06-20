@@ -27,6 +27,8 @@ Namensformat: **[Element]-[Wirkung]** — 1–2 Wörter, Bindestrich, Deutsch. V
 
 **Piano-Mono** (→ [[Compressor]]): Piano-Stereo auf Mono summen oder Mid stark betonen → mehr Punch in der Mitte, bessere Club-Kompatibilität; Stereobreite dem Pad-Layer überlassen
 
+**Bass-Glättung** (→ [[Filter]]): Aggressiven 808-Bass durch einfachen Sawtooth ersetzen, mit Low-Shelf gezähmt und hart gegen die Kick sidechained (z.B. Kickstart 2) → Bass bleibt clubtauglich druckvoll, verliert aber die polarisierende Aggressivität eines reinen 808; guter Kompromiss zwischen Club-Punch und Mainstream-Tauglichkeit
+
 ## Arrangement & Struktur
 
 **Oktav-Drop** (→ [[Oszillator]]): Melodie-Sample um 1 Oktave nach unten pitchen + dezent filtern → melancholischerer, druckvoller Charakter; erzeugt emotionale Differenz zwischen Strophe und Drop ohne neues Element
@@ -43,7 +45,7 @@ Namensformat: **[Element]-[Wirkung]** — 1–2 Wörter, Bindestrich, Deutsch. V
 
 **Clap-Eskalation** (→ [[Envelopes]]): Erste Drop-Hälfte Clap auf 2+4, zweite Hälfte auf 1+2+3+4 → steigert Energie und Dichte innerhalb des Drops ohne neues Element; lässt den Drop größer wirken als er ist
 
-**Bass-Glide** (→ [[Bass]]): 808-Sample auf letztem Achtel jedes Schlags eine Oktave hochpitchen → erzeugt Glide-Übergang zwischen Bassnoten; gibt statischem Pattern Bewegung ohne Harmoniewechsel
+**Bass-Glide** (→ [[Bass]]): Bass-Stimme auf letztem Achtel jedes Schlags eine Oktave hochpitchen → erzeugt Glide-Übergang zwischen Bassnoten; gibt statischem Pattern Bewegung ohne Harmoniewechsel
 
 ## Raumgefühl & Psychoakustik
 

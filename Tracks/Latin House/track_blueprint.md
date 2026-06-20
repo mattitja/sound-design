@@ -45,7 +45,7 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 - Cuba (Latin House) von TRIVEAT stemmen → Songstruktur analysieren
 - Mastering-Reference: Cuba (Latin House) von TRIVEAT
-- Strategische Frage offen: Track soll „mainstreamiger"/Sommertrack-tauglich wirken (Bass im Drop + durchlaufende Kick werden als zu hart/DJ-optimiert empfunden), soll aber für DJs attraktiv bleiben — noch nicht entschieden wie weit Bass/Kick global entschärft werden (Feedback 20.06.2026)
+- Strategische Frage offen: Track soll „mainstreamiger"/Sommertrack-tauglich wirken, soll aber für DJs attraktiv bleiben — Bass-Aggressivität bereits über Bass-Glättung (→ Playbook: Bass-Glättung) entschärft; Kick-Härte global noch nicht entschieden (Feedback 20.06.2026)
 - Multi-Device-Check vor Mastering: auf Bluetooth-Box klingt Kick zu laut und zugleich Kick+Bass zu wenig präsent, Piano zu leise — auf MacBook-Speaker klingt es gut; Mix auf mehreren Abhören gegenchecken
 
 ---
@@ -120,24 +120,16 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 ## Drop 1 (41–48)
 
 - **Kick:** voller Punch + Low-End auf Eins
-- **Bass:** 808, Viertel G–A–B; letztes Achtel Oktav-Glide (→ Playbook: Bass-Glide); alle 4 Takte Basslauf: Fis → D → B
+- **Bass:** Sawtooth-Bass, Low-Shelf + Sidechain (Kickstart 2) (→ Playbook: Bass-Glättung); Viertel G–A–B; letztes Achtel Oktav-Glide (→ Playbook: Bass-Glide); alle 4 Takte Basslauf: Fis → D → B
 - **Piano:** Sample; Sidechain gegen Kick (→ Playbook: Piano-Pump); kein Filter, kein Neutron
 - **Pad:** Basic Strings; breite Stereo-Lage; spielt Basstöne
 - **Percussion:** Güira wie Intro Pt. 2 (→ Playbook: Perc-Puls); Bongos
+- **Top-Loop:** offene House-Hihat auf jedem „und"
 - **Claps:** „Clap Vintage"; Eskalation 2+4 → 1+2+3+4 (→ Playbook: Clap-Eskalation)
 - **Vocals:** „deins ist es auch" Snippets
 
 > [!warning] Drop 1 von 16 auf 8 Takte gekürzt
 > Feedback: erster Drop war zu lang ohne neue Elemente, Spannung blieb zu lange auf hohem Niveau. Clap-Eskalation (2+4 → 1+2+3+4) muss auf 8 Takte komprimiert werden, z.B. Wechsel bereits nach 4 statt 8 Takten
-
-> [!warning] Bass zu aggressiv — polarisierend
-> Entscheidung: Pegel -1 bis -2 dB zurück oder bewusst so lassen als Stilmerkmal
-
-> [!tip] Bass analoger klingen lassen
-> Cuba-Referenz: Bass dort sehr analog — Tape Saturation oder analogen Kompressor-Plugin auf 808 testen
-
-> [!warning] „deins ist es auch" Links-Delay nervt bei Wiederholung
-> Delay-Feedback reduzieren oder Stereo-Breite zentrieren
 
 > [!tip] Piano mehr Durchsetzung
 > Piano-Grit (→ Playbook: Piano-Grit) + Piano-Mono (→ Playbook: Piano-Mono)
@@ -183,7 +175,8 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Kick:** wie Drop 1; alle 4 Takte kurzer Aussetzer auf „4"
 - **Bass:** wie Drop 1
 - **Piano:** wie Drop 1
-- **Percussion:** wie Drop 1; Shaker fehlt noch
+- **Percussion:** wie Drop 1; Shaker
+- **Top-Loop:** wie Drop 1
 - **FX:** wie Drop 1
 
 > [!tip] Piano-Differenzierung zu Drop 1
@@ -191,9 +184,6 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 > [!tip] Vocals weiter ausbauen — Drop funktioniert schon richtig gut
 > Vocals stärker in den Drop hineinziehen; „deins ist es auch" nicht nur als Snippet wiederholen, sondern Phrase auch mal voll aussprechen lassen
-
-> [!tip] Shaker ergänzen
-> Shaker fehlt in diesem Drop (in Drop 3 schon als Tamburin/Shaker geplant) — hier ebenfalls hinzufügen
 
 ---
 
@@ -240,6 +230,7 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Bass:** wie Drop 1+2
 - **Piano:** wie Drop 1+2
 - **Percussion:** wie Drop 1+2; Tamburin/Shaker über 10 kHz; Bongo-Fills dichter
+- **Top-Loop:** wie Drop 1+2
 
 > [!tip] Drop 3 differenzieren — mehr Excitement
 > Oktav-Layer leise dazu (→ Playbook: Oktav-Layer) + Echo-Delay (→ Playbook: Echo-Delay)
