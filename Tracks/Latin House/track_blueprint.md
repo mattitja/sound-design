@@ -21,6 +21,28 @@
 
 ---
 
+## Klang-Kompass
+
+> Lebendes Dokument — hier wird entschieden, *was* der Track sein soll. Bei Zweifeln an einer Mix-Entscheidung zuerst hierher schauen. Darf jederzeit nachgeschärft werden.
+
+**Kernsatz:** Energie aus **Groove, Percussion und Claps** — nicht aus Kick-Härte oder Bass-Brutalität. Treibend genug zum Kopf-Wippen und „durch den Park steppen", aber warm statt aggressiv. Club-Punch ist Würze für die Drop-Spitzen, nicht das Fundament.
+
+**Vibe-Zeitpunkt:** Nicht Mittags-Pool-Stillstand, sondern **Golden Hour / Sunset / Bewegung**. Die chilligen Sommer-Lyrics laufen bewusst als Kontrast über einen treibenden Beat — entspannte Worte, energetischer Groove. Das ist gewollt, kein Widerspruch.
+
+**Referenz-Triangulation:**
+
+| Referenz | Rolle | Was sie liefert |
+|---|---|---|
+| **Liquid Spirit (Claptone Remix)** | Fundament / Groove-Philosophie | Energie durch Clap-/Percussion-Groove + Swing + repetitiver Hook. Warm, organisch, trotzdem treibend. Dein Latin-Arsenal (Bongos, Güira, Clap-Eskalation) ist genau dieses Werkzeug. |
+| **Teka (DJ Snake / Peso Pluma)** | Druck-Referenz für Drop-Spitzen | Hämmerndes Tasten-Riff über treibender Club-Maschine. Beweist: Piano-Hook + Club funktioniert ohne weich zu werden. Nur als Würze, nicht als Basis. |
+| **El Merengue (Marshmello / Turizo)** | *Verworfen* | Zu soft. Bettet den Hook in Wärme statt Energie — falsche Richtung. Als Gegenpol dokumentiert. |
+
+**Entscheidungs-Heuristik:** Bei jeder „härter oder weicher?"-Frage gilt: **Groove vor Härte.** Energie zuerst aus rhythmischem Zusammenspiel holen (Claps, Güira-Swing, Bongo-Fills, Percussion-Schichtung), erst danach über Kick/Bass-Druck. Was rausfällt ist „soft/weich", *nicht* „energetisch".
+
+**Bewusst aufgegeben:** Familien-/Radio-Tauglichkeit ist **kein Designziel der Hauptversion**. Der Track folgt dem eigenen Geschmack (Energie), nicht dem „ist mir zu doll"-Einwand. Falls nötig, ist das später ein separater Radio-Edit — nie der Kompass für den Haupt-Mix.
+
+---
+
 ### Songtext
 
 **Verse 1 + 2**
@@ -45,7 +67,7 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 - Cuba (Latin House) von TRIVEAT stemmen → Songstruktur analysieren
 - Mastering-Reference: Cuba (Latin House) von TRIVEAT
-- Strategische Frage offen: Track soll „mainstreamiger"/Sommertrack-tauglich wirken, soll aber für DJs attraktiv bleiben — Bass-Aggressivität bereits über Bass-Glättung (→ Playbook: Bass-Glättung) entschärft; Kick-Härte global noch nicht entschieden (Feedback 20.06.2026)
+- Strategische Frage **entschieden** (siehe → Klang-Kompass): Energie aus Groove/Percussion statt aus Härte. Kick bleibt treibend, wird nicht für Familien-Tauglichkeit weichgespült. Bass-Aggressivität via Bass-Glättung (→ Playbook: Bass-Glättung) ggf. zu weit entschärft → gegenchecken, ob der Bass für die treibende Richtung wieder mehr Biss verträgt
 - Multi-Device-Check vor Mastering: auf Bluetooth-Box klingt Kick zu laut und zugleich Kick+Bass zu wenig präsent, Piano zu leise — auf MacBook-Speaker klingt es gut; Mix auf mehreren Abhören gegenchecken
 
 ---
@@ -87,9 +109,6 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 > [!tip] Piano noch nicht „schwimmend" genug
 > Cutoff-Automation allein reicht nicht — zusätzlich Piano-Wobble (→ Playbook: Piano-Wobble) probieren für mehr Timbre-Bewegung im Loop
 
-> [!tip] Verse-Ende Vocal
-> „Tut doch nicht weh" + extra „He" schneiden statt Atmer am Ende
-
 ---
 
 ## Build-up 1 (33–40)
@@ -111,9 +130,6 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 > [!warning] Snare-Rolls klingen zu housig, kippen den Vibe
 > Drumrolls als Idee behalten, aber Sound-Charakter trockener/Latin-näher wählen statt House-Snare — Vibe vor dem Drop soll nicht zu stark Richtung House kippen
-
-> [!tip] Riser + Snare-Roll
-> White-Noise-Riser über 8 Takte + Snare-Roll ab Takt 38 eskalierend
 
 ---
 
@@ -145,7 +161,6 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **FX:** Claps + Hats auf mittlerer Lautstärke
 
 > [!tip] Atmosphäre ausbauen
-> Wellenrauschen sanft einblenden (Fade-in)
 > Piano: Piano-Pan (→ Playbook: Piano-Pan) oder Piano-Wobble (→ Playbook: Piano-Wobble)
 
 > [!tip] Bongos zwischendurch filtern
