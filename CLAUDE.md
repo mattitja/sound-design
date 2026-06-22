@@ -50,7 +50,7 @@ Format eines Eintrags:
 
 ### Ebene 3 — Tracks/[Name]/ (Praxis-Lab)
 
-Pro Track ein Unterordner mit genau zwei Dateien:
+Pro Track ein Unterordner mit zwei Pflicht-Dateien (Blueprint, Session-Log) und optional `feedback.md`:
 
 **`track_blueprint.md`** — Arrangement-Dokument. Pro Part ein `##`-Heading mit Taktangabe.
 
@@ -75,6 +75,8 @@ Pro Track ein Unterordner mit genau zwei Dateien:
 - Playbook-Verweise immer mit Namen: `(→ Playbook: Piano-Pump)`, nie generisch `(→ Playbook)`
 
 **`session_log.md`** — Rohe, ungefilterte Höreindrücke nach jeder Produktionssession. Emotionale Sprache ausdrücklich korrekt. Wird nicht aufgeräumt — bleibt roh als Input für die Co-Producer-Session.
+
+**`feedback.md`** (optional) — Archiv für externes Feedback. Pro Runde eine Datums-Sektion `## TT.MM.JJJJ — Version <id>`; Versions-ID = Ableton-Dateiname (z.B. `dembow4_3`), denn Git kennt nur Doku-Änderungen, nicht welcher Audio-Bounce gehört wurde. Pro Reviewer ein `###`-Block (Profil + Quelle + Rohzitat) und darunter ein Status-Block `🔲 offen` / `✅ gelöst (Version)`. Regel: Kritikpunkt ist nur offen, wenn nicht in späterer Version gefixt — Abgleich gegen Live-Blueprint, bei Bedarf `git diff`. Kein manuelles Versions-Log, keine Git-Tags. Aktuelle Version steht im Blueprint-Header.
 
 ---
 
