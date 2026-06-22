@@ -147,18 +147,10 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 ## Drop 2 (73–88)
 
-- **Kick:** wie Drop 1; alle 4 Takte kurzer Aussetzer auf „4"
-- **Bass:** wie Drop 1
-- **Piano:** wie Drop 1
-- **Percussion:** wie Drop 1; Shaker
-- **Top-Loop:** wie Drop 1
-- **FX:** wie Drop 1
+> Instrumente exakt wie Drop 1, nur doppelt so lang.
 
-> [!tip] Piano-Differenzierung zu Drop 1
-> Echo-Delay 8tel dazuschalten (→ Playbook: Echo-Delay)
-
-> [!tip] Vocals weiter ausbauen — Drop funktioniert schon richtig gut
-> Vocals stärker in den Drop hineinziehen; „deins ist es auch" nicht nur als Snippet wiederholen, sondern Phrase auch mal voll aussprechen lassen
+- **Instrumente:** alle wie Drop 1
+- **Vocals:** erste Hälfte wiederholt das komplette Build-up-Vocal-Sample (ganzer Text); zweite Hälfte „deins ist es auch"-Snippets wie Drop 1
 
 ---
 
