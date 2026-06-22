@@ -34,8 +34,10 @@ Das ist aber nur die Theorie aus dem Feedback. Was wirklich los ist, sehen wir e
 - Die Vocals werden also um ~4 % verlangsamt (Faktor 123/128 ≈ 0,96) ins Tempo gewarpt.
 - **Befund:** Schon mit *allen* Plugins aus ist im reinen Vocal-Sample ein leicht robotisches Verlangsamungs-Artefakt hörbar — kommt vom Time-Stretch/Warp selbst, nicht von der Effektkette.
 
-> [!warning] Wurzel könnte tiefer liegen als gedacht
-> Das „robotic" aus dem Feedback entsteht (mindestens teilweise) schon beim Warpen — *bevor* irgendein Pitch-Tool greift. Das verschiebt den Fokus: nicht nur Effekte zurückfahren, sondern zuerst das Stretch-Fundament sauber kriegen (z.B. Warp-Modus prüfen, oder Vocals neu auf 123 BPM einsingen).
+Warp-Modus: **Complex** (auf 128 BPM Clip, Projekt 123 BPM).
+
+> [!warning] Entscheidender Test: Warp ist die dominante Ursache
+> Track testweise auf **128 BPM** hochgedreht → Vocals laufen *ungeworpt* → das Robotische ist **wesentlich besser.** Damit ist klar: der **Time-Stretch (Warp Complex) ist der Hauptfaktor**, nicht Auto Shift. Die Pitch-Tools (Auto Shift, Nectar Correction) **verstärken** die Robotik auf dem schon gewarpten Signal, sind aber nicht die Wurzel. → Fix-Priorität liegt auf dem Stretch-Fundament, nicht auf der Effektkette.
 
 ### Plugin-Kette
 
@@ -85,4 +87,26 @@ Settings aus dem Screenshot:
 
 ## 3) Diagnose & Lösungsansätze
 
-> *Folgt, sobald die Chain steht.*
+**Ursachen-Ranking (nach 128-BPM-Test):**
+1. **Warp Complex (−4 %)** — dominante Wurzel.
+2. **Auto Shift** (MIDI-Hardtune, 100 % wet) + **Nectar Correction** (Strength 100) — Verstärker auf dem gewarpten Signal.
+3. EQ-Ausdünnung — Geschmack/Dosierung, nicht Robotik.
+
+### Fix-Reihenfolge — erst die Wurzel
+
+**A — Warp-Modus auf „Re-Pitch" (zuerst testen, gratis):** Re-Pitch stretcht per Resampling (wie Tape) → **kein Granular-Smear**, also keine Stretch-Robotik. Nebenwirkung: Pitch fällt um den Tempo-Faktor (~0,7 Halbton). Das ist hier **egal**, weil Auto Shift die Tonhöhe danach ohnehin per MIDI auf die Zielnoten zwingt — der Versatz wird neutralisiert. Formanten werden minimal dunkler (~0,7 st) → bei Bedarf via Formant in Auto Shift/Nectar kompensieren. *Wenn das funktioniert, ist das Problem mit einem Klick gelöst.*
+
+**B — Complex → Complex Pro:** elastique Pro, formant-erhaltend; bei nur 4 % Stretch meist nahezu transparent. Klassischer Vocal-Fix, falls A klanglich nicht passt.
+
+**C — Offline-Stretch in besserer Engine** (Melodyne / RX / elastique Pro Bounce): höhere Qualität als Abletons Realtime-Complex; Stem rendern und sauber dehnen.
+
+**D — Vocals auf 123 BPM neu einsingen:** nullt den Warp komplett → Goldstandard. Meiste Arbeit, nur falls A–C nicht reichen.
+
+### Danach: Verstärker nachjustieren (erst nach Warp-Fix neu bewerten)
+
+- **Auto Shift Dry/Wet < 100 %:** etwas echte Stimme reinblenden — aber Vorsicht, der Dry-Anteil hat die *Originaltonhöhe*, passt nur dort, wo Ziel ≈ Original. Eher punktuell.
+- **Nectar Correction Strength runter / raus:** zweite Korrektur entschärfen, ggf. ganz weg, wenn Auto Shift schon sauber tuned.
+- **EQ-Scoop dosieren:** gegen „zu dünn / fehlende Klarheit" (B/C) etwas Low-Mid zurückgeben — aber nimmt Proximity-Bauch mit, also vorsichtig. Geschmack.
+
+### Nächster konkreter Schritt
+→ **A testen:** Warp auf Re-Pitch stellen, gegen aktuellen Stand A/B-vergleichen. Ergebnis hier eintragen.
