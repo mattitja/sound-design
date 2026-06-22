@@ -134,8 +134,9 @@ Settings aus dem Screenshot:
 
 ### Chorus — gleicher Fix, später (zurückgestellt)
 
-> [!tip] Chorus-Vocals: Re-Pitch + Formant, aber umgekehrte Richtung
-> Chorus wurde bei **120 BPM** aufgenommen, Projekt 123 → Clip wird **hochgewarpt** (+2,5 %, schneller). Auch hier leichtes Robotik-Problem, aber **geringer** (nur 3 BPM). Eigene Chain, separat von der Strophe.
-> - **Fix analog:** Warp → Re-Pitch. Achtung: Re-Pitch pitcht hier nach **oben** → Formanten werden **heller/Chipmunk-Richtung** → Formant-Kompensation diesmal **nach unten** (umgekehrt zur Strophe).
-> - **Komplikation:** Chorus besteht aus vielen kleinen Snippet-Clips — Warp-Modus muss auf alle gleichzeitig. Lösungsansatz: alle Clips multi-selektieren und Warp-Modus gemeinsam auf Re-Pitch; Formant-Kompensation einmal zentral im Chorus-Chain-Pitch-Tool. *(Vorgehen noch zu prüfen.)*
-> - **Status:** bewusst nach hinten geschoben — erst Strophe fertig.
+> [!tip] Chorus-Vocals: Re-Pitch + Formant, aber umgekehrte Richtung — Plan steht
+> Chorus wurde bei **120 BPM** aufgenommen, Projekt 123 → Clip wird **hochgewarpt** (+2,5 %, schneller). Robotik geringer als Strophe (nur 3 BPM). **Gleiche Chain wie Strophe** (inkl. Auto Shift), nur anderer Sound: breiter, mehr Voices, mehr Hall (atmosphärischer) — Nutzer damit zufrieden, bleibt.
+> - **Pitch-Drift unkritisch:** Re-Pitch pitcht nach oben, aber Auto Shift (MIDI) zwingt die Tonhöhe ohnehin auf die Zielnoten zurück → keine Verstimmung, wie bei der Strophe.
+> - **Vorgehen (bestätigt):** alle Chorus-Snippet-Clips multi-selektieren → Warp-Modus gemeinsam auf **Re-Pitch** (greift auf alle selektierten). Voraussetzung: alle aus 120-BPM-Quelle.
+> - **Formant nach unten** (umgekehrt zur Strophe), kleinerer Betrag ~**−0,4 st** (nur 3 BPM Sprung), nach Gehör.
+> - **Checks:** Robotik-A/B (Gewinn kleiner als Strophe); Mono-Check wegen breiter Voices/Hall.
