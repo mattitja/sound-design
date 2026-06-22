@@ -103,20 +103,15 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Kick:** 4/4 Takt 33–36; Hochpass ab Takt 37 (→ Playbook: Kick-Hochpass); 8tel ab Takt 39; 16tel erste Hälfte Takt 40; zweite Hälfte stumm (→ Playbook: Drop-Stille)
 - **Bass:** stumm (→ Playbook: Bass-Vakuum)
 - **Piano:** Reverb Washout ab Takt 37, Takt 40 hart cutten (→ Playbook: Washout-Cut)
+- **Snare:** House-Snare; ab Takt 37 verdoppelt mit der Kick, hinten raus 16tel exakt wie Kick; zusätzlich auf „4 und" zwei 16tel hintereinander → jede „1" wird eingerollt (→ Playbook: Snare-Einroller); verstärkt House-Vibe
 - **Vocals:** Build-up-Sample; „deins ist es auch" fällt in Drop-Stille (→ Playbook: Hook-Saat)
-- **Percussion:** Bongos; Güira stumm
-- **FX:** stumm
+- **Percussion:** Bongos
+- **FX:** Riser baut sich kontinuierlich auf, Auto-Pan wabert nach hinten immer schneller links/rechts; endet vor der Drop-Stille
 
 > [!warning] Piano-Teaser klingt zu identisch zum Drop
 > LP-Filter von Takt 33 an → Piano im Build-up dumpf, Washout-Tail warm aber nicht voll; Drop öffnet erst voll
 > *A:* LP-Filter ab Takt 33 — dumpf, öffnet erst im Drop ← empfohlen
 > *B:* 100% Wet ab Takt 33 — Piano nur als Hall-Schimmer; Drop = erstes echtes Sample
-
-> [!warning] Sweeper/Riser zu doll + Stereo-Pan zu hektisch
-> Riser-Pegel zurücknehmen; Auto-Pan-Geschwindigkeit verlangsamen (aktuell zu schnelles Links-Rechts)
-
-> [!warning] Snare-Rolls klingen zu housig, kippen den Vibe
-> Drumrolls als Idee behalten, aber Sound-Charakter trockener/Latin-näher wählen statt House-Snare — Vibe vor dem Drop soll nicht zu stark Richtung House kippen
 
 ---
 
@@ -160,11 +155,9 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Kick:** wie Build-up 1 (→ Playbook: Kick-Hochpass, Kick-Eskalation, Drop-Stille)
 - **Bass:** stumm (→ Playbook: Bass-Vakuum)
 - **Piano:** wie Build-up 1 + Teaser-Fix aus Build-up 1 anwenden
+- **Snare:** wie Build-up 1 (→ Playbook: Snare-Einroller)
 - **Percussion:** wie Build-up 1
-- **FX:** Riser + Snare-Roll
-
-> [!warning] Sweeper/Riser zu doll + Snares zu housig
-> Gleiche Probleme wie Build-up 1 (→ siehe dort) — Riser/Pan entschärfen, Snare-Sound trockener/Latin-näher
+- **FX:** Riser wie Build-up 1
 
 > [!tip] Piano-Differenzierung zu Build-up 1
 > *A:* Stutter-Cut 32tel-Chops letzter Takt statt Washout (→ Playbook: Stutter-Cut)
