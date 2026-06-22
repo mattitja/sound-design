@@ -124,7 +124,7 @@ Settings aus dem Screenshot:
 Nach dem Robotik-Fix neu zu bewerten:
 - **EQ-Ausdünnung (Scoop ~300 Hz):** gegen „zu dünn / fehlende Klarheit" (B/C) etwas Low-Mid zurückgeben — Proximity-Bauch im Auge behalten.
 - **Pegel (C: „too loud"):** Vocal-Level im Mix runter — *erst −1 dB getestet, prüfen ob genug.*
-- **Strophe zu trocken (C):** *Luft, kein Raum* — die Trockenheit passt thematisch zur Outdoor-Lyric („plätschernde Füße, Zehen voll Sand"), ein echter Raum-Reverb würde widersprechen. Ziel: nur die „klebt-vorn"-Kante nehmen. Ansatz: **Mikro-Ambience** (Decay 0,3–0,5 s, Pre-Delay ~0, Mix niedrig, Reverb-Return high-pass'en) oder **Slapback-Delay** (60–120 ms, leise) / dezenter **Doubler** statt Hall (→ [[Reverb]]). *In Arbeit.*
+- **Strophe zu trocken (C):** *Luft, kein Raum* — die Trockenheit passt thematisch zur Outdoor-Lyric („plätschernde Füße, Zehen voll Sand"), ein echter Raum-Reverb würde widersprechen. Ziel: nur die „klebt-vorn"-Kante nehmen. Ansatz: **Mikro-Ambience** (Pre-Delay ~0, Mix niedrig, Reverb-Return high-pass'en) oder **Slapback-Delay** (60–120 ms, leise) / dezenter **Doubler** statt Hall (→ [[Reverb]]). **Einschränkung:** aktueller Reverb hat Decay-Floor **1 s** → über *niedrigen Mix + hartes High-Damping + kleine Size* unauffällig machen, sonst auf Ableton-Standard-Reverb (geht <1 s) oder Slapback ausweichen. *In Arbeit.*
 - **Build-up-Vocals (B, Idee):** Harmonie-Layer + Volume-Automation für mehr Hype.
 
 ### Chorus — gleicher Fix, später (zurückgestellt)
