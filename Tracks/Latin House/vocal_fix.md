@@ -67,14 +67,14 @@ Settings aus dem Screenshot:
 **2. iZotope Nectar Advanced** — interne Modulkette:
 - **Auto-Level** (Learn aktiv), Output-Pegel ~−14,5 dB; Pan C, Width 8, Limiter am Ende
 - **Modul-Reihenfolge:** Gate → EQ 1 → De-Esser → Compressor 1 → EQ 2 → Voices → Dimension (*aus*) → Limiter; Analog-Delay (*aus*)
-- **Pitch Correction (eigenes Modul):** Strength **100**, Speed **20**, Key **D-Dur**, Transpose 0, Formant Shift 0 / Scale 10, Register Medium
+- **Pitch Correction (eigenes Modul):** **inaktiv/ausgeschaltet** (im Screenshot nur verwirrend dargestellt) — spielt keine Rolle. Tuning macht allein Auto Shift.
 - **EQ 1:** Low-Cut ~80–100 Hz + chirurgische Notches bei ~300 / ~600 / ~3 k
 - **Compressor 1:** Solid-State, Peak-Modus, Threshold −19,9 dB
 - **EQ 2:** tiefe Absenkung um ~300 Hz (zieht Low-Mid-Körper raus) + Höhen-Anhebung ~6 k → dünn/luftig
 - **Voices:** Preset „Airy", Modus Unison, Shape/Intensity/Width gesetzt → harmonisierte Zusatzstimmen/Doubling
 
-> [!warning] Dritte Robotik-Quelle: zweite gestapelte Pitch-Korrektur
-> Nectars **Correction (Strength 100, Speed 20)** läuft *zusätzlich* zu Auto Shifts MIDI-Hardtune. Zwei harte Tuner in Serie → Artefakte addieren sich. Damit haben wir drei gestapelte Robotik-Quellen, alle **vor** dem eigentlichen Auto-Tune: ① Warp Complex (−4 %), ② Auto Shift (MIDI-Hardtune @ 100 % wet), ③ Nectar Correction (Strength 100).
+> [!info] Korrektur: Nectar Correction war nie aktiv
+> Frühere Annahme „zweite gestapelte Pitch-Korrektur" war falsch — das Modul ist ausgeschaltet. Es bleiben **zwei** Robotik-Quellen: ① Warp Complex (−4 %, dominant), ② Auto Shift (MIDI-Hardtune @ 100 % wet). Beide durch Re-Pitch + Formant erledigt.
 
 > [!info] EQ dünnt bewusst aus — polarisierend
 > EQ 1 + EQ 2 ziehen Low/Mids stark raus (Scoop ~300 Hz), Höhen bleiben → „dosiger"/Lo-Fi-Richtung. Nimmt zugleich den Proximity-Bauch (C) weg, aber wohl zu weit → trägt zu „zu dünn / fehlende Klarheit" (B/C) bei. Nutzer mag den Lo-Fi-Effekt selbst — Hörer empfinden ihn als zu prozessiert. Geschmacks-/Dosierungsfrage, nicht die Robotik-Wurzel.
@@ -89,8 +89,8 @@ Settings aus dem Screenshot:
 
 **Ursachen-Ranking (nach 128-BPM-Test):**
 1. **Warp Complex (−4 %)** — dominante Wurzel.
-2. **Auto Shift** (MIDI-Hardtune, 100 % wet) + **Nectar Correction** (Strength 100) — Verstärker auf dem gewarpten Signal.
-3. EQ-Ausdünnung — Geschmack/Dosierung, nicht Robotik.
+2. **Auto Shift** (MIDI-Hardtune, 100 % wet) — Verstärker auf dem gewarpten Signal.
+3. EQ-Ausdünnung — Geschmack/Dosierung, nicht Robotik. (Nectar Correction = inaktiv, irrelevant.)
 
 ### Fix-Reihenfolge — erst die Wurzel
 
@@ -122,7 +122,6 @@ Settings aus dem Screenshot:
 ### Noch offen (von der Kette / aus dem Feedback)
 
 Nach dem Robotik-Fix neu zu bewerten:
-- **Nectar Correction (Strength 100):** war Robotik-Verstärker — jetzt, auf sauberem Signal, runterdrehen/raus testen → mehr Natürlichkeit.
 - **EQ-Ausdünnung (Scoop ~300 Hz):** gegen „zu dünn / fehlende Klarheit" (B/C) etwas Low-Mid zurückgeben — Proximity-Bauch im Auge behalten.
 - **Pegel (C: „too loud"):** Vocal-Level im Mix runter.
 - **Strophe zu trocken (C):** Raum/Reverb geben (Chorus okay).
