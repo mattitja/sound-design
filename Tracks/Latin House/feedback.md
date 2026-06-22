@@ -5,7 +5,7 @@ Rohes, vollständiges Feedback zum Track. Archiv — die destillierte, handlungs
 Neues Feedback als neue Datums-Sektion (`## TT.MM.JJJJ`) anlegen, darin pro Reviewer ein `###`-Block mit Server-Quelle. **Immer die Versions-ID** (= Ableton-Dateiname, z.B. `dembow4_3`) angeben, auf die sich die Runde bezieht.
 
 > [!info] Referenzier-Regel
-> Jede Feedback-Runde gilt für genau eine Versions-ID. Ein Kritikpunkt ist nur dann offen, wenn er nicht in einer **späteren** Version adressiert wurde. Vor dem Verarbeiten: Feedback-Version gegen „Aktuelle Version" im [[track_blueprint|Blueprint]]-Header (und ggf. Versions-Log) abgleichen — sonst wird veraltete Kritik auf einen schon gefixten Stand angewendet.
+> Jede Feedback-Runde gilt für genau eine Versions-ID. Ein Kritikpunkt ist nur dann offen, wenn er nicht in einer **späteren** Version adressiert wurde. Abgleich: Feedback-Version gegen „Aktuelle Version" im [[track_blueprint|Blueprint]]-Header prüfen; primär gegen den Live-Zustand des Blueprints abgleichen (zeigt den aktuellen Stand). Reicht das nicht, `git log`/`git diff` als „was-änderte-sich-seitdem"-Quelle nutzen — **kein** manuelles Versions-Log führen (dupliziert die Git-History).
 
 ---
 
