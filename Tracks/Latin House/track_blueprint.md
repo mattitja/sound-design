@@ -72,26 +72,16 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 ---
 
-## Intro Pt. 1 (1–8)
+## Intro (1–8)
 
-- **Kick:** 4/4 durchgängig
+> Bewusst kurz: sofort Hook + Beat, damit der Song auf Spotify in den ersten Sekunden greift, kein langsamer Aufbau (→ Playbook: Sofort-Intro)
+
+- **Kick:** ab Takt 1; Hochpass ab Takt 3
 - **Bass:** stumm
-- **Piano:** stumm
+- **Piano:** Sample ab Takt 1; nur LP-Filter öffnet langsam (→ Playbook: Filter-Einflug)
+- **Vocals:** „Sonnencreme" gechoppt, repetitiv; Muster „Sonnencreme ×4 → Sonnencreme / Creme / Creme / Sonnencreme / Creme", 4× wiederholt mit jeweils leicht variierter Auto-Tune-Melodie gegen Monotonie (→ Playbook: Hook-Teaser)
 - **Percussion:** Bongos (Karol G „Si Antes"-Line)
-- **FX:** Wellenrauschen (Bookend — auch im Outro)
-
-> [!tip] Wellen-Einsatz zu abrupt
-> Fade-in ab Takt 1 statt hartem Einsatz
-
----
-
-## Intro Pt. 2 (9–16)
-
-- **Kick:** 4/4 bis Takt 12.5; ab Takt 13 stumm (lässt Piano in den Vordergrund treten)
-- **Bass:** stumm
-- **Piano:** Sample; LP-Filter 200 Hz → 20 kHz über 8 Takte (→ Playbook: Filter-Einflug); endet Takt 16.5
-- **Percussion:** Güira minimal auf „1 und" + „2 und"; Höhen-Varianz alle 4 Takte (→ Playbook: Perc-Puls); Bongos wie Pt. 1
-- **FX:** stumm
+- **FX:** Meeresrauschen (Bookend — auch im Outro)
 
 ---
 
@@ -262,7 +252,7 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Bass:** ab Takt 121 stumm (→ Playbook: Outro-Schnitt)
 - **Piano:** LP-Filter fährt zu bis Takt 128
 - **Percussion:** Güira ab Takt 121 stumm; Bongos bis Ende
-- **FX:** Hats bis Takt 124; ab Takt 125 nur Kick; Wellenrauschen (Bookend zu Intro Pt. 1)
+- **FX:** Hats bis Takt 124; ab Takt 125 nur Kick; Wellenrauschen (Bookend zu Intro)
 
 > [!warning] Outro von 16 auf 8 Takte gekürzt
 > Feedback: Outro war gut für DJ-Mixing, hat den Song aber unnötig gestreckt — Song-Flow geht hier vor DJ-Mixability. Abbau-Stufen (Güira/Hats/Filter) müssen auf 8 Takte komprimiert werden

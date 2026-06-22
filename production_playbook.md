@@ -37,6 +37,8 @@ Namensformat: **[Element]-[Wirkung]** — 1–2 Wörter, Bindestrich, Deutsch. V
 
 **DJ-Outro**: Outro startet mit Kick-only + Percussion-Abbau über 16 Takte; Bass weg ab Takt 1, Melodie filtert langsam zu, Percussion und Hats fallen in Stufen weg → gibt dem DJ sauberes Mix-Fenster
 
+**Sofort-Intro** (→ [[Envelopes]]): Intro auf ~8 Takte kürzen und direkt mit Kick + Hauptelement + Hook-Fragment starten statt langem Layer-Aufbau → liefert in den ersten Sekunden Song-Identität; optimiert auf Streaming-Retention (Spotify-Skip-Schwelle), bevor der Hörer wegklickt
+
 ## Rhythmus & Groove
 
 **Timing-Versatz** (→ [[Envelopes]]): Melodisches Hauptelement startet laut am Taktanfang, Vocals setzen verzögert im Takt ein → beide konkurrieren nicht für denselben Moment; ermöglicht gleichzeitig präsentes Instrument + präsente Vocals ohne Lautstärke-Kompromiss; erzeugt leichten Call-and-Response-Charakter
@@ -50,6 +52,8 @@ Namensformat: **[Element]-[Wirkung]** — 1–2 Wörter, Bindestrich, Deutsch. V
 ## Raumgefühl & Psychoakustik
 
 **Vocal-Stretch** (→ [[Effekte]]): Eigenes Gesangssample über eine ganze Section strecken + Auto-Tune → erzeugt atmosphärische Tiefe und persönliche Identität ohne melodische Konkurrenz zum Hauptelement
+
+**Hook-Teaser** (→ [[Effekte]]): Ein einzelnes Wort aus dem Songtext herauschoppen und repetitiv im Intro spielen, pro Wiederholung mit leicht variierter Auto-Tune-Melodie → setzt den Hook sofort als Ohrwurm, die Melodie-Varianz verhindert Monotonie bei strenger Wiederholung; gut als Aufmerksamkeits-Anker in einem kurzen Intro
 
 **Washout-Kontrast** (→ [[Reverb]]): Build-up-Piano nass (viel Reverb), Drop-Piano trocken → Drop klingt direkt, nah und physisch; Build-up klingt groß und entrückt; starker psychoakustischer Kontrast ohne Arrangement-Änderung
 
