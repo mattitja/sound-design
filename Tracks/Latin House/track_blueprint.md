@@ -1,6 +1,6 @@
 # Latin House – Track Blueprint
 
-**BPM:** 125 | **Tonart:** B-Dur / B-Moll | **Länge:** 128 Takte
+**BPM:** 125 | **Tonart:** B-Dur / B-Moll | **Länge:** 137 Takte
 
 > Stichpunkte, keine Prosa. Techniken nicht erklären — `(→ Playbook: Name)` verweisen.
 > `[!warning]` = Problem + Lösung. `[!tip]` = offene Entscheidung/Idee. Kein Callout = sauber.
@@ -17,7 +17,9 @@
 
 **Timing-Versatz Piano/Vocal:** Piano-Spitze am Taktanfang, Vocals setzen verzögert ein → keine Frequenz-Konkurrenz für denselben Moment (→ Playbook: Timing-Versatz)
 
-**Identität:** Latin-Percussion (Bongos) + eigene Vocals mit Auto-Tune-Vibe als persönliche Schicht.
+**Drei-Wege-Fusion (macht den Song einmalig):** Technisches House (klare Snare auf 2+4, Build-ups) × lateinamerikanischer Einfluss (Bongos im Swing-Pattern als Bewegung, Merengue-Piano) × deutscher Text. Nicht das eine oder andere — das Zusammenfinden der drei ist die DNA.
+
+**Inhalt:** Nicht nur Musik. Der deutsche Text trägt ein Gefühl — „ich will noch nicht heim", am See/Meer bleiben. Sound und Inhalt greifen ineinander.
 
 ---
 
@@ -25,17 +27,17 @@
 
 > Lebendes Dokument — hier wird entschieden, *was* der Track sein soll. Bei Zweifeln an einer Mix-Entscheidung zuerst hierher schauen. Darf jederzeit nachgeschärft werden.
 
-**Kernsatz:** Energie aus **Groove, Percussion und Claps** — nicht aus Kick-Härte oder Bass-Brutalität. Treibend genug zum Kopf-Wippen und „durch den Park steppen", aber warm statt aggressiv. Club-Punch ist Würze für die Drop-Spitzen, nicht das Fundament.
+**Kernsatz:** Energie aus **Groove, Percussion und Claps** — nicht aus Kick-Härte oder Bass-Brutalität. Treibend genug zum Kopf-Wippen und „durch den Park steppen", aber warm statt aggressiv. Club-Punch ist Würze für die Drop-Spitzen, nicht das Fundament. Die House-Seite (Snare 2+4, Build-ups) liefert den Antrieb, die Latin-Seite (Swing-Bongos, Merengue-Piano) die Wärme — beide gleich stark, keine Seite dominiert.
 
 **Vibe-Zeitpunkt:** Nicht Mittags-Pool-Stillstand, sondern **Golden Hour / Sunset / Bewegung**. Die chilligen Sommer-Lyrics laufen bewusst als Kontrast über einen treibenden Beat — entspannte Worte, energetischer Groove. Das ist gewollt, kein Widerspruch.
 
 **Referenz-Triangulation:**
 
-| Referenz | Rolle | Was sie liefert |
+| Referenz | Rolle | Kern |
 |---|---|---|
-| **Liquid Spirit (Claptone Remix)** | Fundament / Groove-Philosophie | Energie durch Clap-/Percussion-Groove + Swing + repetitiver Hook. Warm, organisch, trotzdem treibend. Dein Latin-Arsenal (Bongos, Clap-Eskalation) ist genau dieses Werkzeug. |
-| **Teka (DJ Snake / Peso Pluma)** | Druck-Referenz für Drop-Spitzen | Hämmerndes Tasten-Riff über treibender Club-Maschine. Beweist: Piano-Hook + Club funktioniert ohne weich zu werden. Nur als Würze, nicht als Basis. |
-| **El Merengue (Marshmello / Turizo)** | *Verworfen* | Zu soft. Bettet den Hook in Wärme statt Energie — falsche Richtung. Als Gegenpol dokumentiert. |
+| **Liquid Spirit (Claptone Remix)** | Groove-Fundament | Energie aus Clap-/Percussion-Groove + Swing + Hook. Warm, organisch, treibend. |
+| **Teka (DJ Snake / Peso Pluma)** | Drop-Druck | Piano-Hook + Club funktioniert ohne weich zu werden. Nur Würze. |
+| **El Merengue (Marshmello / Turizo)** | *Gegenpol* | Zu soft — Hook in Wärme statt Energie gebettet. Falsche Richtung. |
 
 **Entscheidungs-Heuristik:** Bei jeder „härter oder weicher?"-Frage gilt: **Groove vor Härte.** Energie zuerst aus rhythmischem Zusammenspiel holen (Claps, Bongo-Fills, Percussion-Schichtung), erst danach über Kick/Bass-Druck. Was rausfällt ist „soft/weich", *nicht* „energetisch".
 
@@ -65,10 +67,8 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 ## Offene Aufgaben
 
-- Cuba (Latin House) von TRIVEAT stemmen → Songstruktur analysieren
-- Mastering-Reference: Cuba (Latin House) von TRIVEAT
-- Strategische Frage **entschieden** (siehe → Klang-Kompass): Energie aus Groove/Percussion statt aus Härte. Kick bleibt treibend, wird nicht für Familien-Tauglichkeit weichgespült. Bass-Aggressivität via Bass-Glättung (→ Playbook: Bass-Glättung) ggf. zu weit entschärft → gegenchecken, ob der Bass für die treibende Richtung wieder mehr Biss verträgt
-- Multi-Device-Check vor Mastering: auf Bluetooth-Box klingt Kick zu laut und zugleich Kick+Bass zu wenig präsent, Piano zu leise — auf MacBook-Speaker klingt es gut; Mix auf mehreren Abhören gegenchecken
+- **Mix/Mastering läuft gut:** Multi-Device-Check bestanden, Track funktioniert auf mehreren Abhören schon sehr gut.
+- **Hauptaufgabe — Vocals verbessern (Strophe + Chorus/Drop):** klingen noch zu prozessiert. Vocal-Chain (Auto-Shift + iZotope) gezielt durchgehen, Artefakte reduzieren ohne den Auto-Tune-Vibe zu killen (siehe → Strophe 1)
 
 ---
 
