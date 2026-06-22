@@ -2,17 +2,19 @@
 
 Rohes, vollständiges Feedback zum Track. Archiv — die destillierte, handlungsrelevante Fassung steht im [[track_blueprint|Blueprint]] unter „Feedback".
 
-**Datum:** 21.06.2026
-**Quelle:** zwei Discord-Server (We Suck At Producing, In the Mix)
-**Gestellte Fragen:** Voice, Build-ups, Trompeten, Mix
+Neues Feedback als neue Datums-Sektion (`## TT.MM.JJJJ`) anlegen, darin pro Reviewer ein `###`-Block mit Server-Quelle.
 
 ---
 
-## A — PHNX (`prodphnx`)
+## 21.06.2026
+
+**Gestellte Fragen:** Voice, Build-ups, Trompeten, Mix
+**Quellen:** Discord *We Suck At Producing* (A, C) · Discord *In the Mix* (B)
+
+### A — PHNX (`prodphnx`)
 
 14 y/o Producer · LA · Boom-Bap · „Looking to Connect & Learn" · he/him
-Server: *We Suck At Producing*
-[Nachrichtenlink](https://discord.com/channels/417029410622013441/417381800717975564/1518355843593142303)
+Server: *We Suck At Producing* · [Nachrichtenlink](https://discord.com/channels/417029410622013441/417381800717975564/1518355843593142303)
 
 > I haven't ever listened to latin house before, so I wasn't too sure what to expect. It's a super unique vibe and does remind me of Latin music that I listen to. The track has a great energy and the piano loop is definitely my favorite part. Even though I don't speak the language, it's very catchy and I like the hook.
 >
@@ -26,14 +28,11 @@ Server: *We Suck At Producing*
 >
 > Honestly, I think the mix is well done. Everything sounds balanced, and nothing feels like it's fighting for space or getting buried. It's a clean sounding track, however you should take this advice with a grain of salt because I'm still learning mixing and the things about it. From a listeners perspective, I would say that it is really good for your first track ever.
 
----
-
-## B — john skibidi (`hirasawafan`)
+### B — john skibidi (`hirasawafan`)
 
 20 y/o · Lofi · komponiert, mixt und mastert selbst · etwas erfahrener
-Server: *In the Mix*
+Server: *In the Mix* · [Nachrichtenlink](https://discord.com/channels/485460967224770590/808674439561609216/1518469281262731264)
 [SoundCloud](https://soundcloud.com/monstajohnx) · [Instagram](https://instagram.com/daytripp1ng) · [Spotify](https://open.spotify.com/intl-de/artist/7s2JSBxb8ZGp860f20qdkv?si=CqTKGUhyTPuOA5hTY6eY0Q&nd=1)
-[Nachrichtenlink](https://discord.com/channels/485460967224770590/808674439561609216/1518469281262731264)
 
 > Congrats on making your first track! i have never really listened to this kind of genre before. So can take my words with a pinch of salt. Answering your question:
 >
@@ -45,13 +44,10 @@ Server: *In the Mix*
 >
 > Not my kind of genre, but I'd say this would appeal to people who listens to this. It also sounds like what you're trying to convey as well. beachy, summer vibes. So good job on that 👍
 
----
-
-## C — Lévy 🎶 (`levyleibnitzloiusius`)
+### C — Lévy 🎶 (`levyleibnitzloiusius`)
 
 Erfahrener, anderes Genre
-Server: *We Suck At Producing*
+Server: *We Suck At Producing* · [Nachrichtenlink](https://discord.com/channels/417029410622013441/618112554635362345/1518679924393906317)
 [Spotify](https://open.spotify.com/intl-fr/album/1ROp6Z319QxwhUo6qxwOhr) · [SoundCloud](https://soundcloud.com/leiblouis-music/tracks)
-[Nachrichtenlink](https://discord.com/channels/417029410622013441/618112554635362345/1518679924393906317)
 
 > btw i don't know if he told you that but the voice is a bit too loud and it might have been rec too close to the mic (proximity effect) it feels pretty dry too sometimes chorus are fine, verse feels dry
