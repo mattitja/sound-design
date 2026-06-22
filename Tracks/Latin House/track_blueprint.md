@@ -77,16 +77,18 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 ## Offene Aufgaben
 
-- **Mix/Mastering läuft gut:** Multi-Device-Check bestanden, Track funktioniert auf mehreren Abhören schon sehr gut; externes Feedback bestätigt sauberen, ausbalancierten Mix.
-- **Vocals erledigt:** „zu prozessiert/robotic" gelöst — Wurzel war der Warp (Complex), nicht die Effekte; Strophe + Chorus auf Re-Pitch + Formant umgestellt, dazu EQ/Pegel/Ambience (→ [[vocal_fix]]).
-- **Build-up-Vocals (offen, additiv):** Harmonie-Layer + Volume-Automation für mehr Hype testen.
+> **Stand 23.06.:** Vocals (Strophe + Chorus) sind durch — Robotik-Wurzel war der Warp, gelöst via Re-Pitch + Formant (→ [[vocal_fix]]). Mix/Mastering grundsätzlich solide (Multi-Device-Check bestanden). Offen ist jetzt v.a. das Feedback von Cooper (→ [[feedback]], 23.06.).
 
-**Aus Feedback 23.06. (Cooper, → [[feedback]]):**
-- **Mix-Lücke Mid/Upper-Mid:** Verse-Piano fast weggefiltert → Mix wirkt stellenweise leer. Filter leicht öffnen *oder* (besser, gegen Wiederholung) Synth-Stabs mit langem Reverb / Füll-Element im Mid/Upper-Mid.
-- **Vocal-Entscheidung:** Pitch-Correction wirkt „vocoder-y" → committen zu *mehr oder weniger* Auto-Tune (Mittelweg vermeiden); auf neuem Bounce neu bewerten.
-- **Stereo füllen:** zusätzliche Vocal-Takes/Harmonien pannen (höhere Mitten/Höhen sind mono).
-- **Trompeten (Drop 3):** heller (Boost ~2–8 kHz) + lauter + komprimieren für konstante Präsenz.
-- **Build-ups druckvoller:** Snare-Build mit Volume-Swell Richtung Drop; tonaler Riser (Synth 1–2 Okt. hoch); Kick direkt nach dem Cut für abrupteren Übergang.
+### 👉 Morgen weiter — Vorschlag-Reihenfolge
+
+1. **Build-ups druckvoller** *(größter Energie-Hebel, bedient den Klang-Kompass)*: Snare-Build mit Volume-Swell Richtung Drop · tonaler Riser (Synth 1–2 Okt. hoch) · Kick direkt nach dem Cut für abrupteren Übergang.
+2. **Mix-Lücke Mid/Upper-Mid füllen:** Verse-Piano ist fast weggefiltert → Mix wirkt stellenweise leer. Synth-Stabs mit langem Reverb (besser als Filter öffnen, sonst Loop zu repetitiv).
+3. **Trompeten (Drop 3):** heller (Boost ~2–8 kHz) + lauter + komprimieren für konstante Präsenz.
+4. **Vocal-Entscheidung am neuen Bounce:** Pitch-Correction wirkt „vocoder-y" (Auto-Shift-Resynthese @ 100 % wet) → committen zu *mehr oder weniger* Auto-Tune, Mittelweg vermeiden.
+5. **Stereo/Harmonien (additiv, B + Cooper):** zusätzliche Vocal-Takes/Harmonien pannen → füllt das mono-lastige Stereofeld (höhere Mitten/Höhen) und gibt Build-ups Hype (Volume-Automation).
+
+### Housekeeping
+- Nach dem nächsten Export: **Versions-ID im Header** auf den neuen Bounce setzen (`dembow4_4`?) und die „ab nächstem Bounce"-Status in [[feedback]] auf ✅ bestätigen.
 
 ---
 

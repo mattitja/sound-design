@@ -1,6 +1,8 @@
 # Latin House – Vocal-Fix (Arbeitsdokument)
 
-Separates Debugging-Doc für das Vocal-Problem. Bezug: [[feedback]] (21.06., Version `dembow4_3`). Wenn gelöst → Erkenntnis ggf. ins [[production_playbook]], Status in [[feedback]] auf ✅.
+Separates Debugging-Doc für das Vocal-Problem. Bezug: [[feedback]] (21.06., Version `dembow4_3`).
+
+> ✅ **ABGESCHLOSSEN (22.06.):** Strophe + Chorus entrobotisiert (Warp Complex → **Re-Pitch + Formant**), dazu EQ/Klarheit, Pegel, dezente Ambience. Erkenntnisse im Playbook (**Warp-Entrobot**, **Formant-Korrektur**, **Mikro-Abstand**) und in [[Formanten]] / [[Reverb]]. Dieses Doc ist ab hier **Archiv/Fallstudie** — kein offener Task mehr. Nächste Vocal-*Entscheidung* (mehr/weniger Auto-Tune, Cooper) läuft über die Offenen Aufgaben im [[track_blueprint|Blueprint]].
 
 ---
 
