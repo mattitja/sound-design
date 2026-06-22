@@ -65,10 +65,33 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 ---
 
+## Feedback (externe Hörer)
+
+Drei Reviews über Discord eingeholt. Profile: **A** = 14 J., Los Angeles, produziert Boom-Bap · **B** = 20 J., Lofi, etwas erfahrener · **C** = erfahrener, anderes Genre.
+
+**Positiv (Konsens):**
+- Vibe/Energie einzigartig, Latin-Feeling kommt an; Beachy/Summer-Stimmung wird transportiert (A, B)
+- Piano-Loop = Lieblingselement, Hook catchy auch ohne Sprachverständnis (A)
+- Trompeten passen perfekt, bringen genau die Latin-Energie (A, B)
+- Build-ups treiben gut, halten die Energie (A)
+- Mix ausbalanciert, clean, nichts wird begraben oder kämpft um Platz (A)
+
+**Kritik (Konsens = Vocals):**
+- *„the voice feels too 'robotic' at times… too much processing or pitch correction… pulling back on the effects… would probably feel more authentic"* (A) — deckt sich mit B („a bit too processed, slightly less effects")
+- Vocals fehlt Klarheit → mit EQ nacharbeiten (B)
+- *„the voice is a bit too loud and it might have been rec too close to the mic (proximity effect)… chorus are fine, verse feels dry"* (C)
+- Build-up-Idee: Vocals mit Harmonien layern + Volume-Automation über den Build-up → mehr Hype (B)
+
+---
+
 ## Offene Aufgaben
 
-- **Mix/Mastering läuft gut:** Multi-Device-Check bestanden, Track funktioniert auf mehreren Abhören schon sehr gut.
-- **Hauptaufgabe — Vocals verbessern (Strophe + Chorus/Drop):** klingen noch zu prozessiert. Vocal-Chain (Auto-Shift + iZotope) gezielt durchgehen, Artefakte reduzieren ohne den Auto-Tune-Vibe zu killen (siehe → Strophe 1)
+- **Mix/Mastering läuft gut:** Multi-Device-Check bestanden, Track funktioniert auf mehreren Abhören schon sehr gut; externes Feedback bestätigt sauberen, ausbalancierten Mix.
+- **Hauptaufgabe — Vocals entschlacken (Strophe + Chorus/Drop):** 3× unabhängig als „zu prozessiert/robotic" gemeldet. Processing + Pitch-Correction zurückfahren, natürlichere Stimme durchlassen, ohne den Auto-Tune-Vibe zu killen (siehe → Strophe 1)
+- **Vocal-EQ:** Klarheit schaffen; Proximity-Bump (Low-Mids durch Nahbesprechung) zähmen
+- **Vocal-Pegel:** Stimme stellenweise zu laut → runterziehen
+- **Strophen-Vocals zu trocken:** etwas Raum/Reverb geben (Chorus ist okay)
+- **Build-up-Vocals:** Harmonie-Layer + Volume-Automation für mehr Hype testen
 
 ---
 
@@ -93,8 +116,8 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Vocals:** komplette, selbst eingesungene Strophe; auf abweichender Melodie eingesungen → komplett geshiftet (Auto-Shift Ableton + iZotope); Auto-Tune; mit RX12 entstört
 - **Percussion:** Bongos; ab Takt 25 Top-Loop mit starkem Shake auf dem Offbeat (→ Playbook: Offbeat-Shake)
 
-> [!warning] Vocals klingen zu prozessiert
-> Melodie sitzt (Nutzer zufrieden), künstlicher Charakter ist gewollt — aber 2× Feedback „zu prozessiert". Vocal-Chain (Auto-Shift + iZotope) gezielt durchgehen, Artefakte reduzieren ohne den Auto-Tune-Vibe zu killen
+> [!warning] Vocals klingen zu prozessiert (extern bestätigt)
+> Melodie sitzt, künstlicher Charakter ist gewollt — aber 3× unabhängiges Feedback „zu prozessiert/robotic" (siehe → Feedback). Vocal-Chain (Auto-Shift + iZotope) entschlacken, ohne den Auto-Tune-Vibe zu killen. Strophen-spezifisch zusätzlich: zu trocken (Raum/Reverb geben), stellenweise zu laut, mehr Klarheit per EQ — Chorus ist okay
 
 ---
 
