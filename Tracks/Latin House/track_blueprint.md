@@ -182,7 +182,9 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 ---
 
-## Drop 3 (105–120)
+## Drop 3 (105–128)
+
+Längster Drop des Tracks (verlängert auf 24 Takte) — bewusst zum Auskosten/Feiern, tanzbar, soll nicht schnell vorbei sein.
 
 - **Kick:** wie Drop 1+2
 - **Bass:** wie Drop 1+2
@@ -190,10 +192,11 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Percussion:** wie Drop 1+2; Tamburin/Shaker über 10 kHz; Bongo-Fills dichter
 - **Top-Loop:** wie Drop 1+2
 - **Claps:** Eskalation 2+4 → 1+2+3+4 — erster Einsatz im Track (→ Playbook: Clap-Eskalation)
+- **Riser:** ab Takt 117 über 8 Takte hoch (bis 125), dann invertiert + beschleunigt wieder runter — die Welle läuft, während der Drop weiterspielt (→ Playbook: Riser-Welle)
+- **Trompeten:** ab Takt 121; zwei Trompeten in großen Intervallsprüngen auf und ab, eingängige, kraftvolle Fanfare. Verwaschenes Splice-Sample (wet, liefert Atmosphäre) + eigener MIDI-Nachbau mit Einzel-Trompetensample (Körper, Klarheit), übereinander gelayert (→ Playbook: Layer-Nachbau). Hinten raus kleiner High Cut → beruhigt alles Richtung Outro
 
-> [!tip] Drop 3 differenzieren — mehr Excitement
-> Oktav-Layer leise dazu (→ Playbook: Oktav-Layer) + Echo-Delay (→ Playbook: Echo-Delay)
-> Trompete als 2-Takt-Filler (1–2x einstreuen)
+> [!warning] Takt-Überlappung mit Outro klären
+> Drop 3 reicht jetzt bis Takt 128, Outro ist noch auf 121–128 nummeriert. Entweder Outro nach hinten schieben oder als Teil des Drop-Ausklangs auflösen — Nummerierung muss vereinheitlicht werden
 
 > [!tip] Letzter Drop — mehr Vocals, verspielter schneiden
 > Mehr Vocal-Material einbauen; „deins ist es auch"-Zeile noch weiter zurechtschneiden, ruhig verspielt/verspielter Schabernack mit den Schnitten treiben

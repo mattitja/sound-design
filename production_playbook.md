@@ -37,6 +37,8 @@ Namensformat: **[Element]-[Wirkung]** — 1–2 Wörter, Bindestrich, Deutsch. V
 
 **DJ-Outro**: Outro startet mit Kick-only + Percussion-Abbau über 16 Takte; Bass weg ab Takt 1, Melodie filtert langsam zu, Percussion und Hats fallen in Stufen weg → gibt dem DJ sauberes Mix-Fenster
 
+**Layer-Nachbau** (→ [[Oszillator]]): Verwaschenes, nasses Referenz-/Splice-Sample (liefert Atmosphäre und Vibe) mit einem selbst per MIDI nachgebauten, cleanen Sample desselben Instruments übereinanderlegen → der Atmo-Charakter bleibt, der Nachbau gibt Körper und Klarheit; Kompromiss zwischen Stimmung und Definition
+
 **Sofort-Intro** (→ [[Envelopes]]): Intro auf ~8 Takte kürzen und direkt mit Kick + Hauptelement + Hook-Fragment starten statt langem Layer-Aufbau → liefert in den ersten Sekunden Song-Identität; optimiert auf Streaming-Retention (Spotify-Skip-Schwelle), bevor der Hörer wegklickt
 
 ## Rhythmus & Groove
@@ -84,3 +86,5 @@ Namensformat: **[Element]-[Wirkung]** — 1–2 Wörter, Bindestrich, Deutsch. V
 **Washout-Cut** (→ [[Reverb]]): Melodie-Reverb im letzten Build-up-Segment massiv aufdrehen, dann hart cutten → erzeugt Gefühl des „Ertrinkens" und macht die Stille davor tiefer
 
 **Sub-Riser** (→ [[Envelopes]]): Tiefer Sinuston steigt während Bass stumm ist → baut physischen Druck im Raum auf ohne Kick; macht den Drop-Einschlag größer
+
+**Riser-Welle** (→ [[Envelopes]]): Riser über mehrere Takte hochfahren, am Höhepunkt invertieren und beschleunigt wieder runterfahren — während der Drop durchläuft → erzeugt eine Spannungswelle (Anstieg + Auflösung) innerhalb eines laufenden Drops, ohne ihn zu unterbrechen; hält einen langen Drop spannend
