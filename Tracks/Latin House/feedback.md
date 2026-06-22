@@ -2,11 +2,14 @@
 
 Rohes, vollständiges Feedback zum Track. Archiv — die destillierte, handlungsrelevante Fassung steht im [[track_blueprint|Blueprint]] unter „Feedback".
 
-Neues Feedback als neue Datums-Sektion (`## TT.MM.JJJJ`) anlegen, darin pro Reviewer ein `###`-Block mit Server-Quelle.
+Neues Feedback als neue Datums-Sektion (`## TT.MM.JJJJ`) anlegen, darin pro Reviewer ein `###`-Block mit Server-Quelle. **Immer die Versions-ID** (= Ableton-Dateiname, z.B. `dembow4_3`) angeben, auf die sich die Runde bezieht.
+
+> [!info] Referenzier-Regel
+> Jede Feedback-Runde gilt für genau eine Versions-ID. Ein Kritikpunkt ist nur dann offen, wenn er nicht in einer **späteren** Version adressiert wurde. Vor dem Verarbeiten: Feedback-Version gegen „Aktuelle Version" im [[track_blueprint|Blueprint]]-Header (und ggf. Versions-Log) abgleichen — sonst wird veraltete Kritik auf einen schon gefixten Stand angewendet.
 
 ---
 
-## 21.06.2026
+## 21.06.2026 — Version `dembow4_3`
 
 **Gestellte Fragen:** Voice, Build-ups, Trompeten, Mix
 **Quellen:** Discord *We Suck At Producing* (A, C) · Discord *In the Mix* (B)

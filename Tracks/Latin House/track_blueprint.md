@@ -1,6 +1,6 @@
 # Latin House – Track Blueprint
 
-**BPM:** 125 | **Tonart:** B-Dur / B-Moll | **Länge:** 137 Takte
+**BPM:** 125 | **Tonart:** B-Dur / B-Moll | **Länge:** 137 Takte | **Aktuelle Version:** dembow4_3
 
 > Stichpunkte, keine Prosa. Techniken nicht erklären — `(→ Playbook: Name)` verweisen.
 > `[!warning]` = Problem + Lösung. `[!tip]` = offene Entscheidung/Idee. Kein Callout = sauber.
