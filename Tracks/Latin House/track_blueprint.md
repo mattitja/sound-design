@@ -199,14 +199,10 @@ Längster Drop des Tracks (verlängert auf 24 Takte) — bewusst zum Auskosten/F
 
 ## Outro (129–137)
 
-- **Kick:** 4/4 bis Takt 137
-- **Bass:** ab Takt 129 stumm (→ Playbook: Outro-Schnitt)
-- **Piano:** LP-Filter fährt zu bis Takt 137
-- **Percussion:** Bongos bis Ende
-- **FX:** Hats bis Takt 132; ab Takt 133 nur Kick; Wellenrauschen (Bookend zu Intro)
+Sehr simpel gehalten.
 
-> [!warning] Outro von 16 auf 8 Takte gekürzt
-> Feedback: Outro war gut für DJ-Mixing, hat den Song aber unnötig gestreckt — Song-Flow geht hier vor DJ-Mixability. Abbau-Stufen (Hats/Filter) müssen auf 8 Takte komprimiert werden
-
-> [!tip] Ende braucht mehr Nachhall
-> Reverb-Tail auf letzten Piano-Ton + Wellenrauschen länger auslaufen lassen
+- **Kick:** läuft 4/4 weiter bis Takt 137
+- **Bass:** komplett raus
+- **Piano:** Sound wie im Drop, keine Filter-Automation
+- **Percussion:** Bongos laufen durch
+- **FX:** Wellenrauschen (Bookend zu Intro)
