@@ -34,7 +34,7 @@ Server: *We Suck At Producing* · [Nachrichtenlink](https://discord.com/channels
 > Honestly, I think the mix is well done. Everything sounds balanced, and nothing feels like it's fighting for space or getting buried. It's a clean sounding track, however you should take this advice with a grain of salt because I'm still learning mixing and the things about it. From a listeners perspective, I would say that it is really good for your first track ever.
 
 **Status (Stand: dembow4_3):**
-- 🔲 Offen: Vocals zu „robotic" — zu viel Processing/Pitch-Correction, Effekte zurückfahren
+- ✅ Gelöst (Fix gesetzt, ab nächstem Bounce): Vocals „robotic" — Ursache war der Warp (Complex), nicht die Effekte. Fix: Warp → Re-Pitch + Formant-Kompensation (siehe [[vocal_fix]])
 - *Build-ups, Trompeten, Mix: positiv, keine Aktion*
 
 ### B — john skibidi (`hirasawafan`)
@@ -54,8 +54,8 @@ Server: *In the Mix* · [Nachrichtenlink](https://discord.com/channels/485460967
 > Not my kind of genre, but I'd say this would appeal to people who listens to this. It also sounds like what you're trying to convey as well. beachy, summer vibes. So good job on that 👍
 
 **Status (Stand: dembow4_3):**
-- 🔲 Offen: Vocals zu prozessiert — weniger Effekte
-- 🔲 Offen: Vocals fehlt Klarheit → EQ
+- ✅ Gelöst (Fix gesetzt, ab nächstem Bounce): Vocals zu prozessiert — Robotik-Wurzel war der Warp; Re-Pitch + Formant (siehe [[vocal_fix]])
+- 🔲 Offen: Vocals fehlt Klarheit → EQ (Nectar-Scoop ggf. zu weit)
 - 🔲 Offen (Idee): Build-up-Vocals mit Harmonien layern + Volume-Automation für mehr Hype
 - *Trompeten, Vibe: positiv, keine Aktion*
 

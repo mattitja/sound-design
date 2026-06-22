@@ -17,6 +17,10 @@ Namensformat: **[Element]-[Wirkung]** — 1–2 Wörter, Bindestrich, Deutsch. V
 
 **Bongo-Filter** (→ [[Filter]]): Durchlaufende Bongo-Spur an einzelnen Stellen mit LP/HP-Filter belegen statt sie den ganzen Song clear durchlaufen zu lassen → verhindert Ermüdung durch Gleichförmigkeit, schafft hörbare Section-Differenzierung bei einem Element das sonst nie pausiert
 
+**Warp-Entrobot** (→ [[Formanten]]): Vocals die bei abweichendem Tempo aufgenommen und per Granular-Warp (Ableton Complex/Complex Pro) ins Projekt-Tempo gedehnt werden, klingen robotisch (Stretch-Smear). Warp-Modus auf **Re-Pitch** stellen → dehnt per Resampling ohne Granular-Smear, Robotik verschwindet. Der dadurch entstehende Pitch-Drift ist egal, sobald ein nachgeschaltetes Pitch-Tool (Auto-Tune, Ableton Auto Shift via MIDI) die Tonhöhe ohnehin auf Zielnoten korrigiert. Wurzel-Fix, kein Effekt-Pflaster
+
+**Formant-Korrektur** (→ [[Formanten]]): Nach Re-Pitch/Resampling sitzt die Klangfarbe zu tief (dunkel/„gruselig") oder zu hoch (Chipmunk), weil Resampling Pitch und Formanten zusammen verschiebt. Formant-Regler (Auto Shift, Nectar, Auto-Tune) gegenläufig schieben — bei ~4 % Tempo-Slowdown ≈ +0,7 st nach oben → Original-Stimmfarbe zurück bei korrigierter Tonhöhe
+
 ## Dynamik & Energie
 
 **Piano-Pump** (→ [[Compressor]]): Piano mit hartem Sidechain-Kompressor gegen die Kick → erzeugt Club-Pumpen, drückt Piano im Rhythmus weg und wieder rein; gibt Drop Energie ohne Frequenz-Konkurrenz

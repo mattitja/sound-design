@@ -117,4 +117,13 @@ Settings aus dem Screenshot:
 - Bei Bedarf **Nectar → Correction → Formant Shift** ergänzend.
 - Nicht übertreiben → sonst dünn/Chipmunk. Ziel: klingt wieder „nach dir", nicht heller als das Original.
 
-> *Status: Re-Pitch gesetzt, Formant-Kompensation als nächstes einstellen → Ergebnis hier ergänzen.*
+**✅ Gelöst:** Re-Pitch + Formant nach oben → „klingt nach mir, aber ohne Robotik". Robotik-Wurzel erledigt, ohne die Effektkette anzufassen. Wandert ins Playbook (**Warp-Entrobot**, **Formant-Korrektur**) → [[Formanten]].
+
+### Noch offen (von der Kette / aus dem Feedback)
+
+Nach dem Robotik-Fix neu zu bewerten:
+- **Nectar Correction (Strength 100):** war Robotik-Verstärker — jetzt, auf sauberem Signal, runterdrehen/raus testen → mehr Natürlichkeit.
+- **EQ-Ausdünnung (Scoop ~300 Hz):** gegen „zu dünn / fehlende Klarheit" (B/C) etwas Low-Mid zurückgeben — Proximity-Bauch im Auge behalten.
+- **Pegel (C: „too loud"):** Vocal-Level im Mix runter.
+- **Strophe zu trocken (C):** Raum/Reverb geben (Chorus okay).
+- **Build-up-Vocals (B, Idee):** Harmonie-Layer + Volume-Automation für mehr Hype.
