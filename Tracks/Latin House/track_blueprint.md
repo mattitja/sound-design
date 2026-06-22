@@ -158,18 +158,10 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 - **Kick:** stumm
 - **Bass:** stumm
-- **Piano:** Bandpass Mitten-Isolierung (→ Playbook: Telefon-Filter)
-- **Vocals:** Snippets geschnitten
-- **Percussion:** Bongos herzschlagartig, sehr leise
-- **FX:** Hall-Teppich (Pad/Vocal-Reverb-Tail)
-
-> [!warning] Zu leer — Melodie fehlt + Vocals nicht wild genug
-> Rhodes-Melodie (2–4 Noten) mit viel Hall sehr leise dazu
-> Pad ist schon da, aber zu leise/wirkt unbeabsichtigt → Pad bewusst in den Vordergrund holen statt nur durchscheinen lassen
-> Vocals: mehr Stutter-Cuts, längere Stille zwischen Snippets
-
-> [!tip] Vogelzwitschern als FX-Idee
-> Im Breakdown Vogelzwitschern testen — passt zum Sommertrack-Vibe
+- **Piano:** gleicher Sound wie im Drop, kein separater Filter
+- **Percussion:** Bongos herzschlagartig, sehr leise; keine Vocal-Snippets
+- **Trompete:** Latino-Trompeten-Sample, sehr langsam/ruhig — wie auf einem Marktplatz
+- **FX/Atmo:** komplette Marktplatz-Szene (→ Playbook: Atmo-Szene): Vögelzwitschern + Glöckchen mit spanischem Gebet (Priester/Mann), Klingeln am Ende — Prozession auf der einen Seite, Trompete auf der anderen; sphärisch, holt runter
 
 ---
 

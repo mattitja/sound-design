@@ -63,6 +63,8 @@ Namensformat: **[Element]-[Wirkung]** — 1–2 Wörter, Bindestrich, Deutsch. V
 
 **Piano-Pan** (→ [[Chorus]]): Piano-Signal mit tempo-synchronisiertem Auto-Pan belegen → Piano wandert rhythmisch im Stereofeld; gibt identischem Sample in einer Folge-Section eine neue räumliche Dimension
 
+**Atmo-Szene** (→ [[Reverb]]): Mehrere Field-Recordings zu einer kohärenten realen Szene schichten (z.B. Marktplatz: Vögel, Glöckchen, gemurmeltes Gebet, entfernte Trompete) statt einzelner FX-Spielereien → erzeugt einen erzählerischen, räumlich glaubhaften Ort; ideal im Breakdown als erdender Kontrast, der den Hörer runterholt
+
 **Piano-Wobble** (→ [[Phaser]]): Subtiler Phaser oder Flanger auf Piano-Sample → erzeugt Timbre-Bewegung im statischen Loop ohne das Sample zu verändern; gut für Strophen-Variation
 
 **Oktav-Layer** (→ [[Oszillator]]): Piano-Sample eine Oktave höher pitchen und leise unter Original mischen → mehr Brillanz und wahrgenommene Größe; kaum hörbar als eigenes Element, spürbar als Gesamteindruck
