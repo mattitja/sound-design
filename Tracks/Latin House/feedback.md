@@ -68,6 +68,6 @@ Server: *We Suck At Producing* · [Nachrichtenlink](https://discord.com/channels
 > btw i don't know if he told you that but the voice is a bit too loud and it might have been rec too close to the mic (proximity effect) it feels pretty dry too sometimes chorus are fine, verse feels dry
 
 **Status (Stand: dembow4_3):**
-- 🔲 Offen: Stimme stellenweise zu laut → Pegel runter
-- 🔲 Offen: zu nah am Mikro / Proximity-Effekt → Low-Mids per EQ zähmen
-- 🔲 Offen: Strophe zu trocken → Raum/Reverb (Chorus okay)
+- 🔲 In Arbeit: Stimme stellenweise zu laut → Pegel runter (erst −1 dB getestet)
+- 🔲 In Arbeit: zu nah am Mikro / Proximity-Effekt → Low-Mids per EQ zähmen
+- ✅ Gelöst (Fix gesetzt, ab nächstem Bounce): Strophe zu trocken → dezente Ambience („Luft, kein Raum", siehe [[vocal_fix]])
