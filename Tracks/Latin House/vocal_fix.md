@@ -108,5 +108,13 @@ Settings aus dem Screenshot:
 - **Nectar Correction Strength runter / raus:** zweite Korrektur entschärfen, ggf. ganz weg, wenn Auto Shift schon sauber tuned.
 - **EQ-Scoop dosieren:** gegen „zu dünn / fehlende Klarheit" (B/C) etwas Low-Mid zurückgeben — aber nimmt Proximity-Bauch mit, also vorsichtig. Geschmack.
 
-### Nächster konkreter Schritt
-→ **A testen:** Warp auf Re-Pitch stellen, gegen aktuellen Stand A/B-vergleichen. Ergebnis hier eintragen.
+### Ergebnis-Log
+
+**A — Re-Pitch getestet (✅ großer Sprung):** Robotik **fast komplett weg**, wesentlich besser. Nebenwirkung wie vorhergesagt: Klangfarbe **dunkler / „gruseliger"** — Re-Pitch senkt Pitch *und* Formanten (~0,7 st); Auto Shift holt nur die Tonhöhe zurück, die Formanten bleiben unten.
+
+**Folge-Fix — Formant kompensieren:**
+- **Auto Shift → Formant** (war 0 st) nach Gehör auf ~**+0,5…+1 st** hoch, bis die Original-Helligkeit zurück ist (knapp unter +1 st gleicht die Re-Pitch-Absenkung aus).
+- Bei Bedarf **Nectar → Correction → Formant Shift** ergänzend.
+- Nicht übertreiben → sonst dünn/Chipmunk. Ziel: klingt wieder „nach dir", nicht heller als das Original.
+
+> *Status: Re-Pitch gesetzt, Formant-Kompensation als nächstes einstellen → Ergebnis hier ergänzen.*
