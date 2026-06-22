@@ -134,9 +134,11 @@ Settings aus dem Screenshot:
 
 ### Chorus — gleicher Fix, später (zurückgestellt)
 
-> [!tip] Chorus-Vocals: Re-Pitch + Formant, aber umgekehrte Richtung — Plan steht
-> Chorus wurde bei **120 BPM** aufgenommen, Projekt 123 → Clip wird **hochgewarpt** (+2,5 %, schneller). Robotik geringer als Strophe (nur 3 BPM). **Gleiche Chain wie Strophe** (inkl. Auto Shift), nur anderer Sound: breiter, mehr Voices, mehr Hall (atmosphärischer) — Nutzer damit zufrieden, bleibt.
-> - **Pitch-Drift unkritisch:** Re-Pitch pitcht nach oben, aber Auto Shift (MIDI) zwingt die Tonhöhe ohnehin auf die Zielnoten zurück → keine Verstimmung, wie bei der Strophe.
-> - **Vorgehen (bestätigt):** alle Chorus-Snippet-Clips multi-selektieren → Warp-Modus gemeinsam auf **Re-Pitch** (greift auf alle selektierten). Voraussetzung: alle aus 120-BPM-Quelle.
-> - **Formant nach unten** (umgekehrt zur Strophe), kleinerer Betrag ~**−0,4 st** (nur 3 BPM Sprung), nach Gehör.
-> - **Checks:** Robotik-A/B (Gewinn kleiner als Strophe); Mono-Check wegen breiter Voices/Hall.
+> [!info] Chorus-Vocals — ✅ erledigt
+> Chorus (bei 120 BPM aufgenommen, +2,5 % hochgewarpt) auf **Re-Pitch** umgestellt (alle Snippet-Clips multi-selektiert, gemeinsam) + **Formant nach unten** (~−0,4 st, umgekehrt zur Strophe). Auto Shift fängt den Pitch-Drift ab → keine Verstimmung. Atmosphäre (breite Voices, Hall) bleibt. Passt.
+
+---
+
+## ✅ Status: Vocals komplett durch
+
+Strophe + Chorus erledigt. Robotik-Wurzel (Warp Complex) gelöst via Re-Pitch + Formant; dazu EQ/Klarheit, Pegel, Ambience. Verbleibend nur die *additive* Idee **Build-up-Vocals: Harmonie-Layer + Volume-Automation** (Feedback B) — kein Problem, sondern Kür.

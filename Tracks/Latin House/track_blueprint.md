@@ -78,11 +78,8 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 ## Offene Aufgaben
 
 - **Mix/Mastering läuft gut:** Multi-Device-Check bestanden, Track funktioniert auf mehreren Abhören schon sehr gut; externes Feedback bestätigt sauberen, ausbalancierten Mix.
-- **Hauptaufgabe — Vocals entschlacken (Strophe + Chorus/Drop):** 3× unabhängig als „zu prozessiert/robotic" gemeldet. Processing + Pitch-Correction zurückfahren, natürlichere Stimme durchlassen, ohne den Auto-Tune-Vibe zu killen (siehe → Strophe 1)
-- **Vocal-EQ:** Klarheit schaffen; Proximity-Bump (Low-Mids durch Nahbesprechung) zähmen
-- **Vocal-Pegel:** Stimme stellenweise zu laut → runterziehen
-- **Strophen-Vocals zu trocken:** etwas Raum/Reverb geben (Chorus ist okay)
-- **Build-up-Vocals:** Harmonie-Layer + Volume-Automation für mehr Hype testen
+- **Vocals erledigt:** „zu prozessiert/robotic" gelöst — Wurzel war der Warp (Complex), nicht die Effekte; Strophe + Chorus auf Re-Pitch + Formant umgestellt, dazu EQ/Pegel/Ambience (→ [[vocal_fix]]).
+- **Build-up-Vocals (offen, additiv):** Harmonie-Layer + Volume-Automation für mehr Hype testen.
 
 ---
 
@@ -104,11 +101,8 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Kick:** 4/4 konstant
 - **Bass:** Viertel G–A–B–D + Übergangstone auf 1.4/2.4/3.4
 - **Piano:** 1 Oktave runter + LP-Filter (→ Playbook: Oktav-Drop)
-- **Vocals:** komplette, selbst eingesungene Strophe; auf abweichender Melodie eingesungen → komplett geshiftet (Auto-Shift Ableton + iZotope); Auto-Tune; mit RX12 entstört
+- **Vocals:** komplette, selbst eingesungene Strophe auf abweichender Melodie → per Auto Shift (MIDI) auf Zielnoten geshiftet, Nectar für Sound. Finalisiert: Warp auf Re-Pitch gegen Robotik (→ Playbook: Warp-Entrobot) + Formant-Kompensation, Klarheits-EQ, Pegel −1 dB, dezente Ambience („Luft, kein Raum") — Details → [[vocal_fix]]
 - **Percussion:** Bongos; ab Takt 25 Top-Loop mit starkem Shake auf dem Offbeat (→ Playbook: Offbeat-Shake)
-
-> [!warning] Vocals klingen zu prozessiert (extern bestätigt)
-> Melodie sitzt, künstlicher Charakter ist gewollt — aber 3× unabhängiges Feedback „zu prozessiert/robotic" (siehe → Feedback). Vocal-Chain (Auto-Shift + iZotope) entschlacken, ohne den Auto-Tune-Vibe zu killen. Strophen-spezifisch zusätzlich: zu trocken (Raum/Reverb geben), stellenweise zu laut, mehr Klarheit per EQ — Chorus ist okay
 
 ---
 
