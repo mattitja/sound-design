@@ -189,27 +189,21 @@ Längster Drop des Tracks (verlängert auf 24 Takte) — bewusst zum Auskosten/F
 - **Kick:** wie Drop 1+2
 - **Bass:** wie Drop 1+2
 - **Piano:** wie Drop 1+2
-- **Percussion:** wie Drop 1+2; Tamburin/Shaker über 10 kHz; Bongo-Fills dichter
+- **Percussion:** wie Drop 1+2
 - **Top-Loop:** wie Drop 1+2
 - **Claps:** Eskalation 2+4 → 1+2+3+4 — erster Einsatz im Track (→ Playbook: Clap-Eskalation)
 - **Riser:** ab Takt 117 über 8 Takte hoch (bis 125), dann invertiert + beschleunigt wieder runter — die Welle läuft, während der Drop weiterspielt (→ Playbook: Riser-Welle)
 - **Trompeten:** ab Takt 121; zwei Trompeten in großen Intervallsprüngen auf und ab, eingängige, kraftvolle Fanfare. Verwaschenes Splice-Sample (wet, liefert Atmosphäre) + eigener MIDI-Nachbau mit Einzel-Trompetensample (Körper, Klarheit), übereinander gelayert (→ Playbook: Layer-Nachbau). Hinten raus kleiner High Cut → beruhigt alles Richtung Outro
 
-> [!warning] Takt-Überlappung mit Outro klären
-> Drop 3 reicht jetzt bis Takt 128, Outro ist noch auf 121–128 nummeriert. Entweder Outro nach hinten schieben oder als Teil des Drop-Ausklangs auflösen — Nummerierung muss vereinheitlicht werden
-
-> [!tip] Letzter Drop — mehr Vocals, verspielter schneiden
-> Mehr Vocal-Material einbauen; „deins ist es auch"-Zeile noch weiter zurechtschneiden, ruhig verspielt/verspielter Schabernack mit den Schnitten treiben
-
 ---
 
-## Outro (121–128)
+## Outro (129–137)
 
-- **Kick:** 4/4 bis Takt 128
-- **Bass:** ab Takt 121 stumm (→ Playbook: Outro-Schnitt)
-- **Piano:** LP-Filter fährt zu bis Takt 128
+- **Kick:** 4/4 bis Takt 137
+- **Bass:** ab Takt 129 stumm (→ Playbook: Outro-Schnitt)
+- **Piano:** LP-Filter fährt zu bis Takt 137
 - **Percussion:** Bongos bis Ende
-- **FX:** Hats bis Takt 124; ab Takt 125 nur Kick; Wellenrauschen (Bookend zu Intro)
+- **FX:** Hats bis Takt 132; ab Takt 133 nur Kick; Wellenrauschen (Bookend zu Intro)
 
 > [!warning] Outro von 16 auf 8 Takte gekürzt
 > Feedback: Outro war gut für DJ-Mixing, hat den Song aber unnötig gestreckt — Song-Flow geht hier vor DJ-Mixability. Abbau-Stufen (Hats/Filter) müssen auf 8 Takte komprimiert werden
