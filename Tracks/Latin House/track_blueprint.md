@@ -125,17 +125,8 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 ## Strophe 2 (49–64)
 
-- **Kick:** 4/4 konstant
-- **Bass:** wie Strophe 1
-- **Piano:** original, leiser, ohne Verzerrung
-- **Percussion:** Bongos grooven
-- **FX:** Claps + Hats auf mittlerer Lautstärke
-
-> [!tip] Atmosphäre ausbauen
-> Piano: Piano-Pan (→ Playbook: Piano-Pan) oder Piano-Wobble (→ Playbook: Piano-Wobble)
-
-> [!tip] Bongos zwischendurch filtern
-> Bongos laufen den ganzen Song clear durch — an manchen Stellen LP/HP-Filter probieren für mehr Differenzierung (→ Playbook: Bongo-Filter)
+- **Alle Elemente:** wie Strophe 1
+- **FX:** Wellengeräusch (wie Intro)
 
 ---
 
