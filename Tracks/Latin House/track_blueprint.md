@@ -167,19 +167,18 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 ## Build-up 3 (97–104)
 
+> Geht direkt aus dem Breakdown hervor — Piano-Sample bleibt dasselbe (runteroktaviert) und schafft den Übergang.
+
 - **Kick:** sofort 8tel ab Takt 97
 - **Bass:** stumm; Sub-Riser (→ Playbook: Sub-Riser)
-- **Piano:** Bandpass öffnet sich taktweise; wird lauter + aggressiver
-- **Percussion:** Snare-Rolls; alle Percussion eskaliert
-- **FX:** Risers explodieren in Richtung Takt 104
+- **Piano:** runteroktaviertes Sample wie im Breakdown; noch ohne Hall
+- **Snare:** wie Build-up 1 (→ Playbook: Snare-Einroller)
+- **Percussion:** alle Percussion eskaliert
+- **FX:** Riser wie zuvor, explodiert Richtung Takt 104
+- **Vocals:** Variation auf „ich will noch nicht heim" — „will noch nicht heim" repetitiv; Richtung Ende „heim, heim, heim" immer schneller + Links-Rechts-Panning; in der Drop-Stille „deins ist es auch" eine Oktave runtergepitcht → ausdrucksstärker, besonderer (→ Playbook: Hook-Saat)
 
-> [!warning] Übergang Breakdown → Build-up zu abrupt
-> *A:* Takt 97–98 weiter 4/4-Kick, erst ab Takt 99 auf 8tel ← empfohlen
-> *B:* Sub-Riser startet Takt 96 (letzter Breakdown-Takt) — physischer Druck vor dem Kick
-> *C:* Stumme Hälfte Takt 96.5 als kurzes „Durchatmen"
-
-> [!tip] Stereo-Bewegung im Build-up
-> Schnelles Links-Rechts-Pan auf Percussion (Auto-Pan tempo-sync) — Idee aus Cuba; gleiche Vorsicht wie bei Build-up 1/2 — nicht zu hektisch
+> [!tip] Hall für fetteren Drop
+> Build-up läuft auch trocken gut — testen, ob Hall-Einbau den Drop noch fetter macht
 
 ---
 
