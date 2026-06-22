@@ -67,20 +67,11 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 ## Feedback (externe Hörer)
 
-Drei Reviews über Discord eingeholt. Profile: **A** = 14 J., Los Angeles, produziert Boom-Bap · **B** = 20 J., Lofi, etwas erfahrener · **C** = erfahrener, anderes Genre.
+> Drei Reviews (21.06.) — Rohtext + Profile/Links in [[feedback]]. Hier nur die Essenz.
 
-**Positiv (Konsens):**
-- Vibe/Energie einzigartig, Latin-Feeling kommt an; Beachy/Summer-Stimmung wird transportiert (A, B)
-- Piano-Loop = Lieblingselement, Hook catchy auch ohne Sprachverständnis (A)
-- Trompeten passen perfekt, bringen genau die Latin-Energie (A, B)
-- Build-ups treiben gut, halten die Energie (A)
-- Mix ausbalanciert, clean, nichts wird begraben oder kämpft um Platz (A)
+**Positiv (Konsens):** einzigartiger Vibe, Latin-/Summer-Feeling kommt an · Piano-Loop = Lieblingselement, Hook catchy auch ohne Sprachverständnis · Trompeten passen perfekt · Build-ups treiben gut · Mix clean & ausbalanciert, nichts wird begraben.
 
-**Kritik (Konsens = Vocals):**
-- *„the voice feels too 'robotic' at times… too much processing or pitch correction… pulling back on the effects… would probably feel more authentic"* (A) — deckt sich mit B („a bit too processed, slightly less effects")
-- Vocals fehlt Klarheit → mit EQ nacharbeiten (B)
-- *„the voice is a bit too loud and it might have been rec too close to the mic (proximity effect)… chorus are fine, verse feels dry"* (C)
-- Build-up-Idee: Vocals mit Harmonien layern + Volume-Automation über den Build-up → mehr Hype (B)
+**Kritik (Konsens = Vocals):** zu prozessiert/robotic, zu viel Processing/Pitch-Correction (A + B) · fehlende Klarheit → EQ (B) · zu laut + zu nah am Mikro / Proximity, Strophe zu trocken, Chorus okay (C) · Idee: Build-up-Vocals mit Harmonien layern + Volume-Automation (B).
 
 ---
 
