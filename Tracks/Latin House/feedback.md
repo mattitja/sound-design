@@ -55,7 +55,7 @@ Server: *In the Mix* · [Nachrichtenlink](https://discord.com/channels/485460967
 
 **Status (Stand: dembow4_3):**
 - ✅ Gelöst (Fix gesetzt, ab nächstem Bounce): Vocals zu prozessiert — Robotik-Wurzel war der Warp; Re-Pitch + Formant (siehe [[vocal_fix]])
-- 🔲 Offen: Vocals fehlt Klarheit → EQ (Nectar-Scoop ggf. zu weit)
+- ✅ Gelöst (Fix gesetzt, ab nächstem Bounce): Vocals fehlt Klarheit → Low-Cut bleibt, Höhen leicht angehoben, Proximity-Bauch weg (siehe [[vocal_fix]])
 - 🔲 Offen (Idee): Build-up-Vocals mit Harmonien layern + Volume-Automation für mehr Hype
 - *Trompeten, Vibe: positiv, keine Aktion*
 
@@ -68,6 +68,6 @@ Server: *We Suck At Producing* · [Nachrichtenlink](https://discord.com/channels
 > btw i don't know if he told you that but the voice is a bit too loud and it might have been rec too close to the mic (proximity effect) it feels pretty dry too sometimes chorus are fine, verse feels dry
 
 **Status (Stand: dembow4_3):**
-- 🔲 In Arbeit: Stimme stellenweise zu laut → Pegel runter (erst −1 dB getestet)
-- 🔲 In Arbeit: zu nah am Mikro / Proximity-Effekt → Low-Mids per EQ zähmen
+- ✅ Gelöst (Fix gesetzt, ab nächstem Bounce): Stimme stellenweise zu laut → −1 dB + Reverb/EQ-Platzierung
+- ✅ Gelöst (Fix gesetzt, ab nächstem Bounce): zu nah am Mikro / Proximity → per EQ gezähmt; Learning für künftige Aufnahmen (mehr Mikro-Abstand, → Playbook: Mikro-Abstand)
 - ✅ Gelöst (Fix gesetzt, ab nächstem Bounce): Strophe zu trocken → dezente Ambience („Luft, kein Raum", siehe [[vocal_fix]])

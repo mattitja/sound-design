@@ -21,6 +21,8 @@ Namensformat: **[Element]-[Wirkung]** — 1–2 Wörter, Bindestrich, Deutsch. V
 
 **Formant-Korrektur** (→ [[Formanten]]): Nach Re-Pitch/Resampling sitzt die Klangfarbe zu tief (dunkel/„gruselig") oder zu hoch (Chipmunk), weil Resampling Pitch und Formanten zusammen verschiebt. Formant-Regler (Auto Shift, Nectar, Auto-Tune) gegenläufig schieben — bei ~4 % Tempo-Slowdown ≈ +0,7 st nach oben → Original-Stimmfarbe zurück bei korrigierter Tonhöhe
 
+**Mikro-Abstand** (→ [[Reverb]]): Beim Einsingen genug Abstand zum Mikro halten (1–2 Fäuste, Pop-Filter dazwischen) → vermeidet den Proximity-/Nahbesprechungs-Bauch in den Low-Mids, der sich sonst nur korrektiv per EQ wieder rausschneiden lässt. Bewusst nutzbar für intime, warme Vocals — aber für durchsetzungsstarke Club-Vocals von vornherein weniger Bauch besser
+
 ## Dynamik & Energie
 
 **Piano-Pump** (→ [[Compressor]]): Piano mit hartem Sidechain-Kompressor gegen die Kick → erzeugt Club-Pumpen, drückt Piano im Rhythmus weg und wieder rein; gibt Drop Energie ohne Frequenz-Konkurrenz

@@ -121,11 +121,16 @@ Settings aus dem Screenshot:
 
 ### Noch offen (von der Kette / aus dem Feedback)
 
-Nach dem Robotik-Fix neu zu bewerten:
-- **EQ-Ausdünnung (Scoop ~300 Hz):** gegen „zu dünn / fehlende Klarheit" (B/C) etwas Low-Mid zurückgeben — Proximity-Bauch im Auge behalten.
-- **Pegel (C: „too loud"):** Vocal-Level im Mix runter — *erst −1 dB getestet, prüfen ob genug.*
+**Strophe ist jetzt fertig:**
+- ✅ **EQ / Klarheit + Proximity (B/C) — gelöst:** Low-Cut bleibt (mehr Tiefe → bauchig), Höhen leicht angehoben → Klarheit da, Proximity-Bauch weg. Mit dem EQ zufrieden.
+- ✅ **Pegel (C: „too loud") — gelöst:** −1 dB + Reverb/EQ-Platzierung; Stimme sitzt nicht mehr zu vorn.
 - ✅ **Strophe zu trocken (C) — gelöst:** *Luft, kein Raum* via dezenter Ambience (trotz 1-s-Decay-Floor über niedrigen Mix/Damping gezähmt), Trockenheit der Outdoor-Lyric bleibt erhalten, „klebt-vorn"-Kante weg. Reverb sitzt (→ [[Reverb]]).
+
+**Noch offen (additiv, später):**
 - **Build-up-Vocals (B, Idee):** Harmonie-Layer + Volume-Automation für mehr Hype.
+
+> [!info] Learning für künftige Aufnahmen: weniger Nahbesprechung
+> Der Proximity-Bauch (C) musste korrektiv per EQ raus. Künftig beim Einsingen **mehr Mikro-Abstand** (1–2 Fäuste, Pop-Filter dazwischen) → Bauch entsteht gar nicht erst. → Playbook: **Mikro-Abstand**.
 
 ### Chorus — gleicher Fix, später (zurückgestellt)
 
