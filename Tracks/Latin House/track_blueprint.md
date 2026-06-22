@@ -90,14 +90,17 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Kick:** 4/4 konstant
 - **Bass:** Viertel G–A–B–D + Übergangstone auf 1.4/2.4/3.4
 - **Piano:** 1 Oktave runter + LP-Filter (→ Playbook: Oktav-Drop)
-- **Vocals:** eigenes Sample, gestreckt, Auto-Tune (→ Playbook: Vocal-Stretch)
-- **Percussion:** Bongos; Güira stumm
+- **Vocals:** eigenes Sample, gestreckt, Auto-Tune; auf abweichender Melodie eingesungen → komplett geshiftet (Auto-Shift Ableton + iZotope); mit RX12 entstört (→ Playbook: Vocal-Stretch)
+- **Percussion:** Bongos; Güira stumm; ab Takt 25 Top-Loop mit starkem Shake auf dem Offbeat (→ Playbook: Offbeat-Shake)
 
 > [!warning] Piano wirkt statisch
 > Cutoff-Automation 2–5 kHz, leicht atmend, gezeichnet — kein LFO
 
 > [!tip] Piano noch nicht „schwimmend" genug
 > Cutoff-Automation allein reicht nicht — zusätzlich Piano-Wobble (→ Playbook: Piano-Wobble) probieren für mehr Timbre-Bewegung im Loop
+
+> [!warning] Vocals klingen zu prozessiert
+> Melodie sitzt (Nutzer zufrieden), künstlicher Charakter ist gewollt — aber 2× Feedback „zu prozessiert". Vocal-Chain (Auto-Shift + iZotope) gezielt durchgehen, Artefakte reduzieren ohne den Auto-Tune-Vibe zu killen
 
 ---
 

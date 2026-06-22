@@ -49,6 +49,8 @@ Namensformat: **[Element]-[Wirkung]** — 1–2 Wörter, Bindestrich, Deutsch. V
 
 **Bass-Glide** (→ [[Bass]]): Bass-Stimme auf letztem Achtel jedes Schlags eine Oktave hochpitchen → erzeugt Glide-Übergang zwischen Bassnoten; gibt statischem Pattern Bewegung ohne Harmoniewechsel
 
+**Offbeat-Shake** (→ [[LFO]]): Top-Loop mit betontem Shaker auf dem Offbeat erst in der zweiten Hälfte einer Strophe dazuschalten → bringt House-Vibe und Interesse, ohne die Section von Anfang an zu überladen; markiert zugleich den inneren Wechselpunkt der Strophe
+
 ## Raumgefühl & Psychoakustik
 
 **Vocal-Stretch** (→ [[Effekte]]): Eigenes Gesangssample über eine ganze Section strecken + Auto-Tune → erzeugt atmosphärische Tiefe und persönliche Identität ohne melodische Konkurrenz zum Hauptelement
