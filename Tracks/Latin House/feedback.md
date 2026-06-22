@@ -71,3 +71,37 @@ Server: *We Suck At Producing* · [Nachrichtenlink](https://discord.com/channels
 - ✅ Gelöst (Fix gesetzt, ab nächstem Bounce): Stimme stellenweise zu laut → −1 dB + Reverb/EQ-Platzierung
 - ✅ Gelöst (Fix gesetzt, ab nächstem Bounce): zu nah am Mikro / Proximity → per EQ gezähmt; Learning für künftige Aufnahmen (mehr Mikro-Abstand, → Playbook: Mikro-Abstand)
 - ✅ Gelöst (Fix gesetzt, ab nächstem Bounce): Strophe zu trocken → dezente Ambience („Luft, kein Raum", siehe [[vocal_fix]])
+
+---
+
+## 23.06.2026 — Version `dembow4_3`
+
+**Hinweis:** Gehört wurde noch `dembow4_3`, also **vor** der Vocal-Session (22.06.). Ein Teil der Vocal-Kritik ist damit schon adressiert — Status unten entsprechend abgeglichen.
+
+### D — Cooper (`thecoopster97`)
+
+„Shitty music producer · Podcast Dad" · erfahren, gibt sehr detailliertes, technisches Feedback
+Quelle: *(nicht angegeben)*
+
+> Apparently German Latin House exists now!
+>
+> Overall, I find your track to be catchy and I like the progression. I think the overall balance of the mix is pretty solid, but feels a little empty in spots.
+>
+> For example, the piano in the first verse is low-passed to the point it almost disappears. I think if you were to open that filter a bit, the track could feel repetitive since that loop persists through most of the song. Instead, some synth stabs with a long reverb could do a lot to fill this space, but I think any instrument to help fill out that gap in the mid and upper mid range would do a lot here.
+>
+> You specifically asked about the vocal and vocal processing - I'm not a fan of the pitch correction - it feels kind of vocoder-y instead of that harsher Auto-tune sound. I feel like less OR more of the Auto-tune sound would work better - the pitch correction needs to be either more or less subtle. The vocal is also too dry in sections like that intro verse. I would fill it out with some delay/reverb and also suggest creating other takes (maybe harmonies) to pan and fill out the stereo field since the higher mids and treble are pretty much mono there.
+>
+> I do like the trumpets in the last drop! They should be a little brighter to add energy, so I'd boost a few db around 2khz-8khz. They could also be louder - compressing them to be more consistently present would help.
+>
+> The build ups are fine but a little weak. Your snare build should increase in volume as we get closer to the drop. The build ups lack tonality, so I'd add a tonal riser (can just be a simple synth pitching up an octave or 2 over the build up). I'd also add a kick right after everything cuts out (like the next note after the snare build) to make the transition between build and drop more energetic and abrupt.
+>
+> Overall, I like the track and think it's a really interesting direction!
+
+**Status (Stand: dembow4_3):**
+- ✅ Schon gelöst (Vocal-Session 22.06.): Vocal zu trocken im Intro/Verse → Ambience gesetzt (siehe [[vocal_fix]])
+- 🔲 Offen (Entscheidung): Pitch-Correction „vocoder-y" — entweder **mehr ODER weniger** Auto-Tune, nicht der Mittelweg. Deckt sich teils mit unserer Analyse (Auto Shift @ 100 % wet MIDI-Resynthese = das Vocoder-hafte). Re-Pitch hat das Warp-Robotic behoben, die Resynthese-Charakteristik bleibt → auf neuem Bounce neu hören, dann committen: harter Auto-Tune **oder** natürlicher (Dry/Wet runter)
+- 🔲 Offen (Idee, = B): zusätzliche Takes/Harmonien pannen → Stereofeld füllen, da höhere Mitten/Höhen mono
+- 🔲 Offen: Mix „empty in spots" — Verse-Piano zu stark LP-gefiltert (fast weg); Filter etwas öffnen ODER **Synth-Stabs mit langem Reverb** / Element im Mid/Upper-Mid einfügen
+- 🔲 Offen: Trompeten (Drop 3) **heller** (Boost ~2–8 kHz) + **lauter** + komprimieren für konstante Präsenz
+- 🔲 Offen: Build-ups „weak" — (a) Snare-Build **lauter** Richtung Drop (Volume-Swell), (b) **tonaler Riser** (Synth 1–2 Oktaven hoch), (c) **Kick direkt nach dem Cut** (nächste Note nach Snare-Build) → abrupterer, energetischerer Übergang
+- *Positiv: catchy, Progression, Mix-Balance solide, Trompeten, „interesting direction"*

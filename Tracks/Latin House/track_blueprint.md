@@ -81,6 +81,13 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Vocals erledigt:** „zu prozessiert/robotic" gelöst — Wurzel war der Warp (Complex), nicht die Effekte; Strophe + Chorus auf Re-Pitch + Formant umgestellt, dazu EQ/Pegel/Ambience (→ [[vocal_fix]]).
 - **Build-up-Vocals (offen, additiv):** Harmonie-Layer + Volume-Automation für mehr Hype testen.
 
+**Aus Feedback 23.06. (Cooper, → [[feedback]]):**
+- **Mix-Lücke Mid/Upper-Mid:** Verse-Piano fast weggefiltert → Mix wirkt stellenweise leer. Filter leicht öffnen *oder* (besser, gegen Wiederholung) Synth-Stabs mit langem Reverb / Füll-Element im Mid/Upper-Mid.
+- **Vocal-Entscheidung:** Pitch-Correction wirkt „vocoder-y" → committen zu *mehr oder weniger* Auto-Tune (Mittelweg vermeiden); auf neuem Bounce neu bewerten.
+- **Stereo füllen:** zusätzliche Vocal-Takes/Harmonien pannen (höhere Mitten/Höhen sind mono).
+- **Trompeten (Drop 3):** heller (Boost ~2–8 kHz) + lauter + komprimieren für konstante Präsenz.
+- **Build-ups druckvoller:** Snare-Build mit Volume-Swell Richtung Drop; tonaler Riser (Synth 1–2 Okt. hoch); Kick direkt nach dem Cut für abrupteren Übergang.
+
 ---
 
 ## Intro (1–8)
