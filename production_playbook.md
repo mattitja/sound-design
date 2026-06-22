@@ -45,7 +45,7 @@ Namensformat: **[Element]-[Wirkung]** — 1–2 Wörter, Bindestrich, Deutsch. V
 
 **Perc-Puls** (→ [[LFO]]): Sparse Percussion-Pattern alle 4 Takte mit kleiner Höhen-Varianz (z.B. extra Schläge oder Akzente) abschließen → signalisiert dem Hörer unbewusst den Phrasen-Übergang ohne ein neues Element einzuführen
 
-**Snare-Einroller** (→ [[Envelopes]]): House-Snare im Build-up das Kick-Pattern mitverdoppeln lassen (mit bis zu 16teln hinten raus) und zusätzlich auf „4 und" zwei 16tel vor jede „1" setzen → rollt jeden Taktanfang ein, treibt House-Energie in den Drop; bewusster House-Vibe-Akzent vor dem Einschlag
+**Snare-Einroller** (→ [[Envelopes]]): House-Snare im Build-up das Kick-Pattern mitverdoppeln lassen (mit bis zu 16teln hinten raus) und zusätzlich auf „4 und" zwei 16tel vor jede „1" setzen → rollt jeden Taktanfang ein, treibt House-Energie in den Drop; bewusster House-Vibe-Akzent vor dem Einschlag, mit leichtem Marsch-/Militär-Charakter
 
 **Clap-Eskalation** (→ [[Envelopes]]): Erste Drop-Hälfte Clap auf 2+4, zweite Hälfte auf 1+2+3+4 → steigert Energie und Dichte innerhalb des Drops ohne neues Element; lässt den Drop größer wirken als er ist
 

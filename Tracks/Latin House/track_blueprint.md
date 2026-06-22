@@ -103,15 +103,10 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Kick:** 4/4 Takt 33–36; Hochpass ab Takt 37 (→ Playbook: Kick-Hochpass); 8tel ab Takt 39; 16tel erste Hälfte Takt 40; zweite Hälfte stumm (→ Playbook: Drop-Stille)
 - **Bass:** stumm (→ Playbook: Bass-Vakuum)
 - **Piano:** Reverb Washout ab Takt 37, Takt 40 hart cutten (→ Playbook: Washout-Cut)
-- **Snare:** House-Snare; ab Takt 37 verdoppelt mit der Kick, hinten raus 16tel exakt wie Kick; zusätzlich auf „4 und" zwei 16tel hintereinander → jede „1" wird eingerollt (→ Playbook: Snare-Einroller); verstärkt House-Vibe
+- **Snare:** House-Snare; ab Takt 37 verdoppelt mit der Kick, hinten raus 16tel exakt wie Kick; zusätzlich auf „4 und" zwei 16tel hintereinander → jede „1" wird eingerollt (→ Playbook: Snare-Einroller); verstärkt House-Vibe + gewollter Marsch-/Militär-Charakter
 - **Vocals:** Build-up-Sample; „deins ist es auch" fällt in Drop-Stille (→ Playbook: Hook-Saat)
 - **Percussion:** Bongos
 - **FX:** Riser baut sich kontinuierlich auf, Auto-Pan wabert nach hinten immer schneller links/rechts; endet vor der Drop-Stille
-
-> [!warning] Piano-Teaser klingt zu identisch zum Drop
-> LP-Filter von Takt 33 an → Piano im Build-up dumpf, Washout-Tail warm aber nicht voll; Drop öffnet erst voll
-> *A:* LP-Filter ab Takt 33 — dumpf, öffnet erst im Drop ← empfohlen
-> *B:* 100% Wet ab Takt 33 — Piano nur als Hall-Schimmer; Drop = erstes echtes Sample
 
 ---
 
