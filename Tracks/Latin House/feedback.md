@@ -4,6 +4,8 @@ Rohes, vollständiges Feedback zum Track. Archiv — die destillierte, handlungs
 
 Neues Feedback als neue Datums-Sektion (`## TT.MM.JJJJ`) anlegen, darin pro Reviewer ein `###`-Block mit Server-Quelle. **Immer die Versions-ID** (= Ableton-Dateiname, z.B. `dembow4_3`) angeben, auf die sich die Runde bezieht.
 
+Unter jedem Post ein **Status-Block**, der die handlungsrelevanten Punkte verfolgt: `🔲 offen` / `✅ gelöst` (mit Version, in der's gefixt wurde). Wird beim Bearbeiten eines Punkts direkt aktualisiert.
+
 > [!info] Referenzier-Regel
 > Jede Feedback-Runde gilt für genau eine Versions-ID. Ein Kritikpunkt ist nur dann offen, wenn er nicht in einer **späteren** Version adressiert wurde. Abgleich: Feedback-Version gegen „Aktuelle Version" im [[track_blueprint|Blueprint]]-Header prüfen; primär gegen den Live-Zustand des Blueprints abgleichen (zeigt den aktuellen Stand). Reicht das nicht, `git log`/`git diff` als „was-änderte-sich-seitdem"-Quelle nutzen — **kein** manuelles Versions-Log führen (dupliziert die Git-History).
 
@@ -31,6 +33,10 @@ Server: *We Suck At Producing* · [Nachrichtenlink](https://discord.com/channels
 >
 > Honestly, I think the mix is well done. Everything sounds balanced, and nothing feels like it's fighting for space or getting buried. It's a clean sounding track, however you should take this advice with a grain of salt because I'm still learning mixing and the things about it. From a listeners perspective, I would say that it is really good for your first track ever.
 
+**Status (Stand: dembow4_3):**
+- 🔲 Offen: Vocals zu „robotic" — zu viel Processing/Pitch-Correction, Effekte zurückfahren
+- *Build-ups, Trompeten, Mix: positiv, keine Aktion*
+
 ### B — john skibidi (`hirasawafan`)
 
 20 y/o · Lofi · komponiert, mixt und mastert selbst · etwas erfahrener
@@ -47,6 +53,12 @@ Server: *In the Mix* · [Nachrichtenlink](https://discord.com/channels/485460967
 >
 > Not my kind of genre, but I'd say this would appeal to people who listens to this. It also sounds like what you're trying to convey as well. beachy, summer vibes. So good job on that 👍
 
+**Status (Stand: dembow4_3):**
+- 🔲 Offen: Vocals zu prozessiert — weniger Effekte
+- 🔲 Offen: Vocals fehlt Klarheit → EQ
+- 🔲 Offen (Idee): Build-up-Vocals mit Harmonien layern + Volume-Automation für mehr Hype
+- *Trompeten, Vibe: positiv, keine Aktion*
+
 ### C — Lévy 🎶 (`levyleibnitzloiusius`)
 
 Erfahrener, anderes Genre
@@ -54,3 +66,8 @@ Server: *We Suck At Producing* · [Nachrichtenlink](https://discord.com/channels
 [Spotify](https://open.spotify.com/intl-fr/album/1ROp6Z319QxwhUo6qxwOhr) · [SoundCloud](https://soundcloud.com/leiblouis-music/tracks)
 
 > btw i don't know if he told you that but the voice is a bit too loud and it might have been rec too close to the mic (proximity effect) it feels pretty dry too sometimes chorus are fine, verse feels dry
+
+**Status (Stand: dembow4_3):**
+- 🔲 Offen: Stimme stellenweise zu laut → Pegel runter
+- 🔲 Offen: zu nah am Mikro / Proximity-Effekt → Low-Mids per EQ zähmen
+- 🔲 Offen: Strophe zu trocken → Raum/Reverb (Chorus okay)
