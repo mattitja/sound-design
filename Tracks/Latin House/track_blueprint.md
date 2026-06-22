@@ -113,19 +113,13 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 ## Drop 1 (41–48)
 
 - **Kick:** voller Punch + Low-End auf Eins
-- **Bass:** Sawtooth-Bass, Low-Shelf + Sidechain (Kickstart 2) (→ Playbook: Bass-Glättung); Viertel G–A–B; letztes Achtel Oktav-Glide (→ Playbook: Bass-Glide); alle 4 Takte Basslauf: Fis → D → B
-- **Piano:** Sample; Sidechain gegen Kick (→ Playbook: Piano-Pump); kein Filter, kein Neutron
-- **Pad:** Basic Strings; breite Stereo-Lage; spielt Basstöne
-- **Percussion:** Bongos
+- **Bass:** Sawtooth-Bass, Low-Shelf + Sidechain (Kickstart 2) (→ Playbook: Bass-Glättung); Viertel G–A–B; alle 4 Takte Basslauf: Fis → D → B
+- **Piano:** Sample; starker Sidechain gegen Kick (–34 dB) — nötig, sonst zu spitz (→ Playbook: Piano-Pump); Imager für mehr Stereo-Breite (bewusst sehr stereo, nicht mono); kein Filter, kein Neutron
+- **Snare:** House-Snare auf 2 + 4 (wie Claps); eher leise, gibt House-Charme
+- **Percussion:** Bongos; Kuhglocke auf jeder „1"; Offbeat-Shaker (→ Playbook: Offbeat-Shake)
 - **Top-Loop:** offene House-Hihat auf jedem „und"
-- **Claps:** „Clap Vintage"; Eskalation 2+4 → 1+2+3+4 (→ Playbook: Clap-Eskalation)
+- **Claps:** „Clap Vintage" auf 2 + 4 (Clap-Eskalation erst in Drop 3 → Playbook: Clap-Eskalation)
 - **Vocals:** „deins ist es auch" Snippets
-
-> [!warning] Drop 1 von 16 auf 8 Takte gekürzt
-> Feedback: erster Drop war zu lang ohne neue Elemente, Spannung blieb zu lange auf hohem Niveau. Clap-Eskalation (2+4 → 1+2+3+4) muss auf 8 Takte komprimiert werden, z.B. Wechsel bereits nach 4 statt 8 Takten
-
-> [!tip] Piano mehr Durchsetzung
-> Piano-Grit (→ Playbook: Piano-Grit) + Piano-Mono (→ Playbook: Piano-Mono)
 
 ---
 
@@ -221,6 +215,7 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Piano:** wie Drop 1+2
 - **Percussion:** wie Drop 1+2; Tamburin/Shaker über 10 kHz; Bongo-Fills dichter
 - **Top-Loop:** wie Drop 1+2
+- **Claps:** Eskalation 2+4 → 1+2+3+4 — erster Einsatz im Track (→ Playbook: Clap-Eskalation)
 
 > [!tip] Drop 3 differenzieren — mehr Excitement
 > Oktav-Layer leise dazu (→ Playbook: Oktav-Layer) + Echo-Delay (→ Playbook: Echo-Delay)
