@@ -23,6 +23,8 @@ Reverb simuliert, wie Schall in einem Raum an Flächen reflektiert wird, bis er 
 - **Size:** Simulierte Raumgröße (skaliert ER-Abstände und Decay-Charakter).
 - **Damping:** Höhen (manchmal auch Tiefen) verklingen schneller — simuliert absorbierende Materialien (Teppich, Vorhänge) vs. harte (Kachel, Stein).
 - **Mix / Dry-Wet (oder Send-Pegel):** Anteil Reverb. Bestimmt wahrgenommene Distanz und wie auffällig der Effekt ist.
+- **Width (Stereobreite):** Wie breit die Fahne im Stereofeld liegt. Moderate Breite legt „Luft" um eine mittige Quelle, ohne sie selbst zu verbreitern — gut gegen mono-trockene, vorn klebende Signale. Zu viel = diffus/„swimmy" und in Mono phasenanfällig (immer gegenchecken).
+- **Saturation (Sättigung):** Harmonische Verzerrung auf der Fahne → wärmer, „analoger", und **präsenter bei gleichem Pegel** (man kann weniger wet fahren). Sparsam: zu viel macht den Tail grindig und auffällig.
 
 ## 3) Reverb-Typen (grob)
 
