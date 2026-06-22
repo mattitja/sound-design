@@ -17,7 +17,7 @@
 
 **Timing-Versatz Piano/Vocal:** Piano-Spitze am Taktanfang, Vocals setzen verzögert ein → keine Frequenz-Konkurrenz für denselben Moment (→ Playbook: Timing-Versatz)
 
-**Identität:** Latin-Percussion (Bongos, Güira) + eigene Vocals mit Auto-Tune-Vibe als persönliche Schicht.
+**Identität:** Latin-Percussion (Bongos) + eigene Vocals mit Auto-Tune-Vibe als persönliche Schicht.
 
 ---
 
@@ -33,11 +33,11 @@
 
 | Referenz | Rolle | Was sie liefert |
 |---|---|---|
-| **Liquid Spirit (Claptone Remix)** | Fundament / Groove-Philosophie | Energie durch Clap-/Percussion-Groove + Swing + repetitiver Hook. Warm, organisch, trotzdem treibend. Dein Latin-Arsenal (Bongos, Güira, Clap-Eskalation) ist genau dieses Werkzeug. |
+| **Liquid Spirit (Claptone Remix)** | Fundament / Groove-Philosophie | Energie durch Clap-/Percussion-Groove + Swing + repetitiver Hook. Warm, organisch, trotzdem treibend. Dein Latin-Arsenal (Bongos, Clap-Eskalation) ist genau dieses Werkzeug. |
 | **Teka (DJ Snake / Peso Pluma)** | Druck-Referenz für Drop-Spitzen | Hämmerndes Tasten-Riff über treibender Club-Maschine. Beweist: Piano-Hook + Club funktioniert ohne weich zu werden. Nur als Würze, nicht als Basis. |
 | **El Merengue (Marshmello / Turizo)** | *Verworfen* | Zu soft. Bettet den Hook in Wärme statt Energie — falsche Richtung. Als Gegenpol dokumentiert. |
 
-**Entscheidungs-Heuristik:** Bei jeder „härter oder weicher?"-Frage gilt: **Groove vor Härte.** Energie zuerst aus rhythmischem Zusammenspiel holen (Claps, Güira-Swing, Bongo-Fills, Percussion-Schichtung), erst danach über Kick/Bass-Druck. Was rausfällt ist „soft/weich", *nicht* „energetisch".
+**Entscheidungs-Heuristik:** Bei jeder „härter oder weicher?"-Frage gilt: **Groove vor Härte.** Energie zuerst aus rhythmischem Zusammenspiel holen (Claps, Bongo-Fills, Percussion-Schichtung), erst danach über Kick/Bass-Druck. Was rausfällt ist „soft/weich", *nicht* „energetisch".
 
 **Bewusst aufgegeben:** Familien-/Radio-Tauglichkeit ist **kein Designziel der Hauptversion**. Der Track folgt dem eigenen Geschmack (Energie), nicht dem „ist mir zu doll"-Einwand. Falls nötig, ist das später ein separater Radio-Edit — nie der Kompass für den Haupt-Mix.
 
@@ -90,14 +90,8 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Kick:** 4/4 konstant
 - **Bass:** Viertel G–A–B–D + Übergangstone auf 1.4/2.4/3.4
 - **Piano:** 1 Oktave runter + LP-Filter (→ Playbook: Oktav-Drop)
-- **Vocals:** eigenes Sample, gestreckt, Auto-Tune; auf abweichender Melodie eingesungen → komplett geshiftet (Auto-Shift Ableton + iZotope); mit RX12 entstört (→ Playbook: Vocal-Stretch)
-- **Percussion:** Bongos; Güira stumm; ab Takt 25 Top-Loop mit starkem Shake auf dem Offbeat (→ Playbook: Offbeat-Shake)
-
-> [!warning] Piano wirkt statisch
-> Cutoff-Automation 2–5 kHz, leicht atmend, gezeichnet — kein LFO
-
-> [!tip] Piano noch nicht „schwimmend" genug
-> Cutoff-Automation allein reicht nicht — zusätzlich Piano-Wobble (→ Playbook: Piano-Wobble) probieren für mehr Timbre-Bewegung im Loop
+- **Vocals:** komplette, selbst eingesungene Strophe; auf abweichender Melodie eingesungen → komplett geshiftet (Auto-Shift Ableton + iZotope); Auto-Tune; mit RX12 entstört
+- **Percussion:** Bongos; ab Takt 25 Top-Loop mit starkem Shake auf dem Offbeat (→ Playbook: Offbeat-Shake)
 
 > [!warning] Vocals klingen zu prozessiert
 > Melodie sitzt (Nutzer zufrieden), künstlicher Charakter ist gewollt — aber 2× Feedback „zu prozessiert". Vocal-Chain (Auto-Shift + iZotope) gezielt durchgehen, Artefakte reduzieren ohne den Auto-Tune-Vibe zu killen
@@ -132,7 +126,7 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Bass:** Sawtooth-Bass, Low-Shelf + Sidechain (Kickstart 2) (→ Playbook: Bass-Glättung); Viertel G–A–B; letztes Achtel Oktav-Glide (→ Playbook: Bass-Glide); alle 4 Takte Basslauf: Fis → D → B
 - **Piano:** Sample; Sidechain gegen Kick (→ Playbook: Piano-Pump); kein Filter, kein Neutron
 - **Pad:** Basic Strings; breite Stereo-Lage; spielt Basstöne
-- **Percussion:** Güira wie Intro Pt. 2 (→ Playbook: Perc-Puls); Bongos
+- **Percussion:** Bongos
 - **Top-Loop:** offene House-Hihat auf jedem „und"
 - **Claps:** „Clap Vintage"; Eskalation 2+4 → 1+2+3+4 (→ Playbook: Clap-Eskalation)
 - **Vocals:** „deins ist es auch" Snippets
@@ -150,7 +144,7 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Kick:** 4/4 konstant
 - **Bass:** wie Strophe 1
 - **Piano:** original, leiser, ohne Verzerrung
-- **Percussion:** Güira zurück; Bongos grooven
+- **Percussion:** Bongos grooven
 - **FX:** Claps + Hats auf mittlerer Lautstärke
 
 > [!tip] Atmosphäre ausbauen
@@ -201,7 +195,7 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Bass:** stumm
 - **Piano:** Bandpass Mitten-Isolierung (→ Playbook: Telefon-Filter)
 - **Vocals:** Snippets geschnitten
-- **Percussion:** Bongos herzschlagartig, sehr leise; Güira stumm
+- **Percussion:** Bongos herzschlagartig, sehr leise
 - **FX:** Hall-Teppich (Pad/Vocal-Reverb-Tail)
 
 > [!warning] Zu leer — Melodie fehlt + Vocals nicht wild genug
@@ -254,11 +248,11 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Kick:** 4/4 bis Takt 128
 - **Bass:** ab Takt 121 stumm (→ Playbook: Outro-Schnitt)
 - **Piano:** LP-Filter fährt zu bis Takt 128
-- **Percussion:** Güira ab Takt 121 stumm; Bongos bis Ende
+- **Percussion:** Bongos bis Ende
 - **FX:** Hats bis Takt 124; ab Takt 125 nur Kick; Wellenrauschen (Bookend zu Intro)
 
 > [!warning] Outro von 16 auf 8 Takte gekürzt
-> Feedback: Outro war gut für DJ-Mixing, hat den Song aber unnötig gestreckt — Song-Flow geht hier vor DJ-Mixability. Abbau-Stufen (Güira/Hats/Filter) müssen auf 8 Takte komprimiert werden
+> Feedback: Outro war gut für DJ-Mixing, hat den Song aber unnötig gestreckt — Song-Flow geht hier vor DJ-Mixability. Abbau-Stufen (Hats/Filter) müssen auf 8 Takte komprimiert werden
 
 > [!tip] Ende braucht mehr Nachhall
 > Reverb-Tail auf letzten Piano-Ton + Wellenrauschen länger auslaufen lassen

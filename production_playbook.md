@@ -43,7 +43,7 @@ Namensformat: **[Element]-[Wirkung]** — 1–2 Wörter, Bindestrich, Deutsch. V
 
 **Timing-Versatz** (→ [[Envelopes]]): Melodisches Hauptelement startet laut am Taktanfang, Vocals setzen verzögert im Takt ein → beide konkurrieren nicht für denselben Moment; ermöglicht gleichzeitig präsentes Instrument + präsente Vocals ohne Lautstärke-Kompromiss; erzeugt leichten Call-and-Response-Charakter
 
-**Perc-Puls** (→ [[LFO]]): Sparse Percussion-Pattern alle 4 Takte mit kleiner Höhen-Varianz (z.B. extra Güira-Schläge) abschließen → signalisiert dem Hörer unbewusst den Phrasen-Übergang ohne ein neues Element einzuführen
+**Perc-Puls** (→ [[LFO]]): Sparse Percussion-Pattern alle 4 Takte mit kleiner Höhen-Varianz (z.B. extra Schläge oder Akzente) abschließen → signalisiert dem Hörer unbewusst den Phrasen-Übergang ohne ein neues Element einzuführen
 
 **Clap-Eskalation** (→ [[Envelopes]]): Erste Drop-Hälfte Clap auf 2+4, zweite Hälfte auf 1+2+3+4 → steigert Energie und Dichte innerhalb des Drops ohne neues Element; lässt den Drop größer wirken als er ist
 
@@ -52,8 +52,6 @@ Namensformat: **[Element]-[Wirkung]** — 1–2 Wörter, Bindestrich, Deutsch. V
 **Offbeat-Shake** (→ [[LFO]]): Top-Loop mit betontem Shaker auf dem Offbeat erst in der zweiten Hälfte einer Strophe dazuschalten → bringt House-Vibe und Interesse, ohne die Section von Anfang an zu überladen; markiert zugleich den inneren Wechselpunkt der Strophe
 
 ## Raumgefühl & Psychoakustik
-
-**Vocal-Stretch** (→ [[Effekte]]): Eigenes Gesangssample über eine ganze Section strecken + Auto-Tune → erzeugt atmosphärische Tiefe und persönliche Identität ohne melodische Konkurrenz zum Hauptelement
 
 **Hook-Teaser** (→ [[Effekte]]): Ein einzelnes Wort aus dem Songtext herauschoppen und repetitiv im Intro spielen, pro Wiederholung mit leicht variierter Auto-Tune-Melodie → setzt den Hook sofort als Ohrwurm, die Melodie-Varianz verhindert Monotonie bei strenger Wiederholung; gut als Aufmerksamkeits-Anker in einem kurzen Intro
 
