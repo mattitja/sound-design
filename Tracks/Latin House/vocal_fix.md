@@ -127,3 +127,11 @@ Nach dem Robotik-Fix neu zu bewerten:
 - **Pegel (C: „too loud"):** Vocal-Level im Mix runter.
 - **Strophe zu trocken (C):** Raum/Reverb geben (Chorus okay).
 - **Build-up-Vocals (B, Idee):** Harmonie-Layer + Volume-Automation für mehr Hype.
+
+### Chorus — gleicher Fix, später (zurückgestellt)
+
+> [!tip] Chorus-Vocals: Re-Pitch + Formant, aber umgekehrte Richtung
+> Chorus wurde bei **120 BPM** aufgenommen, Projekt 123 → Clip wird **hochgewarpt** (+2,5 %, schneller). Auch hier leichtes Robotik-Problem, aber **geringer** (nur 3 BPM). Eigene Chain, separat von der Strophe.
+> - **Fix analog:** Warp → Re-Pitch. Achtung: Re-Pitch pitcht hier nach **oben** → Formanten werden **heller/Chipmunk-Richtung** → Formant-Kompensation diesmal **nach unten** (umgekehrt zur Strophe).
+> - **Komplikation:** Chorus besteht aus vielen kleinen Snippet-Clips — Warp-Modus muss auf alle gleichzeitig. Lösungsansatz: alle Clips multi-selektieren und Warp-Modus gemeinsam auf Re-Pitch; Formant-Kompensation einmal zentral im Chorus-Chain-Pitch-Tool. *(Vorgehen noch zu prüfen.)*
+> - **Status:** bewusst nach hinten geschoben — erst Strophe fertig.
