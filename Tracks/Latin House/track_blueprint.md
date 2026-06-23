@@ -9,7 +9,7 @@
 
 ## Charakteristik
 
-**Zentrales Element:** „Piano Merengue Latin Bouncing"-Sample — 4 Takte, wechselt jeden Takt zwischen Bm (B–D–F#) und Bbm (Bb–Db–F#). Halbtonschritt im Root, hammend gespielt. Salsa/Merengue-Harmonik in einem Club-House-Track — das ist die Identität.
+**Zentrales Element:** „Piano Merengue Latin Bouncing"-Sample — 4 Takte, wechselt jeden Takt zwischen **Bm (B–D–F#)** und **F#-Dur (F#–A#–C#)** — also **i → V in B-Moll** (Tonika-Moll → Dur-Dominante). Der tiefste Ton wandert dabei chromatisch **B → A#** (A# = Leitton von B); dieser Halbtonschritt im Bass + die Leitton-Spannung machen den „hammernden", ziehenden Charakter. Hammernd gespielt. Salsa/Merengue-Harmonik in einem Club-House-Track — das ist die Identität.
 
 **Roter Faden:** Alle Produktionsentscheidungen dienen einem Ziel — den Sample-Charakter pro Section anders erfahrbar machen, ohne den Hook zu verändern. Das Sample bleibt immer dasselbe. Der Kontext verändert es.
 
