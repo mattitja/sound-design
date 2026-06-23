@@ -82,7 +82,7 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 ### 👉 Morgen weiter — Vorschlag-Reihenfolge
 
 1. **Build-ups druckvoller** *(größter Energie-Hebel, bedient den Klang-Kompass)*: Snare-Build mit Volume-Swell Richtung Drop · tonaler Riser (Synth 1–2 Okt. hoch) · Kick direkt nach dem Cut für abrupteren Übergang.
-2. **Mix-Lücke Mid/Upper-Mid füllen:** Verse-Piano ist fast weggefiltert → Mix wirkt stellenweise leer. Synth-Stabs mit langem Reverb (besser als Filter öffnen, sonst Loop zu repetitiv).
+2. **Mix-Lücke Mid/Upper-Mid füllen** *(in Arbeit, → [[verse_fix]])*: Orgel-Stab in die Vocal-Lücke (Call-Response), dreckig-rund, füllt das weggefilterte Verse-Piano. Harmonie + Sound-Richtung stehen, Feintuning offen.
 3. **Trompeten (Drop 3):** heller (Boost ~2–8 kHz) + lauter + komprimieren für konstante Präsenz.
 4. **Vocal-Entscheidung am neuen Bounce:** Pitch-Correction wirkt „vocoder-y" (Auto-Shift-Resynthese @ 100 % wet) → committen zu *mehr oder weniger* Auto-Tune, Mittelweg vermeiden.
 5. **Stereo/Harmonien (additiv, B + Cooper):** zusätzliche Vocal-Takes/Harmonien pannen → füllt das mono-lastige Stereofeld (höhere Mitten/Höhen) und gibt Build-ups Hype (Volume-Automation).
@@ -111,7 +111,11 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Bass:** Viertel G–A–B–D + Übergangstone auf 1.4/2.4/3.4
 - **Piano:** 1 Oktave runter + LP-Filter (→ Playbook: Oktav-Drop)
 - **Vocals:** komplette, selbst eingesungene Strophe auf abweichender Melodie → per Auto Shift (MIDI) auf Zielnoten geshiftet, Nectar für Sound. Finalisiert: Warp auf Re-Pitch gegen Robotik (→ Playbook: Warp-Entrobot) + Formant-Kompensation, Klarheits-EQ, Pegel −1 dB, dezente Ambience („Luft, kein Raum") — Details → [[vocal_fix]]
+- **Synth-Stab (neu, in Arbeit):** Orgel-Stab (Collab3 V2 Pro) füllt die Mid/Upper-Mid-Lücke (Piano weggefiltert); kurz/staccato auf Beat 3 in die Vocal-Lücke (→ Playbook: Stab-Lücke, Timing-Versatz), dreckig-aber-rund (→ Playbook: Sättigung-Rund). Voicings folgen dem Piano: Bm (F#3–B3–D4) → F#-Dur (F#3–A#3–C#4). Details → [[verse_fix]]
 - **Percussion:** Bongos; ab Takt 25 Top-Loop mit starkem Shake auf dem Offbeat (→ Playbook: Offbeat-Shake)
+
+> [!tip] Stab-Sound noch nicht final
+> Richtung steht (Orgel, tief, dreckig-rund). Offen: Feintuning Drive/High-Cut/Drawbars + Reverb-Tail-Dosierung; ob A (gepannte Harmonien) und B (Slapback) noch dazukommen. → [[verse_fix]]
 
 ---
 

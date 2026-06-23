@@ -31,6 +31,8 @@ Namensformat: **[Element]-[Wirkung]** — 1–2 Wörter, Bindestrich, Deutsch. V
 
 **Piano-Grit** (→ [[Distortion]]): Tape Saturation / Saturator auf Piano-Sample legen → fügt Obertöne hinzu, macht Sample dreckiger und durchsetzungsfähiger im Mix ohne Lautstärke zu erhöhen
 
+**Sättigung-Rund** (→ [[Distortion]]): „Dreckig aber rund" (Ziel: House-Orgel-Stab à la „When a Fire") = erst warm sättigen (**Tube/Tape**, gerade Harmonische), DANN **High-Cut bei ~4–6 kHz *nach* dem Drive** → Grit/Obertöne bleiben in den Mitten, die harsche Fizz-Spitze oben verschwindet. Reihenfolge entscheidend. Hard-Clip/Fuzz statt Tube macht kratzig statt warm. Bei Hammond/Orgel zusätzlich langsames Leslie → verschmiert/wärmt die Transienten
+
 **Piano-Mono** (→ [[Compressor]]): Piano-Stereo auf Mono summen oder Mid stark betonen → mehr Punch in der Mitte, bessere Club-Kompatibilität; Stereobreite dem Pad-Layer überlassen
 
 **Bass-Glättung** (→ [[Filter]]): Aggressiven 808-Bass durch einfachen Sawtooth ersetzen, mit Low-Shelf gezähmt und hart gegen die Kick sidechained (z.B. Kickstart 2) → Bass bleibt clubtauglich druckvoll, verliert aber die polarisierende Aggressivität eines reinen 808; guter Kompromiss zwischen Club-Punch und Mainstream-Tauglichkeit
@@ -72,6 +74,10 @@ Namensformat: **[Element]-[Wirkung]** — 1–2 Wörter, Bindestrich, Deutsch. V
 **Piano-Pan** (→ [[Chorus]]): Piano-Signal mit tempo-synchronisiertem Auto-Pan belegen → Piano wandert rhythmisch im Stereofeld; gibt identischem Sample in einer Folge-Section eine neue räumliche Dimension
 
 **Atmo-Szene** (→ [[Reverb]]): Mehrere Field-Recordings zu einer kohärenten realen Szene schichten (z.B. Marktplatz: Vögel, Glöckchen, gemurmeltes Gebet, entfernte Trompete) statt einzelner FX-Spielereien → erzeugt einen erzählerischen, räumlich glaubhaften Ort; ideal im Breakdown als erdender Kontrast, der den Hörer runterholt
+
+**Stab-Lücke** (→ [[Reverb]]): Kurzen Akkord-Stab genau in die Atempausen der Vocals setzen (Call-Response) statt durchlaufen zu lassen, mit langem Reverb-Tail → füllt ein weggefiltertes Mid/Upper-Mid-Loch im Mix, ohne das Hauptelement (Loop) lauter/offener machen zu müssen (= keine Repetitions-Ermüdung); der Hall-Wash überbrückt die Lücke, die Stimme bleibt frei. Stab hoch über der Vocal-Lage voiced → kollisionsfrei. Gegen „Mix wirkt leer in spots"
+
+**Solo-Falle** (→ [[Effekte]]): Raum-/Lückenfüller (Stabs, Pads, Sub-Layer, Reverb-Beds) **nie im Solo beurteilen** — solo klingen sie „komisch", zu nass oder langweilig, weil ihr Job der *Kontext* ist. Stattdessen im laufenden Mix per **Bypass A/B (an vs. aus)** prüfen: füllt sich das Loch? Faustregel: klingt der Füller solo schon „geil/präsent", ist er im Mix meist zu laut und klaut dem Hauptelement die Show
 
 **Piano-Wobble** (→ [[Phaser]]): Subtiler Phaser oder Flanger auf Piano-Sample → erzeugt Timbre-Bewegung im statischen Loop ohne das Sample zu verändern; gut für Strophen-Variation
 
