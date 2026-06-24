@@ -81,18 +81,16 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 ## Offene Aufgaben
 
-> **Stand 23.06.:** Vocals (Strophe + Chorus) sind durch — Robotik-Wurzel war der Warp, gelöst via Re-Pitch + Formant (→ [[vocal_fix]]). Mix/Mastering grundsätzlich solide (Multi-Device-Check bestanden). Offen ist jetzt v.a. das Feedback von Cooper (→ [[feedback]], 23.06.).
+> **Stand 24.06.:** Vocals (Strophe + Chorus) sind durch — Robotik-Wurzel war der Warp, gelöst via Re-Pitch + Formant (→ [[vocal_fix]]). Mix/Mastering grundsätzlich solide (Multi-Device-Check bestanden). Offen sind v.a. die Punkte aus Cooper (23.06.) + HappyCamper (24.06.) — beide hörten noch `dembow4_3`, die Vocal-Trockenheit ist also schon adressiert.
 
 ### 👉 Morgen weiter — Vorschlag-Reihenfolge
 
-1. **Build-ups druckvoller** *(größter Energie-Hebel, bedient den Klang-Kompass)*: Snare-Build mit Volume-Swell Richtung Drop · tonaler Riser (Synth 1–2 Okt. hoch) · Kick direkt nach dem Cut für abrupteren Übergang.
+1. **Build-ups druckvoller** *(größter Energie-Hebel, bedient den Klang-Kompass; Cooper)*: Snare-Build mit Volume-Swell Richtung Drop · tonaler Riser (Synth 1–2 Okt. hoch) · Kick direkt nach dem Cut für abrupteren Übergang.
 2. **Mix-Lücke Mid/Upper-Mid füllen** *(in Arbeit, → [[verse_fix]])*: Orgel-Stab in die Vocal-Lücke (Call-Response), dreckig-rund, füllt das weggefilterte Verse-Piano. Harmonie + Sound-Richtung stehen, Feintuning offen.
-3. **Trompeten (Drop 3):** heller (Boost ~2–8 kHz) + lauter + komprimieren für konstante Präsenz.
-4. **Vocal-Entscheidung am neuen Bounce:** Pitch-Correction wirkt „vocoder-y" (Auto-Shift-Resynthese @ 100 % wet) → committen zu *mehr oder weniger* Auto-Tune, Mittelweg vermeiden.
-5. **Stereo/Harmonien (additiv, B + Cooper + HappyCamper):** Chorus-Vocals doppeln/dreifachen als Background-Vocals → mehr Energie + füllt das mono-lastige Stereofeld (höhere Mitten/Höhen); Volume-Automation gibt Build-ups Hype.
-6. **Trompeten früher etablieren (HappyCamper):** kurzer Instrumental-Break mit Trompeten nach Chorus 1 oder 2 → die Schluss-Drop-Fanfare wirkt dann nicht mehr „random", sondern als Wiederkehr (Kohäsion).
-7. **Build-up 2 / Drop 2 differenzieren (HappyCamper):** aktuell ~identisch zu 1 → „extra dimension". Optionspool: Vocal-Delay · mehr Vocal-Chops · LP-Sweep statt HPF · andere Piano-Voicings · eigene Gesangs-Samples reversed · Sawtooth-Sine-Gegenmelodie. Koppelt an den `[!tip]` in Build-up 2.
-8. **Vocal-Delay am Pre-Chorus/Build-up (HappyCamper):** als eigener Effektmoment testen.
+3. **Background-Vocals / Stereo** *(additiv, B + Cooper + HappyCamper — Dreifach-Konsens)*: Chorus-Vocals doppeln/dreifachen, gepannt → mehr Energie **und** füllt das mono-lastige Stereofeld (höhere Mitten/Höhen); Volume-Automation gibt Build-ups zusätzlich Hype.
+4. **Trompeten** — zwei Ebenen: **Mix** (Cooper) heller (Boost ~2–8 kHz) + lauter + komprimieren für konstante Präsenz · **Struktur** (HappyCamper) kurzer Instrumental-Break mit Trompeten nach Chorus 1 oder 2 → Schluss-Fanfare wirkt als Wiederkehr statt „random".
+5. **Build-up 2 / Drop 2 differenzieren** *(HappyCamper: „felt about the same")*: „extra dimension" reinholen. Optionspool: Vocal-Delay (auch als eigener Pre-Chorus-Moment) · mehr Vocal-Chops · LP-Sweep statt HPF · andere Piano-Voicings · eigene Gesangs-Samples reversed · Sawtooth-Sine-Gegenmelodie. Koppelt an den `[!tip]` in Build-up 2.
+6. **Vocal-Entscheidung am neuen Bounce** *(Cooper)*: Pitch-Correction wirkt „vocoder-y" (Auto-Shift-Resynthese @ 100 % wet) → committen zu *mehr oder weniger* Auto-Tune, Mittelweg vermeiden.
 
 ### Housekeeping
 - Nach dem nächsten Export: **Versions-ID im Header** auf den neuen Bounce setzen (`dembow4_4`?) und die „ab nächstem Bounce"-Status in [[feedback]] auf ✅ bestätigen.
