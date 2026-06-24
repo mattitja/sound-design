@@ -105,3 +105,33 @@ Quelle: *(nicht angegeben)*
 - 🔲 Offen: Trompeten (Drop 3) **heller** (Boost ~2–8 kHz) + **lauter** + komprimieren für konstante Präsenz
 - 🔲 Offen: Build-ups „weak" — (a) Snare-Build **lauter** Richtung Drop (Volume-Swell), (b) **tonaler Riser** (Synth 1–2 Oktaven hoch), (c) **Kick direkt nach dem Cut** (nächste Note nach Snare-Build) → abrupterer, energetischerer Übergang
 - *Positiv: catchy, Progression, Mix-Balance solide, Trompeten, „interesting direction"*
+
+---
+
+## 24.06.2026 — Version `dembow4_3`
+
+**Hinweis:** Wieder noch `dembow4_3` — also **vor** der Vocal-Session (22.06.). Vocal-„dry"-Kritik ist damit bereits adressiert; Status unten abgeglichen.
+
+### E — HappyCamper (`In The H2O`)
+
+Spricht kein Deutsch · gibt strukturiertes, ideenreiches Feedback entlang der gestellten Fragen (Voice, Build-ups, Trompeten)
+Server: *In The H2O* · Kanal `#request-feedback`
+
+> Really nice track you got here! I enjoyed it a lot, and I'll try my best to address the questions you had in mind in the paragraphs below:
+>
+> I like the singing in here, I think the processing and singing style fit the track quite nicely. I would personally add a touch more reverb in the vocals for the verse sections, so that the sound doesnt die immediately at moments like 0:29. Maybe adding a delay at the pre-chorus might sound super cool too. But that's just personal preference and maybe it's intentionally not having reverb for reasons in contexts to the lyrics... (I don't speak German so I wouldn't know haha) Some variation in the processing might be nice, but I'll get more into details on that with the answer to your next question.
+>
+> The first buildup was pretty nice. I think the high-pass filter leading up to it and the risers added a nice touch to the beat drop. Maybe if you double or triple the vocals in the chorus sections for some background vocals, it'll also add an extra strength amd energy to the chorus sections. The buildup to the second chorus felt about the same as the first drop, and while it sounds great, I'm thinking you can also add in some extra dimension to it. Maybe you can add delay to the vocals, use more vocal chops, use low pass filter sweep instead of HPF, different chord voicings for the piano part, or even sample your own singing and reverse the clips? Even adding a background sawtooth-sine sort of synth as a countermelody might add a new texture to it.
+>
+> The trumpets at the last drop sounded nice, but just a bit... random? I think if you add an instrumental break after the first or second chrous with the trumpets, it'll provide better cohesion throughout the track.
+>
+> Overall, though, I really like this track, it's such a unique blend of genres and the energy of it is awesome. Thanks for sharing and I hope these thoughts help!
+
+**Status (Stand: dembow4_3):**
+- ✅ Schon gelöst (Vocal-Session 22.06.): Verse-Vocal „stirbt" bei 0:29 → mehr Reverb/Ambience in der Strophe gesetzt (siehe [[vocal_fix]]; deckt sich mit C + Cooper)
+- 🔲 Offen (Idee, = B + Cooper): Chorus-Vocals **doppeln/dreifachen** als Background-Vocals → mehr Kraft/Energie + füllt das mono Stereofeld
+- 🔲 Offen (Idee): **Build-up 2 / Drop 2 differenzieren** für „extra dimension" (aktuell ~identisch zu Build-up/Drop 1). Optionspool: Vocal-**Delay** · mehr **Vocal-Chops** · **LP-Sweep statt HPF** im Build-up · andere **Piano-Voicings** · eigene Gesangs-Samples **reversed** · **Sawtooth-Sine-Synth als Gegenmelodie**. → koppelt an bestehenden Build-up-2-`[!tip]` im Blueprint
+- 🔲 Offen (Idee): **Vocal-Delay am Pre-Chorus/Build-up** als eigener Effektmoment
+- 🔲 Offen (Idee): Processing-**Variation** über den Track statt durchgehend gleich
+- 🔲 Offen (Struktur): Trompeten im letzten Drop wirken „random" → **Instrumental-Break mit Trompeten nach Chorus 1 oder 2** als Vorboten → bessere Kohäsion (Trompete früher etablieren, statt erst am Ende)
+- *Positiv: einzigartiger Genre-Blend, Energie, Gesang/Processing passt, erster Build-up + HPF + Riser stark, Trompeten-Sound im Drop schön*

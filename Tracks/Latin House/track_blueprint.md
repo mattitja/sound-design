@@ -67,11 +67,15 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 
 ## Feedback (externe Hörer)
 
-> Drei Reviews (21.06.) — Rohtext + Profile/Links in [[feedback]]. Hier nur die Essenz.
+> 5 Reviews (3× 21.06. + Cooper 23.06. + HappyCamper 24.06.) — Rohtext + Profile/Links in [[feedback]]. Hier nur die Essenz.
 
-**Positiv (Konsens):** einzigartiger Vibe, Latin-/Summer-Feeling kommt an · Piano-Loop = Lieblingselement, Hook catchy auch ohne Sprachverständnis · Trompeten passen perfekt · Build-ups treiben gut · Mix clean & ausbalanciert, nichts wird begraben.
+**Positiv (Konsens):** einzigartiger Vibe/Genre-Blend, Latin-/Summer-Feeling + Energie kommen an · Piano-Loop = Lieblingselement, Hook catchy auch ohne Sprachverständnis · Trompeten-Sound passt · Build-ups + HPF/Riser treiben gut · Mix clean & ausbalanciert, nichts wird begraben.
 
-**Kritik (Konsens = Vocals):** zu prozessiert/robotic, zu viel Processing/Pitch-Correction (A + B) · fehlende Klarheit → EQ (B) · zu laut + zu nah am Mikro / Proximity, Strophe zu trocken, Chorus okay (C) · Idee: Build-up-Vocals mit Harmonien layern + Volume-Automation (B).
+**Kritik-Cluster:**
+- **Vocals (21.06.-Konsens):** zu prozessiert/robotic, zu viel Processing/Pitch-Correction (A + B) · fehlende Klarheit → EQ (B) · zu laut + zu nah am Mikro / Proximity, Strophe zu trocken (C) → **gelöst** in Vocal-Session 22.06. (→ [[vocal_fix]]). Cooper: Pitch-Correction „vocoder-y", *mehr oder weniger* Auto-Tune — offen, am neuen Bounce entscheiden.
+- **Mehr Tiefe/Variation (Cooper + HappyCamper):** Background-Vocals/Harmonien doppeln → Energie + Stereo füllen · Build-up 2 / Drop 2 vom ersten differenzieren · Vocal-Delay am Pre-Chorus · Processing-Variation über den Track.
+- **Trompeten-Kohäsion (HappyCamper):** Sound gut, aber im Schluss-Drop „random" → früher etablieren (Instrumental-Break nach Chorus 1/2).
+- **Build-ups druckvoller + Mix-Lücke (Cooper):** siehe Offene Aufgaben.
 
 ---
 
@@ -85,7 +89,10 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 2. **Mix-Lücke Mid/Upper-Mid füllen** *(in Arbeit, → [[verse_fix]])*: Orgel-Stab in die Vocal-Lücke (Call-Response), dreckig-rund, füllt das weggefilterte Verse-Piano. Harmonie + Sound-Richtung stehen, Feintuning offen.
 3. **Trompeten (Drop 3):** heller (Boost ~2–8 kHz) + lauter + komprimieren für konstante Präsenz.
 4. **Vocal-Entscheidung am neuen Bounce:** Pitch-Correction wirkt „vocoder-y" (Auto-Shift-Resynthese @ 100 % wet) → committen zu *mehr oder weniger* Auto-Tune, Mittelweg vermeiden.
-5. **Stereo/Harmonien (additiv, B + Cooper):** zusätzliche Vocal-Takes/Harmonien pannen → füllt das mono-lastige Stereofeld (höhere Mitten/Höhen) und gibt Build-ups Hype (Volume-Automation).
+5. **Stereo/Harmonien (additiv, B + Cooper + HappyCamper):** Chorus-Vocals doppeln/dreifachen als Background-Vocals → mehr Energie + füllt das mono-lastige Stereofeld (höhere Mitten/Höhen); Volume-Automation gibt Build-ups Hype.
+6. **Trompeten früher etablieren (HappyCamper):** kurzer Instrumental-Break mit Trompeten nach Chorus 1 oder 2 → die Schluss-Drop-Fanfare wirkt dann nicht mehr „random", sondern als Wiederkehr (Kohäsion).
+7. **Build-up 2 / Drop 2 differenzieren (HappyCamper):** aktuell ~identisch zu 1 → „extra dimension". Optionspool: Vocal-Delay · mehr Vocal-Chops · LP-Sweep statt HPF · andere Piano-Voicings · eigene Gesangs-Samples reversed · Sawtooth-Sine-Gegenmelodie. Koppelt an den `[!tip]` in Build-up 2.
+8. **Vocal-Delay am Pre-Chorus/Build-up (HappyCamper):** als eigener Effektmoment testen.
 
 ### Housekeeping
 - Nach dem nächsten Export: **Versions-ID im Header** auf den neuen Bounce setzen (`dembow4_4`?) und die „ab nächstem Bounce"-Status in [[feedback]] auf ✅ bestätigen.
@@ -160,9 +167,10 @@ deins ist es auch, deins ist es auch, deins ist es auch, deins ist es auch
 - **Percussion:** wie Build-up 1
 - **FX:** Riser wie Build-up 1
 
-> [!tip] Piano-Differenzierung zu Build-up 1
+> [!tip] Differenzierung zu Build-up 1 (Feedback HappyCamper: „felt about the same")
 > *A:* Stutter-Cut 32tel-Chops letzter Takt statt Washout (→ Playbook: Stutter-Cut)
 > *B:* wie Build-up 1 — bewusste Wiederholung für Wiedererkennung
+> *Optionspool (HappyCamper):* Vocal-Delay · mehr Vocal-Chops · LP-Sweep statt HPF · andere Piano-Voicings · eigene Gesangs-Samples reversed · Sawtooth-Sine-Gegenmelodie als neue Textur
 
 ---
 
